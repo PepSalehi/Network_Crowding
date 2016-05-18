@@ -1,0 +1,4982 @@
+,arr_time,exit_time,destination,total,arr_time_binned,origin
+0,334,354,South Quay,1,2,513
+1,494,515,South Quay,1,12,513
+2,498,519,South Quay,1,13,513
+3,512,531,South Quay,1,14,513
+4,521,540,South Quay,1,14,513
+5,562,583,South Quay,1,17,513
+6,563,583,South Quay,1,17,513
+7,577,598,South Quay,1,18,513
+8,630,649,South Quay,1,21,513
+9,641,664,South Quay,1,22,644
+10,682,704,South Quay,1,25,513
+11,702,726,South Quay,1,26,644
+12,702,726,South Quay,1,26,644
+13,387,410,South Quay,1,5,513
+14,570,590,South Quay,1,17,644
+15,562,583,South Quay,1,17,513
+16,688,709,South Quay,1,25,513
+17,528,548,South Quay,1,15,513
+18,498,520,South Quay,1,13,513
+19,562,583,South Quay,1,17,513
+20,681,699,South Quay,1,25,513
+21,694,715,South Quay,1,26,513
+22,527,548,South Quay,1,15,513
+23,527,548,South Quay,1,15,513
+24,377,410,South Quay,1,5,644
+25,518,537,South Quay,1,14,513
+26,585,602,South Quay,1,18,644
+27,319,347,South Quay,1,1,513
+28,432,451,South Quay,1,8,513
+29,493,511,South Quay,1,12,513
+30,562,583,South Quay,1,17,513
+31,585,606,South Quay,1,18,513
+32,681,699,South Quay,1,25,513
+33,699,719,South Quay,1,26,513
+34,711,730,South Quay,1,27,644
+35,320,347,South Quay,1,1,513
+36,571,590,South Quay,1,18,513
+37,618,640,South Quay,1,21,644
+38,518,537,South Quay,1,14,513
+39,577,598,South Quay,1,18,513
+40,650,669,South Quay,1,23,644
+41,516,536,South Quay,1,14,513
+42,409,431,South Quay,1,7,513
+43,482,503,South Quay,1,12,513
+44,320,347,South Quay,1,1,513
+45,692,714,South Quay,1,26,644
+46,609,665,South Quay,1,20,644
+47,349,368,Bond Street,1,3,513
+48,419,433,Bond Street,1,7,513
+49,449,464,Bond Street,1,9,513
+50,482,497,Bond Street,1,12,513
+51,486,499,Bond Street,1,12,513
+52,505,518,Bond Street,1,13,513
+53,520,536,Bond Street,1,14,513
+54,528,542,Bond Street,1,15,513
+55,540,553,Bond Street,1,15,513
+56,558,570,Bond Street,1,17,513
+57,585,599,Bond Street,1,18,513
+58,592,605,Bond Street,1,19,513
+59,588,604,Bond Street,1,19,513
+60,599,611,Bond Street,1,19,513
+61,603,618,Bond Street,1,20,513
+62,623,636,Bond Street,1,21,513
+63,619,633,Bond Street,1,21,513
+64,619,633,Bond Street,1,21,513
+65,637,651,Bond Street,1,22,513
+66,639,652,Bond Street,1,22,513
+67,635,651,Bond Street,1,22,513
+68,645,658,Bond Street,1,22,513
+69,645,658,Bond Street,1,22,513
+70,645,658,Bond Street,1,22,513
+71,658,672,Bond Street,1,23,513
+72,680,692,Bond Street,1,25,513
+73,712,724,Bond Street,1,27,513
+74,719,731,Bond Street,1,27,513
+75,717,731,Bond Street,1,27,513
+76,659,671,Bond Street,1,23,513
+77,677,690,Bond Street,1,25,513
+78,487,501,Bond Street,1,12,513
+79,568,582,Bond Street,1,17,513
+80,591,605,Bond Street,1,19,513
+81,618,634,Bond Street,1,21,513
+82,683,697,Bond Street,1,25,513
+83,429,445,Bond Street,1,8,513
+84,596,609,Bond Street,1,19,513
+85,603,617,Bond Street,1,20,513
+86,669,682,Bond Street,1,24,513
+87,425,440,Bond Street,1,8,513
+88,474,495,Bond Street,1,11,644
+89,636,655,Bond Street,1,22,644
+90,693,707,Bond Street,1,26,513
+91,711,724,Bond Street,1,27,513
+92,473,486,Bond Street,1,11,513
+93,587,599,Bond Street,1,19,513
+94,443,459,Bond Street,1,9,513
+95,679,693,Bond Street,1,25,513
+96,588,605,Bond Street,1,19,513
+97,612,623,Bond Street,1,20,513
+98,711,723,Bond Street,1,27,513
+99,482,497,Bond Street,1,12,513
+100,677,690,Bond Street,1,25,513
+101,597,612,Bond Street,1,19,513
+102,519,540,Bond Street,1,14,513
+103,561,575,Bond Street,1,17,513
+104,424,440,Bond Street,1,8,513
+105,480,495,Bond Street,1,11,513
+106,654,666,Bond Street,1,23,513
+107,536,551,Bond Street,1,15,513
+108,659,672,Bond Street,1,23,513
+109,425,440,Bond Street,1,8,513
+110,684,697,Bond Street,1,25,513
+111,613,634,Bond Street,1,20,644
+112,580,594,Bond Street,1,18,513
+113,651,664,Bond Street,1,23,513
+114,684,700,Bond Street,1,25,513
+115,715,729,Bond Street,1,27,513
+116,610,629,Bond Street,1,20,513
+117,657,669,Bond Street,1,23,513
+118,563,581,Bond Street,1,17,513
+119,590,605,Bond Street,1,19,513
+120,635,648,Bond Street,1,22,513
+121,636,652,Bond Street,1,22,513
+122,659,672,Bond Street,1,23,513
+123,696,709,Bond Street,1,26,513
+124,573,586,Bond Street,1,18,513
+125,337,359,Bond Street,1,2,513
+126,449,464,Bond Street,1,9,513
+127,551,563,Bond Street,1,16,513
+128,659,672,Bond Street,1,23,513
+129,497,512,Bond Street,1,13,513
+130,432,444,Bond Street,1,8,513
+131,483,503,Bond Street,1,12,644
+132,601,614,Bond Street,1,20,513
+133,703,717,Bond Street,1,26,513
+134,555,567,Bond Street,1,16,513
+135,572,586,Bond Street,1,18,513
+136,603,618,Bond Street,1,20,513
+137,621,634,Bond Street,1,21,513
+138,474,485,Bond Street,1,11,513
+139,597,611,Bond Street,1,19,513
+140,633,648,Bond Street,1,22,513
+141,651,664,Bond Street,1,23,513
+142,665,681,Bond Street,1,24,513
+143,682,697,Bond Street,1,25,513
+144,532,547,Bond Street,1,15,513
+145,720,734,Bond Street,1,27,513
+146,661,674,Bond Street,1,24,513
+147,602,618,Bond Street,1,20,513
+148,619,633,Bond Street,1,21,513
+149,621,634,Bond Street,1,21,513
+150,522,538,Bond Street,1,14,513
+151,450,464,Bond Street,1,9,513
+152,589,604,Bond Street,1,19,513
+153,711,724,Bond Street,1,27,513
+154,551,563,Bond Street,1,16,513
+155,572,584,Bond Street,1,18,513
+156,706,728,Bond Street,1,27,513
+157,563,578,Bond Street,1,17,513
+158,710,723,Bond Street,1,27,513
+159,541,555,Bond Street,1,16,513
+160,573,587,Bond Street,1,18,513
+161,573,586,Bond Street,1,18,513
+162,515,531,Bond Street,1,14,513
+163,600,615,Bond Street,1,19,513
+164,638,653,Bond Street,1,22,513
+165,687,700,Bond Street,1,25,513
+166,431,445,Bond Street,1,8,513
+167,477,491,Bond Street,1,11,513
+168,640,653,Bond Street,1,22,513
+169,488,502,Bond Street,1,12,513
+170,593,606,Bond Street,1,19,513
+171,688,702,Bond Street,1,25,513
+172,464,480,Bond Street,1,10,513
+173,470,483,Bond Street,1,11,513
+174,477,490,Bond Street,1,11,513
+175,514,528,Bond Street,1,14,513
+176,547,560,Bond Street,1,16,513
+177,576,590,Bond Street,1,18,513
+178,682,696,Bond Street,1,25,513
+179,578,592,Bond Street,1,18,513
+180,667,681,Bond Street,1,24,513
+181,678,692,Bond Street,1,25,513
+182,440,457,Bond Street,1,9,513
+183,587,600,Bond Street,1,19,513
+184,700,715,Bond Street,1,26,513
+185,552,566,Bond Street,1,16,513
+186,626,639,Bond Street,1,21,513
+187,648,662,Bond Street,1,23,513
+188,406,418,Bond Street,1,7,513
+189,509,527,Bond Street,1,13,513
+190,666,681,Bond Street,1,24,513
+191,705,719,Bond Street,1,26,513
+192,638,653,Bond Street,1,22,513
+193,705,719,Bond Street,1,26,513
+194,708,723,Bond Street,1,27,513
+195,461,478,Bond Street,1,10,513
+196,650,662,Bond Street,1,23,513
+197,463,478,Bond Street,1,10,513
+198,444,457,Bond Street,1,9,513
+199,494,507,Bond Street,1,12,513
+200,533,547,Bond Street,1,15,513
+201,634,648,Bond Street,1,22,513
+202,445,459,Bond Street,1,9,513
+203,473,486,Bond Street,1,11,513
+204,472,486,Bond Street,1,11,513
+205,595,609,Bond Street,1,19,513
+206,531,544,Bond Street,1,15,513
+207,506,520,Bond Street,1,13,513
+208,594,608,Bond Street,1,19,513
+209,703,717,Bond Street,1,26,513
+210,509,527,Bond Street,1,13,513
+211,423,438,Bond Street,1,8,513
+212,691,705,Bond Street,1,26,513
+213,554,567,Bond Street,1,16,513
+214,623,637,Bond Street,1,21,513
+215,661,674,Bond Street,1,24,513
+216,545,558,Bond Street,1,16,513
+217,557,571,Bond Street,1,17,513
+218,609,624,Bond Street,1,20,513
+219,593,606,Bond Street,1,19,513
+220,708,723,Bond Street,1,27,513
+221,595,609,Bond Street,1,19,513
+222,600,614,Bond Street,1,19,513
+223,473,486,Bond Street,1,11,513
+224,707,723,Bond Street,1,27,513
+225,504,519,Bond Street,1,13,513
+226,536,548,Bond Street,1,15,513
+227,542,556,Bond Street,1,16,513
+228,588,605,Bond Street,1,19,513
+229,658,671,Bond Street,1,23,513
+230,542,555,Bond Street,1,16,513
+231,655,669,Bond Street,1,23,513
+232,655,669,Bond Street,1,23,513
+233,636,652,Bond Street,1,22,513
+234,631,644,Bond Street,1,22,513
+235,399,414,Bond Street,1,6,513
+236,635,648,Bond Street,1,22,513
+237,666,692,Bond Street,1,24,513
+238,592,605,Bond Street,1,19,513
+239,712,723,Bond Street,1,27,513
+240,496,509,Bond Street,1,13,513
+241,578,592,Bond Street,1,18,513
+242,588,605,Bond Street,1,19,513
+243,358,378,South Kensington,1,3,644
+244,470,502,South Kensington,1,11,513
+245,486,510,South Kensington,1,12,644
+246,503,524,South Kensington,1,13,644
+247,559,589,South Kensington,1,17,644
+248,580,602,South Kensington,1,18,644
+249,672,692,South Kensington,1,24,644
+250,712,732,South Kensington,1,27,644
+251,523,546,South Kensington,1,14,644
+252,443,464,South Kensington,1,9,644
+253,500,520,South Kensington,1,13,644
+254,463,482,South Kensington,1,10,644
+255,580,628,South Kensington,1,18,644
+256,618,639,South Kensington,1,21,644
+257,714,742,South Kensington,1,27,513
+258,620,642,South Kensington,1,21,644
+259,489,509,South Kensington,1,12,644
+260,600,618,South Kensington,1,19,644
+261,609,628,South Kensington,1,20,644
+262,661,685,South Kensington,1,24,513
+263,601,618,South Kensington,1,20,644
+264,613,632,South Kensington,1,20,644
+265,517,538,South Kensington,1,14,644
+266,712,732,South Kensington,1,27,644
+267,506,528,South Kensington,1,13,644
+268,629,654,South Kensington,1,21,644
+269,325,349,South Kensington,1,1,644
+270,376,384,Holborn,1,5,513
+271,430,439,Holborn,1,8,513
+272,438,447,Holborn,1,9,513
+273,495,503,Holborn,1,12,513
+274,500,510,Holborn,1,13,513
+275,506,513,Holborn,1,13,513
+276,509,517,Holborn,1,13,513
+277,509,517,Holborn,1,13,513
+278,516,525,Holborn,1,14,513
+279,528,540,Holborn,1,15,513
+280,536,546,Holborn,1,15,513
+281,540,550,Holborn,1,15,513
+282,548,557,Holborn,1,16,513
+283,548,557,Holborn,1,16,513
+284,558,566,Holborn,1,17,513
+285,562,571,Holborn,1,17,513
+286,573,582,Holborn,1,18,513
+287,585,596,Holborn,1,18,513
+288,615,624,Holborn,1,20,513
+289,632,643,Holborn,1,22,513
+290,654,662,Holborn,1,23,513
+291,663,680,Holborn,1,24,644
+292,668,677,Holborn,1,24,513
+293,679,688,Holborn,1,25,513
+294,672,685,Holborn,1,24,513
+295,683,692,Holborn,1,25,513
+296,703,711,Holborn,1,26,513
+297,710,718,Holborn,1,27,513
+298,710,719,Holborn,1,27,513
+299,715,725,Holborn,1,27,513
+300,716,724,Holborn,1,27,513
+301,711,720,Holborn,1,27,513
+302,619,628,Holborn,1,21,513
+303,571,581,Holborn,1,18,513
+304,464,473,Holborn,1,10,513
+305,604,612,Holborn,1,20,513
+306,698,708,Holborn,1,26,513
+307,447,460,Holborn,1,9,513
+308,675,683,Holborn,1,24,513
+309,510,524,Holborn,1,13,513
+310,524,539,Holborn,1,14,513
+311,539,553,Holborn,1,15,513
+312,605,616,Holborn,1,20,513
+313,650,661,Holborn,1,23,513
+314,490,499,Holborn,1,12,513
+315,580,588,Holborn,1,18,513
+316,660,670,Holborn,1,23,513
+317,539,550,Holborn,1,15,513
+318,565,575,Holborn,1,17,513
+319,457,465,Holborn,1,10,513
+320,529,540,Holborn,1,15,513
+321,430,440,Holborn,1,8,513
+322,551,563,Holborn,1,16,513
+323,499,507,Holborn,1,13,513
+324,674,684,Holborn,1,24,513
+325,709,717,Holborn,1,27,513
+326,605,616,Holborn,1,20,513
+327,704,713,Holborn,1,26,513
+328,713,722,Holborn,1,27,513
+329,496,505,Holborn,1,13,513
+330,502,510,Holborn,1,13,513
+331,376,385,Holborn,1,5,513
+332,556,564,Holborn,1,17,513
+333,592,601,Holborn,1,19,513
+334,599,607,Holborn,1,19,513
+335,650,656,Holborn,1,23,513
+336,657,664,Holborn,1,23,513
+337,425,435,Holborn,1,8,513
+338,539,551,Holborn,1,15,513
+339,611,621,Holborn,1,20,513
+340,710,719,Holborn,1,27,513
+341,617,629,Holborn,1,21,513
+342,662,670,Holborn,1,24,513
+343,437,447,Holborn,1,9,513
+344,531,545,Holborn,1,15,644
+345,612,622,Holborn,1,20,513
+346,681,693,Holborn,1,25,513
+347,679,688,Holborn,1,25,513
+348,495,502,Holborn,1,12,513
+349,644,661,Holborn,1,22,644
+350,527,538,Holborn,1,15,513
+351,582,589,Holborn,1,18,513
+352,681,693,Holborn,1,25,513
+353,692,700,Holborn,1,26,513
+354,568,577,Holborn,1,17,513
+355,645,655,Holborn,1,22,513
+356,657,666,Holborn,1,23,513
+357,451,460,Holborn,1,10,513
+358,549,557,Holborn,1,16,513
+359,708,718,Holborn,1,27,513
+360,412,422,Holborn,1,7,513
+361,507,516,Holborn,1,13,513
+362,551,558,Holborn,1,16,513
+363,710,718,Holborn,1,27,513
+364,683,692,Holborn,1,25,513
+365,467,480,Holborn,1,11,644
+366,555,564,Holborn,1,16,513
+367,608,621,Holborn,1,20,513
+368,638,647,Holborn,1,22,513
+369,444,453,Holborn,1,9,513
+370,609,620,Holborn,1,20,513
+371,473,481,Holborn,1,11,513
+372,516,526,Holborn,1,14,513
+373,583,592,Holborn,1,18,513
+374,670,685,Holborn,1,24,644
+375,478,486,Holborn,1,11,513
+376,586,595,Holborn,1,19,513
+377,681,693,Holborn,1,25,513
+378,624,632,Holborn,1,21,513
+379,511,521,Holborn,1,14,513
+380,541,549,Holborn,1,16,513
+381,537,551,Holborn,1,15,644
+382,588,601,Holborn,1,19,513
+383,523,531,Holborn,1,14,513
+384,524,535,Holborn,1,14,513
+385,602,614,Holborn,1,20,513
+386,706,715,Holborn,1,27,513
+387,647,656,Holborn,1,23,513
+388,474,484,Holborn,1,11,513
+389,472,481,Holborn,1,11,513
+390,504,514,Holborn,1,13,513
+391,507,515,Holborn,1,13,513
+392,520,529,Holborn,1,14,513
+393,527,538,Holborn,1,15,513
+394,554,565,Holborn,1,16,513
+395,681,693,Holborn,1,25,513
+396,542,557,Holborn,1,16,644
+397,518,538,Holborn,1,14,513
+398,636,647,Holborn,1,22,513
+399,607,615,Holborn,1,20,513
+400,588,600,Holborn,1,19,513
+401,512,524,Holborn,1,14,513
+402,608,620,Holborn,1,20,513
+403,540,549,Holborn,1,15,513
+404,636,647,Holborn,1,22,513
+405,692,701,Holborn,1,26,513
+406,717,724,Holborn,1,27,513
+407,509,523,Holborn,1,13,513
+408,547,558,Holborn,1,16,513
+409,573,582,Holborn,1,18,513
+410,575,586,Holborn,1,18,513
+411,707,718,Holborn,1,27,513
+412,539,550,Holborn,1,15,513
+413,550,559,Holborn,1,16,513
+414,447,459,Holborn,1,9,513
+415,504,514,Holborn,1,13,513
+416,719,728,Holborn,1,27,513
+417,510,521,Holborn,1,13,513
+418,542,554,Holborn,1,16,513
+419,559,569,Holborn,1,17,513
+420,579,588,Holborn,1,18,513
+421,506,516,Holborn,1,13,513
+422,637,648,Holborn,1,22,513
+423,518,529,Holborn,1,14,513
+424,702,711,Holborn,1,26,513
+425,425,435,Holborn,1,8,513
+426,540,548,Holborn,1,15,513
+427,605,623,Holborn,1,20,644
+428,619,632,Holborn,1,21,644
+429,563,573,Holborn,1,17,513
+430,637,648,Holborn,1,22,513
+431,562,570,Holborn,1,17,513
+432,579,587,Holborn,1,18,513
+433,679,695,Holborn,1,25,644
+434,619,628,Holborn,1,21,513
+435,526,537,Holborn,1,15,513
+436,687,696,Holborn,1,25,513
+437,498,507,Holborn,1,13,513
+438,713,722,Holborn,1,27,513
+439,523,537,Holborn,1,14,513
+440,700,710,Holborn,1,26,513
+441,594,603,Holborn,1,19,513
+442,483,492,Holborn,1,12,513
+443,532,542,Holborn,1,15,513
+444,689,696,Holborn,1,25,513
+445,543,553,Holborn,1,16,513
+446,479,490,Holborn,1,11,513
+447,561,570,Holborn,1,17,513
+448,701,710,Holborn,1,26,513
+449,628,637,Holborn,1,21,513
+450,517,529,Holborn,1,14,513
+451,619,628,Holborn,1,21,513
+452,376,388,Angel,1,5,513
+453,491,510,Angel,1,12,513
+454,499,514,Angel,1,13,644
+455,501,515,Angel,1,13,513
+456,540,555,Angel,1,15,644
+457,558,572,Angel,1,17,513
+458,579,596,Angel,1,18,644
+459,594,611,Angel,1,19,513
+460,610,623,Angel,1,20,513
+461,621,635,Angel,1,21,513
+462,623,635,Angel,1,21,513
+463,656,671,Angel,1,23,513
+464,663,680,Angel,1,24,644
+465,682,697,Angel,1,25,513
+466,707,724,Angel,1,27,513
+467,713,728,Angel,1,27,513
+468,715,729,Angel,1,27,644
+469,697,710,Angel,1,26,513
+470,537,551,Angel,1,15,513
+471,651,666,Angel,1,23,513
+472,683,697,Angel,1,25,513
+473,580,596,Angel,1,18,644
+474,675,689,Angel,1,24,513
+475,452,468,Angel,1,10,513
+476,543,554,Angel,1,16,513
+477,560,573,Angel,1,17,513
+478,520,535,Angel,1,14,513
+479,422,433,Angel,1,8,513
+480,501,517,Angel,1,13,644
+481,703,719,Angel,1,26,513
+482,604,621,Angel,1,20,513
+483,668,685,Angel,1,24,513
+484,580,592,Angel,1,18,513
+485,513,531,Angel,1,14,513
+486,626,639,Angel,1,21,513
+487,472,485,Angel,1,11,513
+488,643,659,Angel,1,22,513
+489,469,481,Angel,1,11,513
+490,580,593,Angel,1,18,513
+491,626,639,Angel,1,21,513
+492,508,526,Angel,1,13,513
+493,626,639,Angel,1,21,513
+494,440,453,Angel,1,9,513
+495,678,693,Angel,1,25,513
+496,686,698,Angel,1,25,513
+497,505,517,Angel,1,13,644
+498,511,527,Angel,1,14,513
+499,648,661,Angel,1,23,513
+500,557,572,Angel,1,17,513
+501,702,715,Angel,1,26,644
+502,522,536,Angel,1,14,644
+503,425,438,Angel,1,8,513
+504,514,530,Angel,1,14,513
+505,667,678,Angel,1,24,513
+506,694,708,Angel,1,26,644
+507,698,711,Angel,1,26,513
+508,517,534,Angel,1,14,513
+509,546,559,Angel,1,16,513
+510,520,535,Angel,1,14,513
+511,473,490,Angel,1,11,513
+512,534,549,Angel,1,15,644
+513,705,719,Angel,1,26,513
+514,656,670,Angel,1,23,513
+515,647,658,Angel,1,23,513
+516,507,524,Angel,1,13,513
+517,474,486,Angel,1,11,513
+518,720,735,Angel,1,27,513
+519,589,606,Angel,1,19,513
+520,656,670,Angel,1,23,513
+521,562,575,Angel,1,17,513
+522,643,659,Angel,1,22,513
+523,490,503,Angel,1,12,513
+524,550,563,Angel,1,16,513
+525,683,697,Angel,1,25,513
+526,527,542,Angel,1,15,513
+527,615,631,Angel,1,20,513
+528,375,382,Tower Hill,1,4,644
+529,456,460,Tower Hill,1,10,644
+530,518,522,Tower Hill,1,14,644
+531,585,589,Tower Hill,1,18,644
+532,657,661,Tower Hill,1,23,644
+533,708,714,Tower Hill,1,27,644
+534,556,560,Tower Hill,1,17,644
+535,707,714,Tower Hill,1,27,644
+536,544,550,Tower Hill,1,16,644
+537,615,621,Tower Hill,1,20,644
+538,692,696,Tower Hill,1,26,644
+539,457,462,Tower Hill,1,10,644
+540,581,589,Tower Hill,1,18,644
+541,446,451,Tower Hill,1,9,644
+542,570,577,Tower Hill,1,17,644
+543,525,530,Tower Hill,1,14,644
+544,499,502,Tower Hill,1,13,644
+545,597,601,Tower Hill,1,19,644
+546,556,560,Tower Hill,1,17,644
+547,505,509,Tower Hill,1,13,644
+548,643,650,Tower Hill,1,22,644
+549,444,447,Tower Hill,1,9,644
+550,605,609,Tower Hill,1,20,644
+551,704,714,Tower Hill,1,26,644
+552,455,459,Tower Hill,1,10,644
+553,516,520,Tower Hill,1,14,644
+554,462,465,Tower Hill,1,10,644
+555,559,564,Tower Hill,1,17,644
+556,569,574,Tower Hill,1,17,644
+557,653,658,Tower Hill,1,23,644
+558,498,502,Tower Hill,1,13,644
+559,709,720,Tower Hill,1,27,644
+560,479,493,Tower Hill,1,11,644
+561,562,567,Tower Hill,1,17,644
+562,396,403,Tower Hill,1,6,644
+563,599,603,Tower Hill,1,19,644
+564,533,538,Tower Hill,1,15,644
+565,543,547,Tower Hill,1,16,644
+566,528,535,Tower Hill,1,15,644
+567,544,548,Tower Hill,1,16,644
+568,615,621,Tower Hill,1,20,644
+569,656,662,Tower Hill,1,23,644
+570,476,479,Tower Hill,1,11,644
+571,577,585,Tower Hill,1,18,644
+572,520,524,Tower Hill,1,14,644
+573,493,497,Tower Hill,1,12,644
+574,684,692,Tower Hill,1,25,644
+575,553,558,Tower Hill,1,16,644
+576,615,621,Tower Hill,1,20,644
+577,459,463,Tower Hill,1,10,644
+578,505,509,Tower Hill,1,13,644
+579,435,438,Tower Hill,1,8,644
+580,522,527,Tower Hill,1,14,644
+581,558,563,Tower Hill,1,17,644
+582,508,515,Tower Hill,1,13,644
+583,530,536,Tower Hill,1,15,644
+584,486,491,Tower Hill,1,12,644
+585,698,702,Tower Hill,1,26,644
+586,608,619,Tower Hill,1,20,513
+587,446,451,Tower Hill,1,9,644
+588,526,530,Tower Hill,1,15,644
+589,569,575,Tower Hill,1,17,644
+590,569,574,Tower Hill,1,17,644
+591,373,389,Oxford Circus,1,4,513
+592,396,409,Oxford Circus,1,6,513
+593,474,486,Oxford Circus,1,11,513
+594,480,493,Oxford Circus,1,11,513
+595,488,500,Oxford Circus,1,12,513
+596,508,520,Oxford Circus,1,13,513
+597,511,525,Oxford Circus,1,14,513
+598,521,534,Oxford Circus,1,14,513
+599,531,546,Oxford Circus,1,15,513
+600,535,547,Oxford Circus,1,15,513
+601,571,583,Oxford Circus,1,18,513
+602,575,590,Oxford Circus,1,18,513
+603,588,603,Oxford Circus,1,19,513
+604,592,604,Oxford Circus,1,19,513
+605,595,606,Oxford Circus,1,19,513
+606,629,640,Oxford Circus,1,21,513
+607,632,646,Oxford Circus,1,22,513
+608,636,650,Oxford Circus,1,22,513
+609,637,651,Oxford Circus,1,22,513
+610,640,652,Oxford Circus,1,22,513
+611,637,650,Oxford Circus,1,22,513
+612,644,660,Oxford Circus,1,22,513
+613,650,663,Oxford Circus,1,23,513
+614,658,670,Oxford Circus,1,23,513
+615,662,675,Oxford Circus,1,24,513
+616,662,675,Oxford Circus,1,24,513
+617,661,672,Oxford Circus,1,24,513
+618,659,670,Oxford Circus,1,23,513
+619,669,681,Oxford Circus,1,24,513
+620,672,684,Oxford Circus,1,24,513
+621,672,686,Oxford Circus,1,24,513
+622,678,691,Oxford Circus,1,25,513
+623,689,701,Oxford Circus,1,25,513
+624,686,698,Oxford Circus,1,25,513
+625,690,704,Oxford Circus,1,25,513
+626,696,709,Oxford Circus,1,26,513
+627,698,710,Oxford Circus,1,26,513
+628,698,711,Oxford Circus,1,26,513
+629,699,711,Oxford Circus,1,26,513
+630,702,713,Oxford Circus,1,26,513
+631,709,722,Oxford Circus,1,27,513
+632,719,730,Oxford Circus,1,27,513
+633,480,493,Oxford Circus,1,11,513
+634,493,506,Oxford Circus,1,12,513
+635,512,525,Oxford Circus,1,14,513
+636,510,526,Oxford Circus,1,13,513
+637,552,564,Oxford Circus,1,16,513
+638,563,576,Oxford Circus,1,17,513
+639,488,501,Oxford Circus,1,12,513
+640,707,722,Oxford Circus,1,27,644
+641,606,618,Oxford Circus,1,20,513
+642,632,643,Oxford Circus,1,22,513
+643,674,686,Oxford Circus,1,24,513
+644,691,704,Oxford Circus,1,26,513
+645,547,566,Oxford Circus,1,16,644
+646,701,712,Oxford Circus,1,26,513
+647,637,650,Oxford Circus,1,22,513
+648,719,730,Oxford Circus,1,27,513
+649,547,560,Oxford Circus,1,16,513
+650,589,604,Oxford Circus,1,19,513
+651,702,715,Oxford Circus,1,26,513
+652,703,721,Oxford Circus,1,26,644
+653,369,382,Oxford Circus,1,4,513
+654,497,510,Oxford Circus,1,13,513
+655,643,654,Oxford Circus,1,22,513
+656,540,552,Oxford Circus,1,15,513
+657,612,623,Oxford Circus,1,20,513
+658,539,553,Oxford Circus,1,15,513
+659,443,455,Oxford Circus,1,9,513
+660,509,525,Oxford Circus,1,13,513
+661,673,686,Oxford Circus,1,24,513
+662,415,425,Oxford Circus,1,7,513
+663,401,413,Oxford Circus,1,6,513
+664,613,626,Oxford Circus,1,20,513
+665,675,687,Oxford Circus,1,24,513
+666,589,604,Oxford Circus,1,19,513
+667,699,710,Oxford Circus,1,26,513
+668,710,721,Oxford Circus,1,27,513
+669,710,721,Oxford Circus,1,27,513
+670,545,557,Oxford Circus,1,16,513
+671,697,708,Oxford Circus,1,26,513
+672,507,521,Oxford Circus,1,13,513
+673,570,583,Oxford Circus,1,17,513
+674,668,680,Oxford Circus,1,24,513
+675,683,696,Oxford Circus,1,25,513
+676,695,709,Oxford Circus,1,26,513
+677,720,733,Oxford Circus,1,27,513
+678,513,528,Oxford Circus,1,14,513
+679,659,670,Oxford Circus,1,23,513
+680,372,383,Oxford Circus,1,4,513
+681,505,519,Oxford Circus,1,13,513
+682,577,589,Oxford Circus,1,18,513
+683,494,506,Oxford Circus,1,12,513
+684,656,668,Oxford Circus,1,23,513
+685,663,674,Oxford Circus,1,24,513
+686,608,625,Oxford Circus,1,20,644
+687,659,671,Oxford Circus,1,23,513
+688,691,704,Oxford Circus,1,26,513
+689,716,726,Oxford Circus,1,27,513
+690,701,713,Oxford Circus,1,26,513
+691,708,724,Oxford Circus,1,27,644
+692,511,524,Oxford Circus,1,14,513
+693,401,413,Oxford Circus,1,6,513
+694,551,565,Oxford Circus,1,16,513
+695,624,642,Oxford Circus,1,21,644
+696,648,660,Oxford Circus,1,23,513
+697,514,527,Oxford Circus,1,14,513
+698,358,375,Oxford Circus,1,3,644
+699,456,473,Oxford Circus,1,10,644
+700,560,571,Oxford Circus,1,17,513
+701,659,671,Oxford Circus,1,23,513
+702,659,671,Oxford Circus,1,23,513
+703,714,725,Oxford Circus,1,27,513
+704,683,696,Oxford Circus,1,25,513
+705,499,513,Oxford Circus,1,13,513
+706,472,484,Oxford Circus,1,11,513
+707,581,593,Oxford Circus,1,18,513
+708,638,652,Oxford Circus,1,22,513
+709,698,710,Oxford Circus,1,26,513
+710,554,566,Oxford Circus,1,16,513
+711,587,598,Oxford Circus,1,19,513
+712,710,723,Oxford Circus,1,27,513
+713,454,466,Oxford Circus,1,10,513
+714,710,727,Oxford Circus,1,27,644
+715,698,710,Oxford Circus,1,26,513
+716,704,718,Oxford Circus,1,26,513
+717,504,516,Oxford Circus,1,13,513
+718,652,670,Oxford Circus,1,23,644
+719,670,684,Oxford Circus,1,24,513
+720,708,722,Oxford Circus,1,27,513
+721,712,725,Oxford Circus,1,27,513
+722,373,389,Oxford Circus,1,4,513
+723,682,695,Oxford Circus,1,25,513
+724,677,706,Oxford Circus,1,25,513
+725,664,674,Oxford Circus,1,24,513
+726,472,482,Oxford Circus,1,11,513
+727,552,564,Oxford Circus,1,16,513
+728,396,408,Oxford Circus,1,6,513
+729,510,525,Oxford Circus,1,13,513
+730,613,626,Oxford Circus,1,20,513
+731,525,541,Oxford Circus,1,14,513
+732,538,548,Oxford Circus,1,15,513
+733,496,508,Oxford Circus,1,13,513
+734,613,626,Oxford Circus,1,20,513
+735,670,684,Oxford Circus,1,24,513
+736,527,541,Oxford Circus,1,15,513
+737,716,735,Oxford Circus,1,27,644
+738,514,528,Oxford Circus,1,14,513
+739,573,584,Oxford Circus,1,18,513
+740,580,592,Oxford Circus,1,18,513
+741,710,724,Oxford Circus,1,27,644
+742,471,484,Oxford Circus,1,11,513
+743,618,631,Oxford Circus,1,21,513
+744,625,637,Oxford Circus,1,21,513
+745,688,700,Oxford Circus,1,25,513
+746,697,708,Oxford Circus,1,26,513
+747,506,518,Oxford Circus,1,13,513
+748,571,583,Oxford Circus,1,18,513
+749,608,622,Oxford Circus,1,20,513
+750,698,711,Oxford Circus,1,26,513
+751,575,589,Oxford Circus,1,18,513
+752,549,561,Oxford Circus,1,16,513
+753,648,661,Oxford Circus,1,23,513
+754,711,722,Oxford Circus,1,27,513
+755,712,725,Oxford Circus,1,27,513
+756,613,626,Oxford Circus,1,20,513
+757,373,389,Oxford Circus,1,4,513
+758,640,652,Oxford Circus,1,22,513
+759,665,679,Oxford Circus,1,24,513
+760,461,473,Oxford Circus,1,10,513
+761,568,581,Oxford Circus,1,17,513
+762,645,660,Oxford Circus,1,22,644
+763,509,520,Oxford Circus,1,13,513
+764,484,496,Oxford Circus,1,12,513
+765,577,589,Oxford Circus,1,18,513
+766,625,637,Oxford Circus,1,21,513
+767,685,698,Oxford Circus,1,25,513
+768,700,713,Oxford Circus,1,26,513
+769,588,605,Oxford Circus,1,19,513
+770,572,585,Oxford Circus,1,18,513
+771,589,604,Oxford Circus,1,19,513
+772,516,540,Oxford Circus,1,14,644
+773,656,668,Oxford Circus,1,23,513
+774,496,508,Oxford Circus,1,13,513
+775,604,616,Oxford Circus,1,20,513
+776,644,657,Oxford Circus,1,22,513
+777,667,680,Oxford Circus,1,24,513
+778,521,534,Oxford Circus,1,14,513
+779,586,598,Oxford Circus,1,19,513
+780,570,584,Oxford Circus,1,17,513
+781,697,708,Oxford Circus,1,26,513
+782,622,633,Oxford Circus,1,21,513
+783,652,663,Oxford Circus,1,23,513
+784,694,705,Oxford Circus,1,26,513
+785,696,708,Oxford Circus,1,26,513
+786,525,539,Oxford Circus,1,14,513
+787,552,568,Oxford Circus,1,16,644
+788,552,569,Oxford Circus,1,16,644
+789,667,680,Oxford Circus,1,24,513
+790,700,712,Oxford Circus,1,26,513
+791,624,634,Oxford Circus,1,21,513
+792,692,703,Oxford Circus,1,26,513
+793,637,651,Oxford Circus,1,22,513
+794,518,538,Oxford Circus,1,14,513
+795,671,683,Oxford Circus,1,24,513
+796,661,673,Oxford Circus,1,24,513
+797,477,490,Oxford Circus,1,11,513
+798,484,496,Oxford Circus,1,12,513
+799,538,550,Oxford Circus,1,15,513
+800,649,666,Oxford Circus,1,23,644
+801,516,532,Oxford Circus,1,14,513
+802,615,628,Oxford Circus,1,20,513
+803,660,672,Oxford Circus,1,23,513
+804,700,713,Oxford Circus,1,26,513
+805,592,604,Oxford Circus,1,19,513
+806,573,585,Oxford Circus,1,18,513
+807,659,671,Oxford Circus,1,23,513
+808,668,681,Oxford Circus,1,24,513
+809,688,700,Oxford Circus,1,25,513
+810,706,718,Oxford Circus,1,27,513
+811,694,705,Oxford Circus,1,26,513
+812,600,613,Oxford Circus,1,19,513
+813,614,626,Oxford Circus,1,20,513
+814,589,606,Oxford Circus,1,19,513
+815,651,664,Oxford Circus,1,23,513
+816,668,680,Oxford Circus,1,24,513
+817,531,547,Oxford Circus,1,15,513
+818,559,572,Oxford Circus,1,17,513
+819,628,640,Oxford Circus,1,21,513
+820,717,728,Oxford Circus,1,27,513
+821,510,525,Oxford Circus,1,13,513
+822,696,708,Oxford Circus,1,26,513
+823,566,578,Oxford Circus,1,17,513
+824,473,484,Oxford Circus,1,11,513
+825,677,706,Oxford Circus,1,25,513
+826,716,727,Oxford Circus,1,27,513
+827,615,628,Oxford Circus,1,20,513
+828,622,632,Oxford Circus,1,21,513
+829,652,662,Oxford Circus,1,23,513
+830,718,730,Oxford Circus,1,27,513
+831,718,731,Oxford Circus,1,27,513
+832,458,471,Oxford Circus,1,10,513
+833,515,529,Oxford Circus,1,14,513
+834,575,588,Oxford Circus,1,18,513
+835,465,477,Oxford Circus,1,10,513
+836,472,482,Oxford Circus,1,11,513
+837,611,623,Oxford Circus,1,20,513
+838,699,713,Oxford Circus,1,26,513
+839,708,721,Oxford Circus,1,27,513
+840,587,598,Oxford Circus,1,19,513
+841,525,539,Oxford Circus,1,14,513
+842,538,550,Oxford Circus,1,15,513
+843,676,687,Oxford Circus,1,25,513
+844,672,684,Oxford Circus,1,24,513
+845,555,567,Oxford Circus,1,16,513
+846,577,588,Oxford Circus,1,18,513
+847,620,637,Oxford Circus,1,21,644
+848,511,525,Oxford Circus,1,14,513
+849,539,553,Oxford Circus,1,15,513
+850,687,698,Oxford Circus,1,25,513
+851,577,589,Oxford Circus,1,18,513
+852,379,395,Marble Arch,1,5,513
+853,423,438,Marble Arch,1,8,513
+854,457,473,Marble Arch,1,10,513
+855,488,503,Marble Arch,1,12,513
+856,564,579,Marble Arch,1,17,513
+857,580,595,Marble Arch,1,18,513
+858,588,606,Marble Arch,1,19,513
+859,617,629,Marble Arch,1,21,513
+860,623,637,Marble Arch,1,21,513
+861,668,683,Marble Arch,1,24,513
+862,673,686,Marble Arch,1,24,513
+863,668,684,Marble Arch,1,24,513
+864,704,717,Marble Arch,1,26,513
+865,705,721,Marble Arch,1,26,513
+866,711,724,Marble Arch,1,27,513
+867,711,728,Marble Arch,1,27,513
+868,416,434,Marble Arch,1,7,513
+869,538,552,Marble Arch,1,15,513
+870,558,572,Marble Arch,1,17,513
+871,666,682,Marble Arch,1,24,513
+872,701,715,Marble Arch,1,26,513
+873,580,595,Marble Arch,1,18,513
+874,615,630,Marble Arch,1,20,513
+875,655,671,Marble Arch,1,23,513
+876,640,654,Marble Arch,1,22,513
+877,499,513,Marble Arch,1,13,513
+878,552,566,Marble Arch,1,16,513
+879,531,546,Marble Arch,1,15,513
+880,512,529,Marble Arch,1,14,513
+881,457,472,Marble Arch,1,10,513
+882,707,723,Marble Arch,1,27,513
+883,687,701,Marble Arch,1,25,513
+884,674,689,Marble Arch,1,24,513
+885,595,619,Marble Arch,1,19,644
+886,652,666,Marble Arch,1,23,513
+887,682,698,Marble Arch,1,25,513
+888,442,459,Marble Arch,1,9,513
+889,530,545,Marble Arch,1,15,513
+890,377,391,Marble Arch,1,5,513
+891,429,446,Marble Arch,1,8,513
+892,645,659,Marble Arch,1,22,513
+893,709,724,Marble Arch,1,27,513
+894,447,462,Marble Arch,1,9,513
+895,569,583,Marble Arch,1,17,513
+896,530,546,Marble Arch,1,15,513
+897,552,567,Marble Arch,1,16,513
+898,559,575,Marble Arch,1,17,513
+899,498,513,Marble Arch,1,13,513
+900,577,591,Marble Arch,1,18,513
+901,656,670,Marble Arch,1,23,513
+902,640,654,Marble Arch,1,22,513
+903,515,532,Marble Arch,1,14,513
+904,465,479,Marble Arch,1,10,513
+905,709,724,Marble Arch,1,27,513
+906,693,708,Marble Arch,1,26,513
+907,636,653,Marble Arch,1,22,513
+908,631,645,Marble Arch,1,22,513
+909,656,670,Marble Arch,1,23,513
+910,371,396,White City,1,4,513
+911,442,469,White City,1,9,513
+912,449,476,White City,1,9,513
+913,463,489,White City,1,10,513
+914,516,545,White City,1,14,513
+915,574,608,White City,1,18,644
+916,517,549,White City,1,14,513
+917,623,648,White City,1,21,513
+918,560,587,White City,1,17,513
+919,531,558,White City,1,15,513
+920,591,623,White City,1,19,644
+921,532,558,White City,1,15,513
+922,475,500,White City,1,11,513
+923,520,550,White City,1,14,513
+924,537,562,White City,1,15,513
+925,501,529,White City,1,13,513
+926,472,499,White City,1,11,513
+927,431,458,White City,1,8,513
+928,496,522,White City,1,13,513
+929,635,663,White City,1,22,513
+930,446,472,White City,1,9,513
+931,604,629,White City,1,20,513
+932,481,515,White City,1,12,644
+933,472,499,White City,1,11,513
+934,450,478,White City,1,9,513
+935,664,688,White City,1,24,513
+936,472,496,White City,1,11,513
+937,386,395,Aldgate East,1,5,644
+938,399,408,Aldgate East,1,6,644
+939,439,448,Aldgate East,1,9,644
+940,459,466,Aldgate East,1,10,644
+941,472,477,Aldgate East,1,11,644
+942,484,490,Aldgate East,1,12,644
+943,489,497,Aldgate East,1,12,644
+944,493,499,Aldgate East,1,12,644
+945,501,509,Aldgate East,1,13,644
+946,517,526,Aldgate East,1,14,644
+947,516,526,Aldgate East,1,14,644
+948,521,528,Aldgate East,1,14,644
+949,535,545,Aldgate East,1,15,644
+950,545,552,Aldgate East,1,16,644
+951,557,571,Aldgate East,1,17,644
+952,558,571,Aldgate East,1,17,644
+953,589,597,Aldgate East,1,19,644
+954,618,627,Aldgate East,1,21,644
+955,618,627,Aldgate East,1,21,644
+956,692,698,Aldgate East,1,26,644
+957,693,699,Aldgate East,1,26,644
+958,710,721,Aldgate East,1,27,644
+959,718,725,Aldgate East,1,27,644
+960,525,533,Aldgate East,1,14,644
+961,508,519,Aldgate East,1,13,644
+962,672,679,Aldgate East,1,24,644
+963,432,442,Aldgate East,1,8,644
+964,706,726,Aldgate East,1,27,513
+965,529,538,Aldgate East,1,15,644
+966,436,444,Aldgate East,1,9,644
+967,408,414,Aldgate East,1,7,644
+968,549,558,Aldgate East,1,16,644
+969,483,490,Aldgate East,1,12,644
+970,487,494,Aldgate East,1,12,644
+971,558,571,Aldgate East,1,17,644
+972,548,554,Aldgate East,1,16,644
+973,497,506,Aldgate East,1,13,644
+974,524,532,Aldgate East,1,14,644
+975,565,574,Aldgate East,1,17,644
+976,697,720,Aldgate East,1,26,513
+977,500,508,Aldgate East,1,13,644
+978,587,594,Aldgate East,1,19,644
+979,444,452,Aldgate East,1,9,644
+980,641,648,Aldgate East,1,22,644
+981,573,580,Aldgate East,1,18,644
+982,602,613,Aldgate East,1,20,644
+983,565,574,Aldgate East,1,17,644
+984,644,660,Aldgate East,1,22,644
+985,523,531,Aldgate East,1,14,644
+986,547,555,Aldgate East,1,16,644
+987,611,620,Aldgate East,1,20,644
+988,557,568,Aldgate East,1,17,644
+989,631,639,Aldgate East,1,22,644
+990,556,568,Aldgate East,1,17,644
+991,527,538,Aldgate East,1,15,644
+992,544,550,Aldgate East,1,16,644
+993,521,528,Aldgate East,1,14,644
+994,537,545,Aldgate East,1,15,644
+995,471,477,Aldgate East,1,11,644
+996,455,464,Aldgate East,1,10,644
+997,509,518,Aldgate East,1,13,644
+998,718,725,Aldgate East,1,27,644
+999,548,555,Aldgate East,1,16,644
+1000,576,585,Aldgate East,1,18,644
+1001,427,438,Aldgate East,1,8,644
+1002,530,538,Aldgate East,1,15,644
+1003,459,466,Aldgate East,1,10,644
+1004,483,490,Aldgate East,1,12,644
+1005,697,720,Aldgate East,1,26,513
+1006,527,538,Aldgate East,1,15,644
+1007,577,594,Aldgate East,1,18,644
+1008,500,508,Aldgate East,1,13,644
+1009,592,604,Aldgate East,1,19,644
+1010,699,722,Aldgate East,1,26,513
+1011,708,722,Aldgate East,1,27,644
+1012,401,408,Chancery Lane,1,6,513
+1013,441,451,Chancery Lane,1,9,513
+1014,468,476,Chancery Lane,1,11,513
+1015,473,480,Chancery Lane,1,11,513
+1016,487,496,Chancery Lane,1,12,513
+1017,490,497,Chancery Lane,1,12,513
+1018,494,502,Chancery Lane,1,12,513
+1019,501,508,Chancery Lane,1,13,513
+1020,521,530,Chancery Lane,1,14,513
+1021,522,531,Chancery Lane,1,14,513
+1022,528,536,Chancery Lane,1,15,513
+1023,537,544,Chancery Lane,1,15,513
+1024,537,544,Chancery Lane,1,15,513
+1025,538,546,Chancery Lane,1,15,513
+1026,559,567,Chancery Lane,1,17,513
+1027,562,569,Chancery Lane,1,17,513
+1028,560,570,Chancery Lane,1,17,513
+1029,565,579,Chancery Lane,1,17,644
+1030,578,584,Chancery Lane,1,18,513
+1031,580,588,Chancery Lane,1,18,513
+1032,583,591,Chancery Lane,1,18,513
+1033,590,598,Chancery Lane,1,19,513
+1034,590,598,Chancery Lane,1,19,513
+1035,585,603,Chancery Lane,1,18,513
+1036,595,601,Chancery Lane,1,19,513
+1037,601,608,Chancery Lane,1,20,513
+1038,603,612,Chancery Lane,1,20,513
+1039,621,628,Chancery Lane,1,21,513
+1040,623,630,Chancery Lane,1,21,513
+1041,634,641,Chancery Lane,1,22,513
+1042,658,666,Chancery Lane,1,23,513
+1043,665,674,Chancery Lane,1,24,513
+1044,673,682,Chancery Lane,1,24,513
+1045,697,704,Chancery Lane,1,26,513
+1046,710,717,Chancery Lane,1,27,513
+1047,551,561,Chancery Lane,1,16,513
+1048,581,588,Chancery Lane,1,18,513
+1049,525,534,Chancery Lane,1,14,513
+1050,461,467,Chancery Lane,1,10,513
+1051,691,698,Chancery Lane,1,26,513
+1052,531,539,Chancery Lane,1,15,513
+1053,538,544,Chancery Lane,1,15,513
+1054,541,549,Chancery Lane,1,16,513
+1055,458,466,Chancery Lane,1,10,513
+1056,534,543,Chancery Lane,1,15,513
+1057,554,561,Chancery Lane,1,16,513
+1058,629,636,Chancery Lane,1,21,513
+1059,509,520,Chancery Lane,1,13,513
+1060,513,522,Chancery Lane,1,14,513
+1061,514,528,Chancery Lane,1,14,644
+1062,717,723,Chancery Lane,1,27,513
+1063,460,468,Chancery Lane,1,10,513
+1064,483,490,Chancery Lane,1,12,513
+1065,566,579,Chancery Lane,1,17,644
+1066,530,538,Chancery Lane,1,15,513
+1067,539,545,Chancery Lane,1,15,513
+1068,692,722,Chancery Lane,1,26,513
+1069,539,546,Chancery Lane,1,15,513
+1070,677,684,Chancery Lane,1,25,513
+1071,560,567,Chancery Lane,1,17,513
+1072,684,692,Chancery Lane,1,25,513
+1073,504,509,Chancery Lane,1,13,513
+1074,490,498,Chancery Lane,1,12,513
+1075,544,551,Chancery Lane,1,16,513
+1076,718,726,Chancery Lane,1,27,513
+1077,627,634,Chancery Lane,1,21,513
+1078,456,463,Chancery Lane,1,10,513
+1079,505,512,Chancery Lane,1,13,513
+1080,518,528,Chancery Lane,1,14,513
+1081,471,478,Chancery Lane,1,11,513
+1082,527,538,Chancery Lane,1,15,513
+1083,535,542,Chancery Lane,1,15,513
+1084,704,711,Chancery Lane,1,26,513
+1085,511,520,Chancery Lane,1,14,513
+1086,574,580,Chancery Lane,1,18,513
+1087,594,601,Chancery Lane,1,19,513
+1088,450,458,Chancery Lane,1,9,513
+1089,627,636,Chancery Lane,1,21,513
+1090,459,466,Chancery Lane,1,10,513
+1091,585,593,Chancery Lane,1,18,513
+1092,610,618,Chancery Lane,1,20,513
+1093,617,626,Chancery Lane,1,21,513
+1094,683,690,Chancery Lane,1,25,513
+1095,720,728,Chancery Lane,1,27,513
+1096,720,729,Chancery Lane,1,27,513
+1097,535,542,Chancery Lane,1,15,513
+1098,597,606,Chancery Lane,1,19,513
+1099,511,520,Chancery Lane,1,14,513
+1100,509,516,Chancery Lane,1,13,513
+1101,520,527,Chancery Lane,1,14,513
+1102,534,542,Chancery Lane,1,15,513
+1103,639,646,Chancery Lane,1,22,513
+1104,684,691,Chancery Lane,1,25,513
+1105,703,711,Chancery Lane,1,26,513
+1106,607,613,Chancery Lane,1,20,513
+1107,558,565,Chancery Lane,1,17,513
+1108,575,584,Chancery Lane,1,18,513
+1109,597,606,Chancery Lane,1,19,513
+1110,685,691,Chancery Lane,1,25,513
+1111,538,545,Chancery Lane,1,15,513
+1112,554,561,Chancery Lane,1,16,513
+1113,611,618,Chancery Lane,1,20,513
+1114,529,536,Chancery Lane,1,15,513
+1115,558,567,Chancery Lane,1,17,513
+1116,567,576,Chancery Lane,1,17,513
+1117,487,500,Chancery Lane,1,12,644
+1118,459,466,Chancery Lane,1,10,513
+1119,551,560,Chancery Lane,1,16,513
+1120,700,709,Chancery Lane,1,26,513
+1121,515,521,Chancery Lane,1,14,513
+1122,572,579,Chancery Lane,1,18,513
+1123,619,627,Chancery Lane,1,21,513
+1124,704,711,Chancery Lane,1,26,513
+1125,515,524,Chancery Lane,1,14,513
+1126,681,689,Chancery Lane,1,25,513
+1127,704,710,Chancery Lane,1,26,513
+1128,641,649,Chancery Lane,1,22,513
+1129,666,675,Chancery Lane,1,24,513
+1130,705,714,Chancery Lane,1,26,513
+1131,489,496,Chancery Lane,1,12,513
+1132,463,474,Chancery Lane,1,10,513
+1133,535,542,Chancery Lane,1,15,513
+1134,690,698,Chancery Lane,1,25,513
+1135,471,478,Chancery Lane,1,11,513
+1136,563,579,Chancery Lane,1,17,644
+1137,455,463,Chancery Lane,1,10,513
+1138,445,452,Chancery Lane,1,9,513
+1139,690,699,Chancery Lane,1,25,513
+1140,515,527,Chancery Lane,1,14,513
+1141,522,532,Chancery Lane,1,14,513
+1142,670,679,Chancery Lane,1,24,513
+1143,517,524,Chancery Lane,1,14,513
+1144,530,538,Chancery Lane,1,15,513
+1145,560,570,Chancery Lane,1,17,513
+1146,489,496,Chancery Lane,1,12,513
+1147,511,520,Chancery Lane,1,14,513
+1148,709,717,Chancery Lane,1,27,513
+1149,564,571,Chancery Lane,1,17,513
+1150,638,646,Chancery Lane,1,22,513
+1151,537,544,Chancery Lane,1,15,513
+1152,627,633,Chancery Lane,1,21,513
+1153,500,508,Chancery Lane,1,13,513
+1154,483,492,Chancery Lane,1,12,513
+1155,536,543,Chancery Lane,1,15,513
+1156,719,734,Chancery Lane,1,27,644
+1157,541,556,Chancery Lane,1,16,644
+1158,576,585,Chancery Lane,1,18,513
+1159,472,478,Chancery Lane,1,11,513
+1160,472,478,Chancery Lane,1,11,513
+1161,485,493,Chancery Lane,1,12,513
+1162,552,560,Chancery Lane,1,16,513
+1163,587,599,Chancery Lane,1,19,513
+1164,491,499,Chancery Lane,1,12,513
+1165,526,536,Chancery Lane,1,15,513
+1166,629,635,Chancery Lane,1,21,513
+1167,516,524,Chancery Lane,1,14,513
+1168,677,684,Chancery Lane,1,25,513
+1169,695,704,Chancery Lane,1,26,513
+1170,644,652,Chancery Lane,1,22,513
+1171,698,706,Chancery Lane,1,26,513
+1172,497,505,Chancery Lane,1,13,513
+1173,511,520,Chancery Lane,1,14,513
+1174,453,460,Chancery Lane,1,10,513
+1175,707,717,Chancery Lane,1,27,513
+1176,485,493,Chancery Lane,1,12,513
+1177,558,565,Chancery Lane,1,17,513
+1178,649,655,Chancery Lane,1,23,513
+1179,691,699,Chancery Lane,1,26,513
+1180,509,516,Chancery Lane,1,13,513
+1181,639,646,Chancery Lane,1,22,513
+1182,487,495,Chancery Lane,1,12,513
+1183,570,578,Chancery Lane,1,17,513
+1184,647,654,Chancery Lane,1,23,513
+1185,555,562,Chancery Lane,1,16,513
+1186,562,572,Chancery Lane,1,17,513
+1187,708,717,Chancery Lane,1,27,513
+1188,466,474,Chancery Lane,1,11,513
+1189,583,591,Chancery Lane,1,18,513
+1190,589,599,Chancery Lane,1,19,513
+1191,716,723,Chancery Lane,1,27,513
+1192,719,734,Chancery Lane,1,27,644
+1193,677,684,Chancery Lane,1,25,513
+1194,601,608,Chancery Lane,1,20,513
+1195,344,354,Chancery Lane,1,2,513
+1196,543,552,Chancery Lane,1,16,513
+1197,651,659,Chancery Lane,1,23,513
+1198,668,676,Chancery Lane,1,24,513
+1199,403,413,Chancery Lane,1,6,513
+1200,512,519,Chancery Lane,1,14,513
+1201,567,576,Chancery Lane,1,17,513
+1202,577,584,Chancery Lane,1,18,513
+1203,495,501,Chancery Lane,1,12,513
+1204,646,654,Chancery Lane,1,23,513
+1205,546,555,Chancery Lane,1,16,513
+1206,475,485,Chancery Lane,1,11,513
+1207,531,541,Chancery Lane,1,15,513
+1208,605,612,Chancery Lane,1,20,513
+1209,692,722,Chancery Lane,1,26,513
+1210,549,558,Chancery Lane,1,16,513
+1211,628,633,Chancery Lane,1,21,513
+1212,698,704,Chancery Lane,1,26,513
+1213,637,645,Chancery Lane,1,22,513
+1214,488,495,Chancery Lane,1,12,513
+1215,487,495,Chancery Lane,1,12,513
+1216,557,564,Chancery Lane,1,17,513
+1217,630,637,Chancery Lane,1,21,513
+1218,490,497,Chancery Lane,1,12,513
+1219,446,454,Chancery Lane,1,9,513
+1220,513,519,Chancery Lane,1,14,513
+1221,511,520,Chancery Lane,1,14,513
+1222,678,684,Chancery Lane,1,25,513
+1223,512,522,Chancery Lane,1,14,513
+1224,541,548,Chancery Lane,1,16,513
+1225,718,726,Chancery Lane,1,27,513
+1226,492,499,Chancery Lane,1,12,513
+1227,489,496,Chancery Lane,1,12,513
+1228,500,508,Chancery Lane,1,13,513
+1229,548,557,Chancery Lane,1,16,513
+1230,555,562,Chancery Lane,1,16,513
+1231,641,649,Chancery Lane,1,22,513
+1232,644,652,Chancery Lane,1,22,513
+1233,669,679,Chancery Lane,1,24,513
+1234,540,548,Chancery Lane,1,15,513
+1235,490,497,Chancery Lane,1,12,513
+1236,495,501,Chancery Lane,1,12,513
+1237,477,485,Chancery Lane,1,11,513
+1238,584,591,Chancery Lane,1,18,513
+1239,582,591,Chancery Lane,1,18,513
+1240,571,578,Chancery Lane,1,18,513
+1241,453,460,Chancery Lane,1,10,513
+1242,643,649,Chancery Lane,1,22,513
+1243,691,698,Chancery Lane,1,26,513
+1244,551,558,Chancery Lane,1,16,513
+1245,575,584,Chancery Lane,1,18,513
+1246,610,618,Chancery Lane,1,20,513
+1247,497,503,Chancery Lane,1,13,513
+1248,379,405,North Greenwich,1,5,513
+1249,671,688,North Greenwich,1,24,644
+1250,705,723,North Greenwich,1,26,644
+1251,706,727,North Greenwich,1,27,644
+1252,447,463,North Greenwich,1,9,513
+1253,399,405,Liverpool Street,1,6,513
+1254,405,411,Liverpool Street,1,6,513
+1255,407,416,Liverpool Street,1,7,513
+1256,408,416,Liverpool Street,1,7,513
+1257,421,424,Liverpool Street,1,8,513
+1258,429,435,Liverpool Street,1,8,513
+1259,437,443,Liverpool Street,1,9,513
+1260,457,464,Liverpool Street,1,10,513
+1261,464,469,Liverpool Street,1,10,513
+1262,467,473,Liverpool Street,1,11,513
+1263,468,473,Liverpool Street,1,11,513
+1264,480,484,Liverpool Street,1,11,513
+1265,483,489,Liverpool Street,1,12,513
+1266,490,496,Liverpool Street,1,12,513
+1267,496,500,Liverpool Street,1,13,513
+1268,497,504,Liverpool Street,1,13,513
+1269,501,505,Liverpool Street,1,13,513
+1270,500,505,Liverpool Street,1,13,513
+1271,498,505,Liverpool Street,1,13,513
+1272,505,510,Liverpool Street,1,13,513
+1273,502,508,Liverpool Street,1,13,513
+1274,517,523,Liverpool Street,1,14,513
+1275,522,527,Liverpool Street,1,14,513
+1276,522,528,Liverpool Street,1,14,513
+1277,528,533,Liverpool Street,1,15,513
+1278,542,546,Liverpool Street,1,16,513
+1279,539,546,Liverpool Street,1,15,513
+1280,545,552,Liverpool Street,1,16,513
+1281,546,552,Liverpool Street,1,16,513
+1282,547,552,Liverpool Street,1,16,513
+1283,544,552,Liverpool Street,1,16,513
+1284,551,556,Liverpool Street,1,16,513
+1285,554,558,Liverpool Street,1,16,513
+1286,560,566,Liverpool Street,1,17,513
+1287,564,568,Liverpool Street,1,17,513
+1288,565,570,Liverpool Street,1,17,513
+1289,572,577,Liverpool Street,1,18,513
+1290,574,579,Liverpool Street,1,18,513
+1291,577,581,Liverpool Street,1,18,513
+1292,580,584,Liverpool Street,1,18,513
+1293,588,592,Liverpool Street,1,19,513
+1294,585,591,Liverpool Street,1,18,513
+1295,592,596,Liverpool Street,1,19,513
+1296,605,615,Liverpool Street,1,20,513
+1297,637,647,Liverpool Street,1,22,644
+1298,651,655,Liverpool Street,1,23,513
+1299,654,658,Liverpool Street,1,23,513
+1300,675,680,Liverpool Street,1,24,513
+1301,681,686,Liverpool Street,1,25,513
+1302,700,703,Liverpool Street,1,26,513
+1303,714,718,Liverpool Street,1,27,513
+1304,705,718,Liverpool Street,1,26,644
+1305,715,719,Liverpool Street,1,27,513
+1306,714,719,Liverpool Street,1,27,513
+1307,534,539,Liverpool Street,1,15,513
+1308,506,514,Liverpool Street,1,13,513
+1309,584,591,Liverpool Street,1,18,513
+1310,502,509,Liverpool Street,1,13,513
+1311,501,506,Liverpool Street,1,13,513
+1312,600,604,Liverpool Street,1,19,513
+1313,681,686,Liverpool Street,1,25,513
+1314,471,476,Liverpool Street,1,11,513
+1315,490,498,Liverpool Street,1,12,513
+1316,676,686,Liverpool Street,1,25,644
+1317,607,615,Liverpool Street,1,20,513
+1318,439,447,Liverpool Street,1,9,513
+1319,514,521,Liverpool Street,1,14,513
+1320,522,527,Liverpool Street,1,14,513
+1321,529,533,Liverpool Street,1,15,513
+1322,543,552,Liverpool Street,1,16,513
+1323,558,562,Liverpool Street,1,17,513
+1324,620,624,Liverpool Street,1,21,513
+1325,670,680,Liverpool Street,1,24,644
+1326,704,709,Liverpool Street,1,26,513
+1327,528,533,Liverpool Street,1,15,513
+1328,538,542,Liverpool Street,1,15,513
+1329,585,591,Liverpool Street,1,18,513
+1330,534,539,Liverpool Street,1,15,513
+1331,698,718,Liverpool Street,1,26,644
+1332,532,536,Liverpool Street,1,15,513
+1333,461,468,Liverpool Street,1,10,513
+1334,539,542,Liverpool Street,1,15,513
+1335,590,594,Liverpool Street,1,19,513
+1336,693,698,Liverpool Street,1,26,513
+1337,532,536,Liverpool Street,1,15,513
+1338,540,546,Liverpool Street,1,15,513
+1339,546,552,Liverpool Street,1,16,513
+1340,530,536,Liverpool Street,1,15,513
+1341,717,722,Liverpool Street,1,27,513
+1342,662,667,Liverpool Street,1,24,513
+1343,488,498,Liverpool Street,1,12,513
+1344,452,458,Liverpool Street,1,10,513
+1345,537,543,Liverpool Street,1,15,513
+1346,440,446,Liverpool Street,1,9,513
+1347,532,536,Liverpool Street,1,15,513
+1348,411,416,Liverpool Street,1,7,513
+1349,563,568,Liverpool Street,1,17,513
+1350,468,473,Liverpool Street,1,11,513
+1351,655,662,Liverpool Street,1,23,513
+1352,481,484,Liverpool Street,1,12,513
+1353,533,537,Liverpool Street,1,15,513
+1354,479,484,Liverpool Street,1,11,513
+1355,481,486,Liverpool Street,1,12,513
+1356,536,539,Liverpool Street,1,15,513
+1357,477,483,Liverpool Street,1,11,513
+1358,510,515,Liverpool Street,1,13,513
+1359,521,527,Liverpool Street,1,14,513
+1360,520,528,Liverpool Street,1,14,513
+1361,621,626,Liverpool Street,1,21,513
+1362,609,627,Liverpool Street,1,20,644
+1363,690,696,Liverpool Street,1,25,513
+1364,698,703,Liverpool Street,1,26,513
+1365,448,452,Liverpool Street,1,9,513
+1366,433,441,Liverpool Street,1,8,644
+1367,490,495,Liverpool Street,1,12,513
+1368,494,498,Liverpool Street,1,12,513
+1369,535,539,Liverpool Street,1,15,513
+1370,558,562,Liverpool Street,1,17,513
+1371,583,592,Liverpool Street,1,18,513
+1372,402,410,Liverpool Street,1,6,513
+1373,528,533,Liverpool Street,1,15,513
+1374,349,367,Liverpool Street,1,3,644
+1375,401,405,Liverpool Street,1,6,513
+1376,470,476,Liverpool Street,1,11,513
+1377,512,517,Liverpool Street,1,14,513
+1378,513,521,Liverpool Street,1,14,513
+1379,475,480,Liverpool Street,1,11,513
+1380,483,489,Liverpool Street,1,12,513
+1381,486,490,Liverpool Street,1,12,513
+1382,570,574,Liverpool Street,1,17,513
+1383,672,677,Liverpool Street,1,24,513
+1384,486,490,Liverpool Street,1,12,513
+1385,516,521,Liverpool Street,1,14,513
+1386,437,443,Liverpool Street,1,9,513
+1387,529,534,Liverpool Street,1,15,513
+1388,536,542,Liverpool Street,1,15,513
+1389,468,473,Liverpool Street,1,11,513
+1390,512,518,Liverpool Street,1,14,513
+1391,632,639,Liverpool Street,1,22,513
+1392,707,711,Liverpool Street,1,27,513
+1393,473,478,Liverpool Street,1,11,513
+1394,504,507,Liverpool Street,1,13,513
+1395,473,476,Liverpool Street,1,11,513
+1396,635,640,Liverpool Street,1,22,513
+1397,563,570,Liverpool Street,1,17,513
+1398,435,449,Liverpool Street,1,8,513
+1399,498,505,Liverpool Street,1,13,513
+1400,515,520,Liverpool Street,1,14,513
+1401,520,523,Liverpool Street,1,14,513
+1402,620,624,Liverpool Street,1,21,513
+1403,560,566,Liverpool Street,1,17,513
+1404,577,581,Liverpool Street,1,18,513
+1405,716,721,Liverpool Street,1,27,513
+1406,699,704,Liverpool Street,1,26,513
+1407,508,513,Liverpool Street,1,13,513
+1408,560,566,Liverpool Street,1,17,513
+1409,651,655,Liverpool Street,1,23,513
+1410,677,680,Liverpool Street,1,25,513
+1411,449,452,Liverpool Street,1,9,513
+1412,500,505,Liverpool Street,1,13,513
+1413,552,556,Liverpool Street,1,16,513
+1414,433,437,Liverpool Street,1,8,513
+1415,532,536,Liverpool Street,1,15,513
+1416,492,499,Liverpool Street,1,12,513
+1417,454,458,Liverpool Street,1,10,513
+1418,499,505,Liverpool Street,1,13,513
+1419,541,546,Liverpool Street,1,16,513
+1420,584,591,Liverpool Street,1,18,513
+1421,421,425,Liverpool Street,1,8,513
+1422,564,570,Liverpool Street,1,17,513
+1423,537,543,Liverpool Street,1,15,513
+1424,549,556,Liverpool Street,1,16,513
+1425,432,437,Liverpool Street,1,8,513
+1426,542,547,Liverpool Street,1,16,513
+1427,564,568,Liverpool Street,1,17,513
+1428,671,683,Liverpool Street,1,24,644
+1429,420,424,Liverpool Street,1,7,513
+1430,536,539,Liverpool Street,1,15,513
+1431,700,711,Liverpool Street,1,26,644
+1432,426,431,Liverpool Street,1,8,513
+1433,503,508,Liverpool Street,1,13,513
+1434,661,668,Liverpool Street,1,24,513
+1435,493,498,Liverpool Street,1,12,513
+1436,670,727,Liverpool Street,1,24,644
+1437,496,500,Liverpool Street,1,13,513
+1438,488,493,Liverpool Street,1,12,513
+1439,584,592,Liverpool Street,1,18,513
+1440,637,640,Liverpool Street,1,22,513
+1441,475,480,Liverpool Street,1,11,513
+1442,503,508,Liverpool Street,1,13,513
+1443,541,547,Liverpool Street,1,16,513
+1444,576,580,Liverpool Street,1,18,513
+1445,448,452,Liverpool Street,1,9,513
+1446,507,513,Liverpool Street,1,13,513
+1447,510,514,Liverpool Street,1,13,513
+1448,532,536,Liverpool Street,1,15,513
+1449,558,562,Liverpool Street,1,17,513
+1450,590,594,Liverpool Street,1,19,513
+1451,665,669,Liverpool Street,1,24,513
+1452,677,680,Liverpool Street,1,25,513
+1453,502,506,Liverpool Street,1,13,513
+1454,694,698,Liverpool Street,1,26,513
+1455,525,530,Liverpool Street,1,14,513
+1456,541,546,Liverpool Street,1,16,513
+1457,616,624,Liverpool Street,1,21,513
+1458,547,552,Liverpool Street,1,16,513
+1459,596,601,Liverpool Street,1,19,513
+1460,453,458,Liverpool Street,1,10,513
+1461,532,537,Liverpool Street,1,15,513
+1462,482,486,Liverpool Street,1,12,513
+1463,484,490,Liverpool Street,1,12,513
+1464,511,516,Liverpool Street,1,14,513
+1465,588,593,Liverpool Street,1,19,513
+1466,588,593,Liverpool Street,1,19,513
+1467,487,493,Liverpool Street,1,12,513
+1468,524,530,Liverpool Street,1,14,513
+1469,530,535,Liverpool Street,1,15,513
+1470,532,536,Liverpool Street,1,15,513
+1471,530,537,Liverpool Street,1,15,513
+1472,408,415,Liverpool Street,1,7,513
+1473,690,696,Liverpool Street,1,25,513
+1474,530,534,Liverpool Street,1,15,513
+1475,492,499,Liverpool Street,1,12,513
+1476,496,505,Liverpool Street,1,13,513
+1477,572,577,Liverpool Street,1,18,513
+1478,571,577,Liverpool Street,1,18,513
+1479,585,591,Liverpool Street,1,18,513
+1480,653,658,Liverpool Street,1,23,513
+1481,472,476,Liverpool Street,1,11,513
+1482,511,515,Liverpool Street,1,14,513
+1483,531,537,Liverpool Street,1,15,513
+1484,557,562,Liverpool Street,1,17,513
+1485,558,563,Liverpool Street,1,17,513
+1486,516,521,Liverpool Street,1,14,513
+1487,584,591,Liverpool Street,1,18,513
+1488,478,483,Liverpool Street,1,11,513
+1489,555,559,Liverpool Street,1,16,513
+1490,438,443,Liverpool Street,1,9,513
+1491,395,402,Liverpool Street,1,6,513
+1492,609,615,Liverpool Street,1,20,513
+1493,480,483,Liverpool Street,1,11,513
+1494,533,538,Liverpool Street,1,15,513
+1495,558,562,Liverpool Street,1,17,513
+1496,695,707,Liverpool Street,1,26,644
+1497,462,468,Liverpool Street,1,10,513
+1498,462,468,Liverpool Street,1,10,513
+1499,473,476,Liverpool Street,1,11,513
+1500,472,477,Liverpool Street,1,11,513
+1501,383,389,Liverpool Street,1,5,513
+1502,479,482,Liverpool Street,1,11,513
+1503,502,510,Liverpool Street,1,13,513
+1504,529,533,Liverpool Street,1,15,513
+1505,707,741,Liverpool Street,1,27,513
+1506,468,477,Liverpool Street,1,11,513
+1507,454,458,Liverpool Street,1,10,513
+1508,438,443,Liverpool Street,1,9,513
+1509,465,472,Liverpool Street,1,10,513
+1510,483,489,Liverpool Street,1,12,513
+1511,517,521,Liverpool Street,1,14,513
+1512,512,518,Liverpool Street,1,14,513
+1513,564,568,Liverpool Street,1,17,513
+1514,685,690,Liverpool Street,1,25,513
+1515,597,601,Liverpool Street,1,19,513
+1516,543,547,Liverpool Street,1,16,513
+1517,455,464,Liverpool Street,1,10,513
+1518,465,473,Liverpool Street,1,10,513
+1519,658,669,Liverpool Street,1,23,644
+1520,480,484,Liverpool Street,1,11,513
+1521,525,530,Liverpool Street,1,14,513
+1522,707,711,Liverpool Street,1,27,513
+1523,538,542,Liverpool Street,1,15,513
+1524,609,614,Liverpool Street,1,20,513
+1525,716,720,Liverpool Street,1,27,513
+1526,478,483,Liverpool Street,1,11,513
+1527,631,643,Liverpool Street,1,22,644
+1528,521,526,Liverpool Street,1,14,513
+1529,534,538,Liverpool Street,1,15,513
+1530,681,699,Liverpool Street,1,25,644
+1531,463,468,Liverpool Street,1,10,513
+1532,671,682,Liverpool Street,1,24,644
+1533,695,701,Liverpool Street,1,26,513
+1534,715,719,Liverpool Street,1,27,513
+1535,473,476,Liverpool Street,1,11,513
+1536,719,723,Liverpool Street,1,27,513
+1537,427,430,Liverpool Street,1,8,513
+1538,428,435,Liverpool Street,1,8,513
+1539,489,493,Liverpool Street,1,12,513
+1540,447,452,Liverpool Street,1,9,513
+1541,534,543,Liverpool Street,1,15,513
+1542,547,553,Liverpool Street,1,16,513
+1543,475,486,Liverpool Street,1,11,644
+1544,542,547,Liverpool Street,1,16,513
+1545,467,477,Liverpool Street,1,11,513
+1546,510,514,Liverpool Street,1,13,513
+1547,462,468,Liverpool Street,1,10,513
+1548,512,516,Liverpool Street,1,14,513
+1549,714,719,Liverpool Street,1,27,513
+1550,419,424,Liverpool Street,1,7,513
+1551,492,498,Liverpool Street,1,12,513
+1552,519,523,Liverpool Street,1,14,513
+1553,539,547,Liverpool Street,1,15,513
+1554,566,570,Liverpool Street,1,17,513
+1555,541,547,Liverpool Street,1,16,513
+1556,488,492,Liverpool Street,1,12,513
+1557,561,566,Liverpool Street,1,17,513
+1558,618,623,Liverpool Street,1,21,513
+1559,535,539,Liverpool Street,1,15,513
+1560,513,518,Liverpool Street,1,14,513
+1561,703,709,Liverpool Street,1,26,513
+1562,498,505,Liverpool Street,1,13,513
+1563,425,431,Liverpool Street,1,8,513
+1564,508,514,Liverpool Street,1,13,513
+1565,557,561,Liverpool Street,1,17,513
+1566,582,586,Liverpool Street,1,18,513
+1567,533,536,Liverpool Street,1,15,513
+1568,531,537,Liverpool Street,1,15,513
+1569,538,542,Liverpool Street,1,15,513
+1570,483,489,Liverpool Street,1,12,513
+1571,486,491,Liverpool Street,1,12,513
+1572,443,447,Liverpool Street,1,9,513
+1573,517,521,Liverpool Street,1,14,513
+1574,584,591,Liverpool Street,1,18,513
+1575,437,443,Liverpool Street,1,9,513
+1576,502,507,Liverpool Street,1,13,513
+1577,607,615,Liverpool Street,1,20,513
+1578,482,489,Liverpool Street,1,12,513
+1579,512,516,Liverpool Street,1,14,513
+1580,545,553,Liverpool Street,1,16,513
+1581,378,410,East Acton,1,5,513
+1582,385,415,East Acton,1,5,513
+1583,703,737,East Acton,1,26,644
+1584,424,458,East Acton,1,8,513
+1585,705,735,East Acton,1,26,513
+1586,401,412,Tottenham Court Road,1,6,513
+1587,439,449,Tottenham Court Road,1,9,513
+1588,443,454,Tottenham Court Road,1,9,513
+1589,457,467,Tottenham Court Road,1,10,513
+1590,488,498,Tottenham Court Road,1,12,513
+1591,492,502,Tottenham Court Road,1,12,513
+1592,496,506,Tottenham Court Road,1,13,513
+1593,499,508,Tottenham Court Road,1,13,513
+1594,504,514,Tottenham Court Road,1,13,513
+1595,521,532,Tottenham Court Road,1,14,513
+1596,549,558,Tottenham Court Road,1,16,513
+1597,551,562,Tottenham Court Road,1,16,513
+1598,553,565,Tottenham Court Road,1,16,513
+1599,557,566,Tottenham Court Road,1,17,513
+1600,565,579,Tottenham Court Road,1,17,644
+1601,585,596,Tottenham Court Road,1,18,513
+1602,581,590,Tottenham Court Road,1,18,513
+1603,597,607,Tottenham Court Road,1,19,513
+1604,606,631,Tottenham Court Road,1,20,513
+1605,622,632,Tottenham Court Road,1,21,513
+1606,630,638,Tottenham Court Road,1,21,513
+1607,637,648,Tottenham Court Road,1,22,513
+1608,639,648,Tottenham Court Road,1,22,513
+1609,654,663,Tottenham Court Road,1,23,513
+1610,661,671,Tottenham Court Road,1,24,513
+1611,666,677,Tottenham Court Road,1,24,513
+1612,673,684,Tottenham Court Road,1,24,513
+1613,674,684,Tottenham Court Road,1,24,513
+1614,691,701,Tottenham Court Road,1,26,513
+1615,684,694,Tottenham Court Road,1,25,513
+1616,679,698,Tottenham Court Road,1,25,644
+1617,694,702,Tottenham Court Road,1,26,513
+1618,696,706,Tottenham Court Road,1,26,513
+1619,712,719,Tottenham Court Road,1,27,513
+1620,719,727,Tottenham Court Road,1,27,513
+1621,715,726,Tottenham Court Road,1,27,513
+1622,720,731,Tottenham Court Road,1,27,513
+1623,698,733,Tottenham Court Road,1,26,513
+1624,524,536,Tottenham Court Road,1,14,513
+1625,585,595,Tottenham Court Road,1,18,513
+1626,679,698,Tottenham Court Road,1,25,644
+1627,527,539,Tottenham Court Road,1,15,513
+1628,525,539,Tottenham Court Road,1,14,513
+1629,700,708,Tottenham Court Road,1,26,513
+1630,499,508,Tottenham Court Road,1,13,513
+1631,514,527,Tottenham Court Road,1,14,513
+1632,712,721,Tottenham Court Road,1,27,513
+1633,400,411,Tottenham Court Road,1,6,513
+1634,534,545,Tottenham Court Road,1,15,513
+1635,680,692,Tottenham Court Road,1,25,513
+1636,512,524,Tottenham Court Road,1,14,513
+1637,676,686,Tottenham Court Road,1,25,513
+1638,419,430,Tottenham Court Road,1,7,513
+1639,705,716,Tottenham Court Road,1,26,513
+1640,577,587,Tottenham Court Road,1,18,513
+1641,611,620,Tottenham Court Road,1,20,513
+1642,557,565,Tottenham Court Road,1,17,513
+1643,644,654,Tottenham Court Road,1,22,513
+1644,430,441,Tottenham Court Road,1,8,513
+1645,449,462,Tottenham Court Road,1,9,513
+1646,532,542,Tottenham Court Road,1,15,513
+1647,589,602,Tottenham Court Road,1,19,513
+1648,710,719,Tottenham Court Road,1,27,513
+1649,473,482,Tottenham Court Road,1,11,513
+1650,574,584,Tottenham Court Road,1,18,513
+1651,527,539,Tottenham Court Road,1,15,513
+1652,706,715,Tottenham Court Road,1,27,513
+1653,483,492,Tottenham Court Road,1,12,513
+1654,670,681,Tottenham Court Road,1,24,513
+1655,494,504,Tottenham Court Road,1,12,513
+1656,494,504,Tottenham Court Road,1,12,513
+1657,592,602,Tottenham Court Road,1,19,513
+1658,429,438,Tottenham Court Road,1,8,513
+1659,691,701,Tottenham Court Road,1,26,513
+1660,444,454,Tottenham Court Road,1,9,513
+1661,554,564,Tottenham Court Road,1,16,513
+1662,556,565,Tottenham Court Road,1,17,513
+1663,661,671,Tottenham Court Road,1,24,513
+1664,499,508,Tottenham Court Road,1,13,513
+1665,649,659,Tottenham Court Road,1,23,513
+1666,403,415,Tottenham Court Road,1,6,513
+1667,579,588,Tottenham Court Road,1,18,513
+1668,458,470,Tottenham Court Road,1,10,513
+1669,553,565,Tottenham Court Road,1,16,513
+1670,403,416,Tottenham Court Road,1,6,513
+1671,595,604,Tottenham Court Road,1,19,513
+1672,595,607,Tottenham Court Road,1,19,513
+1673,560,569,Tottenham Court Road,1,17,513
+1674,683,691,Tottenham Court Road,1,25,513
+1675,697,706,Tottenham Court Road,1,26,513
+1676,637,648,Tottenham Court Road,1,22,513
+1677,489,498,Tottenham Court Road,1,12,513
+1678,577,587,Tottenham Court Road,1,18,513
+1679,709,732,Tottenham Court Road,1,27,644
+1680,704,713,Tottenham Court Road,1,26,513
+1681,584,593,Tottenham Court Road,1,18,513
+1682,563,575,Tottenham Court Road,1,17,513
+1683,491,502,Tottenham Court Road,1,12,513
+1684,701,711,Tottenham Court Road,1,26,513
+1685,486,496,Tottenham Court Road,1,12,513
+1686,578,589,Tottenham Court Road,1,18,513
+1687,712,720,Tottenham Court Road,1,27,513
+1688,473,483,Tottenham Court Road,1,11,513
+1689,521,533,Tottenham Court Road,1,14,513
+1690,495,504,Tottenham Court Road,1,12,513
+1691,533,546,Tottenham Court Road,1,15,513
+1692,577,587,Tottenham Court Road,1,18,513
+1693,676,686,Tottenham Court Road,1,25,513
+1694,536,547,Tottenham Court Road,1,15,513
+1695,449,461,Tottenham Court Road,1,9,513
+1696,489,498,Tottenham Court Road,1,12,513
+1697,481,492,Tottenham Court Road,1,12,513
+1698,587,596,Tottenham Court Road,1,19,513
+1699,479,491,Tottenham Court Road,1,11,513
+1700,552,563,Tottenham Court Road,1,16,513
+1701,627,636,Tottenham Court Road,1,21,513
+1702,510,522,Tottenham Court Road,1,13,513
+1703,673,681,Tottenham Court Road,1,24,513
+1704,587,596,Tottenham Court Road,1,19,513
+1705,507,516,Tottenham Court Road,1,13,513
+1706,691,701,Tottenham Court Road,1,26,513
+1707,465,475,Tottenham Court Road,1,10,513
+1708,512,533,Tottenham Court Road,1,14,513
+1709,554,564,Tottenham Court Road,1,16,513
+1710,545,554,Tottenham Court Road,1,16,513
+1711,550,560,Tottenham Court Road,1,16,513
+1712,601,611,Tottenham Court Road,1,20,513
+1713,522,535,Tottenham Court Road,1,14,513
+1714,580,588,Tottenham Court Road,1,18,513
+1715,545,555,Tottenham Court Road,1,16,513
+1716,598,609,Tottenham Court Road,1,19,513
+1717,456,467,Tottenham Court Road,1,10,513
+1718,492,502,Tottenham Court Road,1,12,513
+1719,525,538,Tottenham Court Road,1,14,513
+1720,587,596,Tottenham Court Road,1,19,513
+1721,521,535,Tottenham Court Road,1,14,513
+1722,522,532,Tottenham Court Road,1,14,513
+1723,573,584,Tottenham Court Road,1,18,513
+1724,586,595,Tottenham Court Road,1,19,513
+1725,400,411,Tottenham Court Road,1,6,513
+1726,475,484,Tottenham Court Road,1,11,513
+1727,509,518,Tottenham Court Road,1,13,513
+1728,512,522,Tottenham Court Road,1,14,513
+1729,510,522,Tottenham Court Road,1,13,513
+1730,522,533,Tottenham Court Road,1,14,513
+1731,720,733,Tottenham Court Road,1,27,644
+1732,615,626,Tottenham Court Road,1,20,513
+1733,586,596,Tottenham Court Road,1,19,513
+1734,467,477,Tottenham Court Road,1,11,513
+1735,703,713,Tottenham Court Road,1,26,513
+1736,471,481,Tottenham Court Road,1,11,513
+1737,503,513,Tottenham Court Road,1,13,513
+1738,506,517,Tottenham Court Road,1,13,513
+1739,491,502,Tottenham Court Road,1,12,513
+1740,681,692,Tottenham Court Road,1,25,513
+1741,638,648,Tottenham Court Road,1,22,513
+1742,720,731,Tottenham Court Road,1,27,513
+1743,543,554,Tottenham Court Road,1,16,513
+1744,525,544,Tottenham Court Road,1,14,644
+1745,589,601,Tottenham Court Road,1,19,513
+1746,678,688,Tottenham Court Road,1,25,513
+1747,633,644,Tottenham Court Road,1,22,513
+1748,589,601,Tottenham Court Road,1,19,513
+1749,537,552,Tottenham Court Road,1,15,513
+1750,459,469,Tottenham Court Road,1,10,513
+1751,525,536,Tottenham Court Road,1,14,513
+1752,563,574,Tottenham Court Road,1,17,513
+1753,616,626,Tottenham Court Road,1,21,513
+1754,665,673,Tottenham Court Road,1,24,513
+1755,595,606,Tottenham Court Road,1,19,513
+1756,406,415,Tottenham Court Road,1,7,513
+1757,471,481,Tottenham Court Road,1,11,513
+1758,521,533,Tottenham Court Road,1,14,513
+1759,717,728,Tottenham Court Road,1,27,513
+1760,531,541,Tottenham Court Road,1,15,513
+1761,633,644,Tottenham Court Road,1,22,513
+1762,407,411,Waterloo,1,7,513
+1763,406,412,Waterloo,1,7,513
+1764,410,418,Waterloo,1,7,513
+1765,429,436,Waterloo,1,8,513
+1766,429,436,Waterloo,1,8,513
+1767,444,451,Waterloo,1,9,513
+1768,446,451,Waterloo,1,9,513
+1769,465,472,Waterloo,1,10,513
+1770,473,478,Waterloo,1,11,513
+1771,483,489,Waterloo,1,12,513
+1772,481,489,Waterloo,1,12,513
+1773,498,504,Waterloo,1,13,513
+1774,493,501,Waterloo,1,12,513
+1775,499,507,Waterloo,1,13,513
+1776,507,513,Waterloo,1,13,513
+1777,513,518,Waterloo,1,14,513
+1778,511,518,Waterloo,1,14,513
+1779,512,518,Waterloo,1,14,513
+1780,522,528,Waterloo,1,14,513
+1781,519,528,Waterloo,1,14,513
+1782,524,531,Waterloo,1,14,513
+1783,528,533,Waterloo,1,15,513
+1784,527,533,Waterloo,1,15,513
+1785,531,538,Waterloo,1,15,513
+1786,532,539,Waterloo,1,15,513
+1787,536,541,Waterloo,1,15,513
+1788,533,541,Waterloo,1,15,513
+1789,543,550,Waterloo,1,16,513
+1790,547,553,Waterloo,1,16,513
+1791,550,556,Waterloo,1,16,513
+1792,553,559,Waterloo,1,16,513
+1793,560,567,Waterloo,1,17,513
+1794,571,579,Waterloo,1,18,513
+1795,588,593,Waterloo,1,19,513
+1796,598,607,Waterloo,1,19,513
+1797,601,607,Waterloo,1,20,513
+1798,600,607,Waterloo,1,19,513
+1799,606,612,Waterloo,1,20,513
+1800,614,619,Waterloo,1,20,513
+1801,611,619,Waterloo,1,20,513
+1802,611,619,Waterloo,1,20,513
+1803,624,632,Waterloo,1,21,513
+1804,624,632,Waterloo,1,21,513
+1805,629,635,Waterloo,1,21,513
+1806,626,635,Waterloo,1,21,513
+1807,637,643,Waterloo,1,22,513
+1808,655,663,Waterloo,1,23,513
+1809,678,684,Waterloo,1,25,513
+1810,677,684,Waterloo,1,25,513
+1811,682,688,Waterloo,1,25,513
+1812,683,689,Waterloo,1,25,513
+1813,690,697,Waterloo,1,25,513
+1814,695,704,Waterloo,1,26,513
+1815,709,718,Waterloo,1,27,513
+1816,716,723,Waterloo,1,27,513
+1817,707,718,Waterloo,1,27,513
+1818,718,723,Waterloo,1,27,513
+1819,719,726,Waterloo,1,27,513
+1820,570,576,Waterloo,1,17,513
+1821,685,692,Waterloo,1,25,513
+1822,543,550,Waterloo,1,16,513
+1823,578,585,Waterloo,1,18,513
+1824,581,587,Waterloo,1,18,513
+1825,394,398,Waterloo,1,6,513
+1826,577,584,Waterloo,1,18,513
+1827,605,609,Waterloo,1,20,513
+1828,681,688,Waterloo,1,25,513
+1829,500,507,Waterloo,1,13,513
+1830,533,538,Waterloo,1,15,513
+1831,601,607,Waterloo,1,20,513
+1832,516,531,Waterloo,1,14,644
+1833,501,507,Waterloo,1,13,513
+1834,506,513,Waterloo,1,13,513
+1835,528,533,Waterloo,1,15,513
+1836,578,585,Waterloo,1,18,513
+1837,638,643,Waterloo,1,22,513
+1838,697,704,Waterloo,1,26,513
+1839,702,707,Waterloo,1,26,513
+1840,395,405,Waterloo,1,6,513
+1841,548,553,Waterloo,1,16,513
+1842,671,676,Waterloo,1,24,513
+1843,590,597,Waterloo,1,19,513
+1844,625,632,Waterloo,1,21,513
+1845,494,501,Waterloo,1,12,513
+1846,503,509,Waterloo,1,13,513
+1847,637,643,Waterloo,1,22,513
+1848,651,656,Waterloo,1,23,513
+1849,515,524,Waterloo,1,14,513
+1850,562,567,Waterloo,1,17,513
+1851,425,429,Waterloo,1,8,513
+1852,475,481,Waterloo,1,11,513
+1853,545,553,Waterloo,1,16,513
+1854,563,570,Waterloo,1,17,513
+1855,639,647,Waterloo,1,22,513
+1856,639,664,Waterloo,1,22,513
+1857,639,664,Waterloo,1,22,513
+1858,389,399,Waterloo,1,5,513
+1859,591,603,Waterloo,1,19,513
+1860,667,677,Waterloo,1,24,513
+1861,540,547,Waterloo,1,15,513
+1862,643,650,Waterloo,1,22,513
+1863,666,677,Waterloo,1,24,513
+1864,678,684,Waterloo,1,25,513
+1865,501,507,Waterloo,1,13,513
+1866,509,515,Waterloo,1,13,513
+1867,671,676,Waterloo,1,24,513
+1868,665,677,Waterloo,1,24,513
+1869,595,607,Waterloo,1,19,513
+1870,482,489,Waterloo,1,12,513
+1871,452,458,Waterloo,1,10,513
+1872,584,590,Waterloo,1,18,513
+1873,532,538,Waterloo,1,15,513
+1874,531,538,Waterloo,1,15,513
+1875,486,491,Waterloo,1,12,513
+1876,537,544,Waterloo,1,15,513
+1877,622,628,Waterloo,1,21,513
+1878,533,539,Waterloo,1,15,513
+1879,519,528,Waterloo,1,14,513
+1880,570,576,Waterloo,1,17,513
+1881,607,612,Waterloo,1,20,513
+1882,627,635,Waterloo,1,21,513
+1883,692,697,Waterloo,1,26,513
+1884,512,518,Waterloo,1,14,513
+1885,574,582,Waterloo,1,18,513
+1886,690,697,Waterloo,1,25,513
+1887,472,478,Waterloo,1,11,513
+1888,638,643,Waterloo,1,22,513
+1889,540,547,Waterloo,1,15,513
+1890,649,657,Waterloo,1,23,513
+1891,717,723,Waterloo,1,27,513
+1892,648,656,Waterloo,1,23,513
+1893,548,554,Waterloo,1,16,513
+1894,660,665,Waterloo,1,23,513
+1895,404,412,Waterloo,1,6,513
+1896,520,528,Waterloo,1,14,513
+1897,566,574,Waterloo,1,17,513
+1898,579,584,Waterloo,1,18,513
+1899,487,495,Waterloo,1,12,513
+1900,497,504,Waterloo,1,13,513
+1901,526,533,Waterloo,1,15,513
+1902,643,650,Waterloo,1,22,513
+1903,693,704,Waterloo,1,26,513
+1904,524,531,Waterloo,1,14,513
+1905,585,593,Waterloo,1,18,513
+1906,535,541,Waterloo,1,15,513
+1907,543,550,Waterloo,1,16,513
+1908,686,691,Waterloo,1,25,513
+1909,643,650,Waterloo,1,22,513
+1910,643,650,Waterloo,1,22,513
+1911,660,665,Waterloo,1,23,513
+1912,403,411,Waterloo,1,6,513
+1913,693,704,Waterloo,1,26,513
+1914,464,469,Waterloo,1,10,513
+1915,499,507,Waterloo,1,13,513
+1916,655,662,Waterloo,1,23,513
+1917,425,432,Waterloo,1,8,513
+1918,430,436,Waterloo,1,8,513
+1919,431,438,Waterloo,1,8,513
+1920,665,677,Waterloo,1,24,513
+1921,590,597,Waterloo,1,19,513
+1922,485,491,Waterloo,1,12,513
+1923,468,474,Waterloo,1,11,513
+1924,512,518,Waterloo,1,14,513
+1925,517,524,Waterloo,1,14,513
+1926,571,579,Waterloo,1,18,513
+1927,700,707,Waterloo,1,26,513
+1928,560,567,Waterloo,1,17,513
+1929,642,647,Waterloo,1,22,513
+1930,559,567,Waterloo,1,17,513
+1931,540,547,Waterloo,1,15,513
+1932,551,559,Waterloo,1,16,513
+1933,695,704,Waterloo,1,26,513
+1934,477,483,Waterloo,1,11,513
+1935,520,528,Waterloo,1,14,513
+1936,522,528,Waterloo,1,14,513
+1937,519,528,Waterloo,1,14,513
+1938,699,704,Waterloo,1,26,513
+1939,716,723,Waterloo,1,27,513
+1940,715,803,Waterloo,1,27,644
+1941,599,607,Waterloo,1,19,513
+1942,559,564,Waterloo,1,17,513
+1943,693,704,Waterloo,1,26,513
+1944,570,576,Waterloo,1,17,513
+1945,598,607,Waterloo,1,19,513
+1946,694,704,Waterloo,1,26,513
+1947,710,718,Waterloo,1,27,513
+1948,606,612,Waterloo,1,20,513
+1949,640,646,Waterloo,1,22,513
+1950,690,697,Waterloo,1,25,513
+1951,587,593,Waterloo,1,19,513
+1952,603,610,Waterloo,1,20,513
+1953,609,614,Waterloo,1,20,513
+1954,502,509,Waterloo,1,13,513
+1955,523,531,Waterloo,1,14,513
+1956,626,635,Waterloo,1,21,513
+1957,638,647,Waterloo,1,22,513
+1958,689,697,Waterloo,1,25,513
+1959,531,539,Waterloo,1,15,513
+1960,657,662,Waterloo,1,23,513
+1961,699,704,Waterloo,1,26,513
+1962,490,497,Waterloo,1,12,513
+1963,528,533,Waterloo,1,15,513
+1964,387,398,Waterloo,1,5,513
+1965,474,481,Waterloo,1,11,513
+1966,518,523,Waterloo,1,14,513
+1967,554,562,Waterloo,1,16,513
+1968,560,567,Waterloo,1,17,513
+1969,484,491,Waterloo,1,12,513
+1970,413,422,Waterloo,1,7,513
+1971,461,469,Waterloo,1,10,513
+1972,533,541,Waterloo,1,15,513
+1973,609,614,Waterloo,1,20,513
+1974,682,688,Waterloo,1,25,513
+1975,543,550,Waterloo,1,16,513
+1976,415,422,Waterloo,1,7,513
+1977,671,676,Waterloo,1,24,513
+1978,504,509,Waterloo,1,13,513
+1979,581,587,Waterloo,1,18,513
+1980,573,582,Waterloo,1,18,513
+1981,691,697,Waterloo,1,26,513
+1982,700,707,Waterloo,1,26,513
+1983,706,711,Waterloo,1,27,513
+1984,569,576,Waterloo,1,17,513
+1985,522,531,Waterloo,1,14,513
+1986,674,679,Waterloo,1,24,513
+1987,429,436,Waterloo,1,8,513
+1988,639,647,Waterloo,1,22,513
+1989,438,443,Waterloo,1,9,513
+1990,692,697,Waterloo,1,26,513
+1991,481,486,Waterloo,1,12,513
+1992,537,544,Waterloo,1,15,513
+1993,456,463,Waterloo,1,10,513
+1994,487,494,Waterloo,1,12,513
+1995,527,533,Waterloo,1,15,513
+1996,686,704,Waterloo,1,25,644
+1997,485,491,Waterloo,1,12,513
+1998,499,507,Waterloo,1,13,513
+1999,554,562,Waterloo,1,16,513
+2000,593,602,Waterloo,1,19,513
+2001,616,623,Waterloo,1,21,513
+2002,691,697,Waterloo,1,26,513
+2003,520,528,Waterloo,1,14,513
+2004,578,585,Waterloo,1,18,513
+2005,626,635,Waterloo,1,21,513
+2006,510,515,Waterloo,1,13,513
+2007,525,531,Waterloo,1,14,513
+2008,525,531,Waterloo,1,14,513
+2009,539,544,Waterloo,1,15,513
+2010,536,544,Waterloo,1,15,513
+2011,642,650,Waterloo,1,22,513
+2012,575,582,Waterloo,1,18,513
+2013,458,466,Waterloo,1,10,513
+2014,623,632,Waterloo,1,21,513
+2015,689,697,Waterloo,1,25,513
+2016,628,635,Waterloo,1,21,513
+2017,573,582,Waterloo,1,18,513
+2018,668,676,Waterloo,1,24,513
+2019,526,536,Waterloo,1,15,513
+2020,585,594,Waterloo,1,18,513
+2021,538,544,Waterloo,1,15,513
+2022,550,556,Waterloo,1,16,513
+2023,551,559,Waterloo,1,16,513
+2024,649,656,Waterloo,1,23,513
+2025,719,727,Waterloo,1,27,513
+2026,588,603,Waterloo,1,19,513
+2027,624,632,Waterloo,1,21,513
+2028,627,635,Waterloo,1,21,513
+2029,682,688,Waterloo,1,25,513
+2030,495,501,Waterloo,1,12,513
+2031,513,521,Waterloo,1,14,513
+2032,538,544,Waterloo,1,15,513
+2033,491,497,Waterloo,1,12,513
+2034,594,603,Waterloo,1,19,513
+2035,700,707,Waterloo,1,26,513
+2036,454,461,Waterloo,1,10,513
+2037,581,587,Waterloo,1,18,513
+2038,623,641,Waterloo,1,21,513
+2039,695,704,Waterloo,1,26,513
+2040,708,723,Waterloo,1,27,644
+2041,537,543,Waterloo,1,15,513
+2042,432,439,Waterloo,1,8,513
+2043,682,703,Waterloo,1,25,513
+2044,408,418,Westminster,1,7,644
+2045,501,512,Westminster,1,13,644
+2046,506,516,Westminster,1,13,644
+2047,541,554,Westminster,1,16,644
+2048,562,581,Westminster,1,17,644
+2049,627,641,Westminster,1,21,644
+2050,642,655,Westminster,1,22,644
+2051,681,693,Westminster,1,25,644
+2052,689,704,Westminster,1,25,644
+2053,694,706,Westminster,1,26,644
+2054,559,581,Westminster,1,17,513
+2055,482,496,Westminster,1,12,644
+2056,542,556,Westminster,1,16,644
+2057,558,570,Westminster,1,17,644
+2058,578,590,Westminster,1,18,644
+2059,667,677,Westminster,1,24,644
+2060,600,610,Westminster,1,19,644
+2061,611,631,Westminster,1,20,513
+2062,596,607,Westminster,1,19,644
+2063,437,451,Westminster,1,9,644
+2064,594,607,Westminster,1,19,644
+2065,560,579,Westminster,1,17,644
+2066,520,532,Westminster,1,14,644
+2067,684,694,Westminster,1,25,644
+2068,681,693,Westminster,1,25,644
+2069,575,588,Westminster,1,18,644
+2070,617,629,Westminster,1,21,644
+2071,604,617,Westminster,1,20,644
+2072,416,427,Westminster,1,7,644
+2073,374,389,Westminster,1,4,644
+2074,434,451,Westminster,1,8,644
+2075,490,501,Westminster,1,12,644
+2076,557,570,Westminster,1,17,644
+2077,663,682,Westminster,1,24,513
+2078,448,461,Westminster,1,9,644
+2079,594,607,Westminster,1,19,644
+2080,386,416,Barking,1,5,644
+2081,497,529,Barking,1,13,513
+2082,500,534,Barking,1,13,644
+2083,433,460,Barking,1,8,513
+2084,440,467,Barking,1,9,513
+2085,461,491,Barking,1,10,513
+2086,347,378,Barking,1,3,644
+2087,395,413,Green Park,1,6,644
+2088,465,479,Green Park,1,10,513
+2089,543,561,Green Park,1,16,513
+2090,542,563,Green Park,1,16,644
+2091,561,578,Green Park,1,17,513
+2092,593,611,Green Park,1,19,513
+2093,607,625,Green Park,1,20,513
+2094,607,625,Green Park,1,20,513
+2095,613,633,Green Park,1,20,644
+2096,642,659,Green Park,1,22,513
+2097,687,708,Green Park,1,25,513
+2098,693,712,Green Park,1,26,513
+2099,696,712,Green Park,1,26,644
+2100,699,717,Green Park,1,26,513
+2101,714,729,Green Park,1,27,513
+2102,714,734,Green Park,1,27,644
+2103,521,543,Green Park,1,14,644
+2104,639,658,Green Park,1,22,644
+2105,704,725,Green Park,1,26,513
+2106,655,675,Green Park,1,23,513
+2107,443,463,Green Park,1,9,644
+2108,663,679,Green Park,1,24,513
+2109,705,722,Green Park,1,26,513
+2110,533,549,Green Park,1,15,513
+2111,600,619,Green Park,1,19,513
+2112,709,727,Green Park,1,27,513
+2113,693,710,Green Park,1,26,513
+2114,640,657,Green Park,1,22,513
+2115,542,563,Green Park,1,16,644
+2116,655,675,Green Park,1,23,513
+2117,567,587,Green Park,1,17,513
+2118,559,576,Green Park,1,17,513
+2119,640,660,Green Park,1,22,513
+2120,715,731,Green Park,1,27,513
+2121,690,710,Green Park,1,25,644
+2122,676,698,Green Park,1,25,513
+2123,599,614,Green Park,1,19,513
+2124,608,625,Green Park,1,20,644
+2125,581,598,Green Park,1,18,513
+2126,696,717,Green Park,1,26,513
+2127,692,710,Green Park,1,26,513
+2128,395,413,Green Park,1,6,644
+2129,475,491,Green Park,1,11,513
+2130,678,694,Green Park,1,25,513
+2131,540,560,Green Park,1,15,644
+2132,655,681,Green Park,1,23,513
+2133,562,579,Green Park,1,17,513
+2134,602,617,Green Park,1,20,513
+2135,716,739,Green Park,1,27,644
+2136,606,622,Green Park,1,20,513
+2137,696,711,Green Park,1,26,513
+2138,596,647,Green Park,1,19,513
+2139,529,547,Green Park,1,15,513
+2140,621,638,Green Park,1,21,513
+2141,644,661,Green Park,1,22,513
+2142,640,660,Green Park,1,22,513
+2143,656,687,Green Park,1,23,644
+2144,395,413,Green Park,1,6,644
+2145,712,735,Green Park,1,27,513
+2146,683,703,Green Park,1,25,644
+2147,634,655,Green Park,1,22,513
+2148,705,722,Green Park,1,26,513
+2149,519,540,Green Park,1,14,513
+2150,548,569,Green Park,1,16,644
+2151,626,644,Green Park,1,21,513
+2152,679,697,Green Park,1,25,513
+2153,684,703,Green Park,1,25,644
+2154,702,719,Green Park,1,26,513
+2155,592,612,Green Park,1,19,644
+2156,566,588,Green Park,1,17,513
+2157,606,622,Green Park,1,20,513
+2158,495,515,Green Park,1,12,644
+2159,395,414,Green Park,1,6,644
+2160,668,690,Green Park,1,24,513
+2161,459,479,Green Park,1,10,644
+2162,693,713,Green Park,1,26,644
+2163,683,702,Green Park,1,25,644
+2164,648,666,Green Park,1,23,513
+2165,577,594,Green Park,1,18,513
+2166,716,739,Green Park,1,27,644
+2167,693,713,Green Park,1,26,644
+2168,699,717,Green Park,1,26,513
+2169,708,734,Green Park,1,27,644
+2170,670,693,Green Park,1,24,513
+2171,412,419,St Pauls,1,7,513
+2172,452,455,St Pauls,1,10,513
+2173,488,493,St Pauls,1,12,513
+2174,517,526,St Pauls,1,14,513
+2175,532,540,St Pauls,1,15,513
+2176,541,545,St Pauls,1,16,513
+2177,629,634,St Pauls,1,21,513
+2178,643,650,St Pauls,1,22,513
+2179,666,672,St Pauls,1,24,513
+2180,679,692,St Pauls,1,25,644
+2181,673,693,St Pauls,1,24,513
+2182,695,703,St Pauls,1,26,513
+2183,607,611,St Pauls,1,20,513
+2184,467,472,St Pauls,1,11,513
+2185,681,688,St Pauls,1,25,513
+2186,491,497,St Pauls,1,12,513
+2187,475,479,St Pauls,1,11,513
+2188,584,589,St Pauls,1,18,513
+2189,657,661,St Pauls,1,23,513
+2190,710,715,St Pauls,1,27,513
+2191,510,527,St Pauls,1,13,644
+2192,577,582,St Pauls,1,18,513
+2193,509,518,St Pauls,1,13,513
+2194,636,651,St Pauls,1,22,644
+2195,564,568,St Pauls,1,17,513
+2196,634,649,St Pauls,1,22,644
+2197,545,549,St Pauls,1,16,513
+2198,681,688,St Pauls,1,25,513
+2199,681,688,St Pauls,1,25,513
+2200,679,688,St Pauls,1,25,513
+2201,566,572,St Pauls,1,17,513
+2202,717,724,St Pauls,1,27,513
+2203,711,717,St Pauls,1,27,513
+2204,637,651,St Pauls,1,22,644
+2205,544,558,St Pauls,1,16,644
+2206,635,649,St Pauls,1,22,644
+2207,688,694,St Pauls,1,25,513
+2208,581,586,St Pauls,1,18,513
+2209,706,711,St Pauls,1,27,513
+2210,430,436,St Pauls,1,8,513
+2211,539,543,St Pauls,1,15,513
+2212,516,522,St Pauls,1,14,513
+2213,657,661,St Pauls,1,23,513
+2214,479,482,St Pauls,1,11,513
+2215,580,586,St Pauls,1,18,513
+2216,584,588,St Pauls,1,18,513
+2217,407,419,Stepney Green,1,7,644
+2218,438,453,Stepney Green,1,9,644
+2219,545,557,Stepney Green,1,16,644
+2220,526,543,Stepney Green,1,15,644
+2221,459,471,Stepney Green,1,10,644
+2222,509,524,Stepney Green,1,13,644
+2223,657,669,Stepney Green,1,23,644
+2224,544,557,Stepney Green,1,16,644
+2225,401,413,Stepney Green,1,6,644
+2226,593,609,Stepney Green,1,19,644
+2227,649,668,Stepney Green,1,23,644
+2228,493,507,Stepney Green,1,12,644
+2229,520,533,Stepney Green,1,14,644
+2230,534,545,Stepney Green,1,15,644
+2231,572,587,Stepney Green,1,18,513
+2232,543,555,Stepney Green,1,16,644
+2233,635,648,Stepney Green,1,22,644
+2234,519,533,Stepney Green,1,14,644
+2235,376,411,Bounds Green,1,5,644
+2236,699,732,Bounds Green,1,26,513
+2237,706,741,Bounds Green,1,27,513
+2238,695,729,Bounds Green,1,26,644
+2239,411,422,Whitechapel,1,7,644
+2240,437,448,Whitechapel,1,9,644
+2241,488,501,Whitechapel,1,12,644
+2242,537,547,Whitechapel,1,15,644
+2243,551,568,Whitechapel,1,16,644
+2244,571,583,Whitechapel,1,18,644
+2245,575,588,Whitechapel,1,18,644
+2246,627,636,Whitechapel,1,21,644
+2247,628,639,Whitechapel,1,21,644
+2248,652,664,Whitechapel,1,23,644
+2249,659,681,Whitechapel,1,23,513
+2250,688,697,Whitechapel,1,25,644
+2251,651,664,Whitechapel,1,23,644
+2252,474,497,Whitechapel,1,11,644
+2253,531,543,Whitechapel,1,15,644
+2254,542,552,Whitechapel,1,16,644
+2255,602,616,Whitechapel,1,20,644
+2256,517,530,Whitechapel,1,14,644
+2257,521,532,Whitechapel,1,14,644
+2258,487,497,Whitechapel,1,12,644
+2259,627,636,Whitechapel,1,21,644
+2260,512,522,Whitechapel,1,14,644
+2261,604,616,Whitechapel,1,20,644
+2262,499,510,Whitechapel,1,13,644
+2263,439,451,Whitechapel,1,9,644
+2264,509,521,Whitechapel,1,13,644
+2265,492,504,Whitechapel,1,12,644
+2266,423,433,Whitechapel,1,8,644
+2267,433,445,Whitechapel,1,8,644
+2268,566,578,Whitechapel,1,17,644
+2269,575,588,Whitechapel,1,18,644
+2270,522,535,Whitechapel,1,14,644
+2271,716,727,Whitechapel,1,27,644
+2272,461,473,Whitechapel,1,10,644
+2273,515,529,Whitechapel,1,14,644
+2274,515,530,Whitechapel,1,14,644
+2275,516,529,Whitechapel,1,14,644
+2276,503,512,Whitechapel,1,13,644
+2277,483,492,Whitechapel,1,12,644
+2278,525,536,Whitechapel,1,14,644
+2279,491,504,Whitechapel,1,12,644
+2280,580,597,Whitechapel,1,18,644
+2281,693,703,Whitechapel,1,26,644
+2282,575,588,Whitechapel,1,18,644
+2283,632,647,Whitechapel,1,22,644
+2284,567,579,Whitechapel,1,17,644
+2285,410,423,Old Street,1,7,513
+2286,490,499,Old Street,1,12,513
+2287,514,527,Old Street,1,14,513
+2288,524,538,Old Street,1,14,513
+2289,543,553,Old Street,1,16,513
+2290,585,595,Old Street,1,18,513
+2291,588,597,Old Street,1,19,513
+2292,588,597,Old Street,1,19,513
+2293,647,659,Old Street,1,23,513
+2294,697,707,Old Street,1,26,513
+2295,707,719,Old Street,1,27,513
+2296,532,541,Old Street,1,15,513
+2297,575,586,Old Street,1,18,513
+2298,607,617,Old Street,1,20,513
+2299,564,573,Old Street,1,17,513
+2300,453,466,Old Street,1,10,513
+2301,582,592,Old Street,1,18,513
+2302,567,577,Old Street,1,17,513
+2303,504,514,Old Street,1,13,644
+2304,525,538,Old Street,1,14,513
+2305,533,545,Old Street,1,15,644
+2306,630,640,Old Street,1,21,513
+2307,470,482,Old Street,1,11,513
+2308,565,578,Old Street,1,17,513
+2309,643,655,Old Street,1,22,644
+2310,592,601,Old Street,1,19,513
+2311,621,631,Old Street,1,21,644
+2312,511,523,Old Street,1,14,513
+2313,584,594,Old Street,1,18,513
+2314,681,692,Old Street,1,25,513
+2315,665,674,Old Street,1,24,513
+2316,714,724,Old Street,1,27,513
+2317,548,557,Old Street,1,16,513
+2318,518,531,Old Street,1,14,513
+2319,546,557,Old Street,1,16,513
+2320,539,549,Old Street,1,15,644
+2321,516,527,Old Street,1,14,513
+2322,699,711,Old Street,1,26,513
+2323,427,439,Old Street,1,8,513
+2324,400,410,Old Street,1,6,513
+2325,644,655,Old Street,1,22,644
+2326,415,422,Old Street,1,7,513
+2327,539,549,Old Street,1,15,644
+2328,586,595,Old Street,1,19,513
+2329,428,443,Old Street,1,8,513
+2330,543,553,Old Street,1,16,513
+2331,526,541,Old Street,1,15,513
+2332,564,578,Old Street,1,17,513
+2333,554,564,Old Street,1,16,513
+2334,472,481,Old Street,1,11,513
+2335,462,470,Old Street,1,10,513
+2336,554,562,Old Street,1,16,513
+2337,404,422,Camden Town,1,6,513
+2338,522,545,Camden Town,1,14,644
+2339,604,624,Camden Town,1,20,513
+2340,636,657,Camden Town,1,22,644
+2341,541,560,Camden Town,1,16,513
+2342,550,567,Camden Town,1,16,513
+2343,637,657,Camden Town,1,22,644
+2344,636,657,Camden Town,1,22,644
+2345,516,537,Camden Town,1,14,644
+2346,455,476,Camden Town,1,10,644
+2347,720,740,Camden Town,1,27,513
+2348,521,541,Camden Town,1,14,644
+2349,648,668,Camden Town,1,23,513
+2350,657,677,Camden Town,1,23,513
+2351,582,602,Camden Town,1,18,513
+2352,544,562,Camden Town,1,16,644
+2353,530,551,Camden Town,1,15,513
+2354,693,714,Camden Town,1,26,513
+2355,554,573,Camden Town,1,16,513
+2356,417,428,Embankment,1,7,644
+2357,454,464,Embankment,1,10,644
+2358,476,486,Embankment,1,11,644
+2359,522,532,Embankment,1,14,644
+2360,561,579,Embankment,1,17,513
+2361,560,577,Embankment,1,17,644
+2362,594,604,Embankment,1,19,644
+2363,593,604,Embankment,1,19,644
+2364,634,643,Embankment,1,22,644
+2365,660,671,Embankment,1,23,644
+2366,659,672,Embankment,1,23,644
+2367,678,699,Embankment,1,25,513
+2368,691,702,Embankment,1,26,644
+2369,703,715,Embankment,1,26,644
+2370,719,730,Embankment,1,27,644
+2371,699,712,Embankment,1,26,644
+2372,682,694,Embankment,1,25,644
+2373,547,558,Embankment,1,16,644
+2374,594,604,Embankment,1,19,644
+2375,685,695,Embankment,1,25,644
+2376,407,416,Embankment,1,7,644
+2377,681,692,Embankment,1,25,644
+2378,642,653,Embankment,1,22,644
+2379,449,459,Embankment,1,9,644
+2380,502,513,Embankment,1,13,644
+2381,715,724,Embankment,1,27,644
+2382,554,564,Embankment,1,16,644
+2383,655,665,Embankment,1,23,644
+2384,667,677,Embankment,1,24,644
+2385,675,688,Embankment,1,24,644
+2386,519,528,Embankment,1,14,644
+2387,610,620,Embankment,1,20,644
+2388,712,722,Embankment,1,27,644
+2389,449,459,Embankment,1,9,644
+2390,519,529,Embankment,1,14,644
+2391,625,637,Embankment,1,21,644
+2392,417,428,Embankment,1,7,644
+2393,719,730,Embankment,1,27,644
+2394,608,618,Embankment,1,20,644
+2395,610,620,Embankment,1,20,644
+2396,664,674,Embankment,1,24,644
+2397,682,694,Embankment,1,25,644
+2398,520,530,Embankment,1,14,644
+2399,517,528,Embankment,1,14,644
+2400,544,554,Embankment,1,16,644
+2401,548,558,Embankment,1,16,644
+2402,485,497,Embankment,1,12,644
+2403,517,526,Embankment,1,14,644
+2404,559,577,Embankment,1,17,644
+2405,544,555,Embankment,1,16,644
+2406,437,448,Embankment,1,9,644
+2407,571,581,Embankment,1,18,644
+2408,672,683,Embankment,1,24,644
+2409,370,387,Embankment,1,4,644
+2410,528,543,Embankment,1,15,644
+2411,519,528,Embankment,1,14,644
+2412,542,552,Embankment,1,16,644
+2413,564,578,Embankment,1,17,644
+2414,558,568,Embankment,1,17,644
+2415,461,470,Embankment,1,10,644
+2416,520,530,Embankment,1,14,644
+2417,699,713,Embankment,1,26,644
+2418,696,730,Embankment,1,26,513
+2419,664,674,Embankment,1,24,644
+2420,692,702,Embankment,1,26,644
+2421,656,666,Embankment,1,23,644
+2422,682,692,Embankment,1,25,644
+2423,636,645,Embankment,1,22,644
+2424,419,430,Borough,1,7,513
+2425,658,674,Borough,1,23,644
+2426,684,692,Borough,1,25,513
+2427,675,686,Borough,1,24,513
+2428,475,483,Borough,1,11,513
+2429,662,674,Borough,1,24,513
+2430,599,613,Borough,1,19,513
+2431,636,645,Borough,1,22,644
+2432,506,519,Borough,1,13,513
+2433,571,580,Borough,1,18,513
+2434,427,440,Borough,1,8,644
+2435,607,619,Borough,1,20,644
+2436,419,430,Borough,1,7,513
+2437,488,499,Borough,1,12,644
+2438,554,567,Borough,1,16,513
+2439,607,619,Borough,1,20,644
+2440,658,674,Borough,1,23,644
+2441,403,435,North Acton,1,6,513
+2442,433,465,North Acton,1,8,513
+2443,511,543,North Acton,1,14,513
+2444,703,733,North Acton,1,26,513
+2445,425,460,North Acton,1,8,513
+2446,457,488,North Acton,1,10,513
+2447,603,634,North Acton,1,20,513
+2448,439,469,North Acton,1,9,513
+2449,482,511,North Acton,1,12,513
+2450,719,748,North Acton,1,27,513
+2451,411,441,North Acton,1,7,513
+2452,474,505,North Acton,1,11,513
+2453,670,703,North Acton,1,24,513
+2454,498,531,North Acton,1,13,513
+2455,703,733,North Acton,1,26,513
+2456,428,437,London Bridge,1,8,513
+2457,465,473,London Bridge,1,10,513
+2458,466,474,London Bridge,1,11,513
+2459,478,483,London Bridge,1,11,513
+2460,523,532,London Bridge,1,14,513
+2461,674,685,London Bridge,1,24,513
+2462,713,721,London Bridge,1,27,513
+2463,717,724,London Bridge,1,27,644
+2464,607,616,London Bridge,1,20,513
+2465,616,624,London Bridge,1,21,513
+2466,418,425,London Bridge,1,7,513
+2467,611,619,London Bridge,1,20,513
+2468,638,646,London Bridge,1,22,513
+2469,639,646,London Bridge,1,22,513
+2470,545,553,London Bridge,1,16,513
+2471,717,729,London Bridge,1,27,513
+2472,565,574,London Bridge,1,17,513
+2473,673,685,London Bridge,1,24,513
+2474,616,624,London Bridge,1,21,513
+2475,551,558,London Bridge,1,16,513
+2476,586,592,London Bridge,1,19,513
+2477,569,574,London Bridge,1,17,513
+2478,632,639,London Bridge,1,22,513
+2479,514,520,London Bridge,1,14,513
+2480,630,639,London Bridge,1,21,513
+2481,622,632,London Bridge,1,21,513
+2482,693,704,London Bridge,1,26,513
+2483,589,596,London Bridge,1,19,644
+2484,591,599,London Bridge,1,19,513
+2485,543,550,London Bridge,1,16,513
+2486,576,583,London Bridge,1,18,513
+2487,577,586,London Bridge,1,18,513
+2488,543,554,London Bridge,1,16,513
+2489,546,553,London Bridge,1,16,513
+2490,593,603,London Bridge,1,19,513
+2491,682,689,London Bridge,1,25,513
+2492,580,589,London Bridge,1,18,644
+2493,703,713,London Bridge,1,26,513
+2494,617,623,London Bridge,1,21,513
+2495,712,721,London Bridge,1,27,644
+2496,670,678,London Bridge,1,24,513
+2497,528,539,London Bridge,1,15,513
+2498,681,689,London Bridge,1,25,513
+2499,567,573,London Bridge,1,17,513
+2500,414,438,Balham,1,7,513
+2501,557,584,Balham,1,17,644
+2502,577,604,Balham,1,18,644
+2503,691,719,Balham,1,26,513
+2504,690,719,Balham,1,25,513
+2505,476,501,Balham,1,11,644
+2506,685,707,Balham,1,25,644
+2507,716,742,Balham,1,27,513
+2508,428,439,Mile End,1,8,513
+2509,491,507,Mile End,1,12,644
+2510,506,519,Mile End,1,13,644
+2511,577,600,Mile End,1,18,644
+2512,609,624,Mile End,1,20,644
+2513,617,629,Mile End,1,21,644
+2514,646,656,Mile End,1,23,513
+2515,651,661,Mile End,1,23,513
+2516,648,667,Mile End,1,23,644
+2517,694,703,Mile End,1,26,513
+2518,525,535,Mile End,1,14,513
+2519,562,572,Mile End,1,17,513
+2520,550,572,Mile End,1,16,644
+2521,356,374,Mile End,1,3,644
+2522,616,626,Mile End,1,21,513
+2523,450,460,Mile End,1,9,513
+2524,544,557,Mile End,1,16,513
+2525,712,729,Mile End,1,27,644
+2526,624,633,Mile End,1,21,513
+2527,488,504,Mile End,1,12,644
+2528,510,521,Mile End,1,13,513
+2529,618,631,Mile End,1,21,513
+2530,527,536,Mile End,1,15,513
+2531,420,433,Mile End,1,7,513
+2532,463,473,Mile End,1,10,513
+2533,662,675,Mile End,1,24,644
+2534,553,564,Mile End,1,16,513
+2535,381,393,Mile End,1,5,513
+2536,668,679,Mile End,1,24,513
+2537,576,586,Mile End,1,18,513
+2538,659,669,Mile End,1,23,513
+2539,603,619,Mile End,1,20,644
+2540,522,535,Mile End,1,14,644
+2541,598,607,Mile End,1,19,513
+2542,491,506,Mile End,1,12,644
+2543,709,718,Mile End,1,27,513
+2544,523,538,Mile End,1,14,644
+2545,549,562,Mile End,1,16,513
+2546,656,668,Mile End,1,23,644
+2547,536,547,Mile End,1,15,513
+2548,499,510,Mile End,1,13,513
+2549,479,497,Mile End,1,11,644
+2550,518,529,Mile End,1,14,513
+2551,558,577,Mile End,1,17,644
+2552,431,443,Stratford,1,8,513
+2553,451,466,Stratford,1,10,513
+2554,455,473,Stratford,1,10,513
+2555,474,489,Stratford,1,11,513
+2556,496,514,Stratford,1,13,513
+2557,525,539,Stratford,1,14,513
+2558,539,555,Stratford,1,15,513
+2559,604,617,Stratford,1,20,513
+2560,608,623,Stratford,1,20,513
+2561,620,636,Stratford,1,21,513
+2562,625,640,Stratford,1,21,513
+2563,669,682,Stratford,1,24,513
+2564,672,689,Stratford,1,24,513
+2565,674,691,Stratford,1,24,513
+2566,673,689,Stratford,1,24,513
+2567,684,719,Stratford,1,25,513
+2568,720,737,Stratford,1,27,513
+2569,675,692,Stratford,1,24,513
+2570,512,526,Stratford,1,14,513
+2571,648,671,Stratford,1,23,644
+2572,644,661,Stratford,1,22,513
+2573,660,683,Stratford,1,23,644
+2574,688,704,Stratford,1,25,513
+2575,567,581,Stratford,1,17,513
+2576,473,487,Stratford,1,11,513
+2577,485,498,Stratford,1,12,513
+2578,602,624,Stratford,1,20,644
+2579,518,532,Stratford,1,14,513
+2580,547,561,Stratford,1,16,513
+2581,468,482,Stratford,1,11,513
+2582,701,716,Stratford,1,26,513
+2583,648,671,Stratford,1,23,644
+2584,370,386,Stratford,1,4,513
+2585,473,485,Stratford,1,11,513
+2586,608,623,Stratford,1,20,513
+2587,653,673,Stratford,1,23,644
+2588,662,679,Stratford,1,24,513
+2589,447,461,Stratford,1,9,513
+2590,430,443,Stratford,1,8,513
+2591,719,735,Stratford,1,27,513
+2592,629,642,Stratford,1,21,513
+2593,425,442,Stratford,1,8,513
+2594,630,648,Stratford,1,21,513
+2595,713,731,Stratford,1,27,513
+2596,630,648,Stratford,1,21,513
+2597,708,732,Stratford,1,27,644
+2598,674,689,Stratford,1,24,513
+2599,620,639,Stratford,1,21,513
+2600,355,379,Stratford,1,3,644
+2601,696,712,Stratford,1,26,513
+2602,662,679,Stratford,1,24,513
+2603,666,683,Stratford,1,24,513
+2604,578,594,Stratford,1,18,513
+2605,425,444,Stratford,1,8,513
+2606,569,584,Stratford,1,17,513
+2607,425,444,Queensway,1,8,513
+2608,468,486,Queensway,1,11,513
+2609,468,486,Queensway,1,11,513
+2610,524,548,Queensway,1,14,513
+2611,717,742,Queensway,1,27,513
+2612,653,674,Queensway,1,23,513
+2613,502,522,Queensway,1,13,513
+2614,489,507,Queensway,1,12,513
+2615,591,610,Queensway,1,19,513
+2616,716,735,Queensway,1,27,513
+2617,640,658,Queensway,1,22,513
+2618,585,606,Queensway,1,18,513
+2619,562,582,Queensway,1,17,513
+2620,539,558,Queensway,1,15,513
+2621,660,678,Queensway,1,23,513
+2622,548,574,Queensway,1,16,513
+2623,664,683,Queensway,1,24,513
+2624,673,694,Queensway,1,24,513
+2625,626,646,Queensway,1,21,513
+2626,406,434,Putney,1,7,513
+2627,677,703,Putney,1,25,513
+2628,709,741,Putney,1,27,513
+2629,665,704,Putney,1,24,513
+2630,387,422,Putney,1,5,513
+2631,706,736,Putney,1,27,513
+2632,454,484,Putney,1,10,513
+2633,431,445,Oval,1,8,644
+2634,493,509,Oval,1,12,513
+2635,573,588,Oval,1,18,513
+2636,711,725,Oval,1,27,513
+2637,675,692,Oval,1,24,513
+2638,625,641,Oval,1,21,513
+2639,538,553,Oval,1,15,644
+2640,573,588,Oval,1,18,513
+2641,685,698,Oval,1,25,513
+2642,429,446,West Ham,1,8,513
+2643,708,738,West Ham,1,27,644
+2644,444,465,West Ham,1,9,644
+2645,428,451,Earls Court,1,8,644
+2646,461,487,Earls Court,1,10,644
+2647,637,662,Earls Court,1,22,644
+2648,649,674,Earls Court,1,23,644
+2649,520,545,Earls Court,1,14,644
+2650,563,598,Earls Court,1,17,513
+2651,694,720,Earls Court,1,26,644
+2652,378,404,Earls Court,1,5,644
+2653,630,659,Earls Court,1,21,644
+2654,641,668,Earls Court,1,22,644
+2655,592,618,Earls Court,1,19,644
+2656,658,694,Earls Court,1,23,513
+2657,641,668,Earls Court,1,22,644
+2658,479,503,Earls Court,1,11,644
+2659,474,509,Earls Court,1,11,513
+2660,474,509,Earls Court,1,11,513
+2661,488,512,Earls Court,1,12,644
+2662,398,424,Earls Court,1,6,644
+2663,412,438,Earls Court,1,7,644
+2664,521,545,Earls Court,1,14,644
+2665,496,521,Earls Court,1,13,644
+2666,440,466,Earls Court,1,9,644
+2667,420,452,Newbury Park,1,7,513
+2668,489,522,Newbury Park,1,12,513
+2669,694,724,Newbury Park,1,26,513
+2670,579,611,Newbury Park,1,18,513
+2671,412,442,Newbury Park,1,7,513
+2672,627,657,Newbury Park,1,21,513
+2673,487,523,Newbury Park,1,12,513
+2674,485,513,Newbury Park,1,12,513
+2675,435,453,Victoria,1,8,644
+2676,471,488,Victoria,1,11,644
+2677,538,554,Victoria,1,15,644
+2678,562,583,Victoria,1,17,513
+2679,583,602,Victoria,1,18,513
+2680,595,610,Victoria,1,19,644
+2681,649,665,Victoria,1,23,644
+2682,656,670,Victoria,1,23,644
+2683,671,686,Victoria,1,24,644
+2684,691,707,Victoria,1,26,644
+2685,685,709,Victoria,1,25,513
+2686,701,717,Victoria,1,26,644
+2687,720,740,Victoria,1,27,644
+2688,611,629,Victoria,1,20,644
+2689,557,575,Victoria,1,17,513
+2690,480,497,Victoria,1,11,644
+2691,671,688,Victoria,1,24,513
+2692,688,704,Victoria,1,25,644
+2693,378,395,Victoria,1,5,644
+2694,624,642,Victoria,1,21,644
+2695,714,729,Victoria,1,27,644
+2696,692,710,Victoria,1,26,644
+2697,720,735,Victoria,1,27,644
+2698,695,713,Victoria,1,26,513
+2699,590,609,Victoria,1,19,513
+2700,614,629,Victoria,1,20,644
+2701,640,656,Victoria,1,22,644
+2702,622,638,Victoria,1,21,644
+2703,681,701,Victoria,1,25,513
+2704,549,566,Victoria,1,16,644
+2705,573,588,Victoria,1,18,644
+2706,661,678,Victoria,1,24,513
+2707,379,398,Victoria,1,5,513
+2708,666,684,Victoria,1,24,644
+2709,687,704,Victoria,1,25,644
+2710,623,642,Victoria,1,21,644
+2711,683,696,Victoria,1,25,644
+2712,661,678,Victoria,1,24,513
+2713,534,550,Victoria,1,15,644
+2714,699,720,Victoria,1,26,513
+2715,528,545,Victoria,1,15,644
+2716,602,615,Victoria,1,20,644
+2717,659,678,Victoria,1,23,644
+2718,697,717,Victoria,1,26,644
+2719,546,561,Victoria,1,16,644
+2720,340,355,Victoria,1,2,644
+2721,640,656,Victoria,1,22,644
+2722,685,709,Victoria,1,25,513
+2723,683,696,Victoria,1,25,644
+2724,583,603,Victoria,1,18,513
+2725,617,637,Victoria,1,21,513
+2726,672,688,Victoria,1,24,644
+2727,621,638,Victoria,1,21,644
+2728,471,488,Victoria,1,11,644
+2729,495,510,Victoria,1,12,644
+2730,588,615,Victoria,1,19,513
+2731,455,470,Victoria,1,10,644
+2732,630,647,Victoria,1,21,644
+2733,485,503,Victoria,1,12,644
+2734,643,658,Victoria,1,22,644
+2735,555,582,Victoria,1,16,513
+2736,640,662,Victoria,1,22,513
+2737,465,480,Victoria,1,10,644
+2738,599,611,Victoria,1,19,644
+2739,624,642,Victoria,1,21,644
+2740,668,682,Victoria,1,24,644
+2741,378,395,Victoria,1,5,644
+2742,696,709,Victoria,1,26,644
+2743,672,688,Victoria,1,24,644
+2744,695,709,Victoria,1,26,644
+2745,464,480,Victoria,1,10,644
+2746,692,707,Victoria,1,26,644
+2747,413,453,Greenford,1,7,513
+2748,455,493,Greenford,1,10,513
+2749,696,741,Greenford,1,26,513
+2750,366,405,Greenford,1,4,513
+2751,553,596,Greenford,1,16,513
+2752,448,450,Bank,1,9,513
+2753,518,520,Bank,1,14,513
+2754,659,671,Bank,1,23,513
+2755,664,680,Bank,1,24,644
+2756,664,682,Bank,1,24,644
+2757,711,715,Bank,1,27,513
+2758,513,514,Bank,1,14,513
+2759,474,477,Bank,1,11,513
+2760,581,589,Bank,1,18,644
+2761,674,674,Bank,1,24,513
+2762,702,709,Bank,1,26,644
+2763,681,690,Bank,1,25,644
+2764,595,595,Bank,1,19,513
+2765,512,523,Bank,1,14,644
+2766,699,703,Bank,1,26,513
+2767,690,690,Bank,1,25,513
+2768,655,655,Bank,1,23,513
+2769,566,567,Bank,1,17,513
+2770,499,505,Bank,1,13,644
+2771,623,630,Bank,1,21,644
+2772,599,599,Bank,1,19,513
+2773,592,598,Bank,1,19,644
+2774,598,600,Bank,1,19,513
+2775,699,703,Bank,1,26,513
+2776,526,526,Bank,1,15,513
+2777,479,482,Bank,1,11,513
+2778,419,456,Debden,1,7,513
+2779,583,619,Debden,1,18,513
+2780,665,703,Debden,1,24,513
+2781,621,656,Debden,1,21,513
+2782,572,607,Debden,1,18,513
+2783,484,520,Debden,1,12,513
+2784,612,647,Debden,1,20,513
+2785,634,675,Debden,1,22,644
+2786,535,570,Debden,1,15,513
+2787,389,423,Debden,1,5,513
+2788,602,634,Debden,1,20,513
+2789,517,550,Debden,1,14,513
+2790,410,443,Debden,1,7,513
+2791,412,458,Edgware,1,7,513
+2792,699,748,Edgware,1,26,513
+2793,604,654,Edgware,1,20,644
+2794,678,726,Edgware,1,25,644
+2795,428,456,Sydenham SR,1,8,513
+2796,418,456,Sydenham SR,1,7,513
+2797,382,422,Sydenham SR,1,5,513
+2798,440,460,Holland Park,1,9,513
+2799,699,724,Holland Park,1,26,513
+2800,689,718,Holland Park,1,25,644
+2801,613,634,Holland Park,1,20,513
+2802,498,520,Holland Park,1,13,513
+2803,484,507,Holland Park,1,12,513
+2804,484,507,Holland Park,1,12,513
+2805,410,460,Ewell West,1,7,513
+2806,439,458,Leytonstone,1,9,513
+2807,502,521,Leytonstone,1,13,513
+2808,529,549,Leytonstone,1,15,513
+2809,648,676,Leytonstone,1,23,644
+2810,684,702,Leytonstone,1,25,513
+2811,577,599,Leytonstone,1,18,513
+2812,452,473,Leytonstone,1,10,513
+2813,515,535,Leytonstone,1,14,513
+2814,402,424,Leytonstone,1,6,513
+2815,461,478,Leytonstone,1,10,513
+2816,685,703,Leytonstone,1,25,513
+2817,555,575,Leytonstone,1,16,513
+2818,499,519,Leytonstone,1,13,513
+2819,620,639,Leytonstone,1,21,513
+2820,636,655,Leytonstone,1,22,513
+2821,402,424,Leytonstone,1,6,513
+2822,591,610,Leytonstone,1,19,513
+2823,626,651,Leytonstone,1,21,644
+2824,663,682,Leytonstone,1,24,513
+2825,447,463,Kennington,1,9,513
+2826,578,592,Kennington,1,18,513
+2827,440,460,Stockwell,1,9,644
+2828,547,564,Stockwell,1,16,513
+2829,494,520,Stockwell,1,12,513
+2830,418,436,Stockwell,1,7,513
+2831,679,696,Stockwell,1,25,513
+2832,389,407,Stockwell,1,5,644
+2833,420,459,Wimbledon Park,1,7,644
+2834,454,462,Bethnal Green,1,10,513
+2835,456,467,Bethnal Green,1,10,513
+2836,484,493,Bethnal Green,1,12,513
+2837,492,502,Bethnal Green,1,12,513
+2838,513,521,Bethnal Green,1,14,513
+2839,539,549,Bethnal Green,1,15,513
+2840,562,571,Bethnal Green,1,17,513
+2841,589,598,Bethnal Green,1,19,513
+2842,656,671,Bethnal Green,1,23,644
+2843,688,696,Bethnal Green,1,25,513
+2844,705,713,Bethnal Green,1,26,513
+2845,528,538,Bethnal Green,1,15,513
+2846,547,556,Bethnal Green,1,16,513
+2847,484,494,Bethnal Green,1,12,513
+2848,587,596,Bethnal Green,1,19,513
+2849,688,696,Bethnal Green,1,25,513
+2850,510,527,Bethnal Green,1,13,644
+2851,548,555,Bethnal Green,1,16,513
+2852,639,651,Bethnal Green,1,22,644
+2853,704,713,Bethnal Green,1,26,513
+2854,439,447,Bethnal Green,1,9,513
+2855,589,598,Bethnal Green,1,19,513
+2856,515,523,Bethnal Green,1,14,513
+2857,616,624,Bethnal Green,1,21,513
+2858,522,529,Bethnal Green,1,14,513
+2859,506,519,Bethnal Green,1,13,644
+2860,604,612,Bethnal Green,1,20,513
+2861,669,677,Bethnal Green,1,24,513
+2862,604,612,Bethnal Green,1,20,513
+2863,463,472,Bethnal Green,1,10,513
+2864,529,537,Bethnal Green,1,15,513
+2865,517,524,Bethnal Green,1,14,513
+2866,538,546,Bethnal Green,1,15,513
+2867,473,481,Bethnal Green,1,11,513
+2868,583,595,Bethnal Green,1,18,513
+2869,669,677,Bethnal Green,1,24,513
+2870,679,688,Bethnal Green,1,25,513
+2871,589,598,Bethnal Green,1,19,513
+2872,521,530,Bethnal Green,1,14,513
+2873,526,537,Bethnal Green,1,15,513
+2874,683,691,Bethnal Green,1,25,513
+2875,630,642,Bethnal Green,1,21,513
+2876,697,709,Bethnal Green,1,26,644
+2877,538,555,Bethnal Green,1,15,644
+2878,453,470,Kings Cross T,1,10,644
+2879,522,536,Kings Cross T,1,14,644
+2880,566,583,Kings Cross T,1,17,513
+2881,588,603,Kings Cross T,1,19,644
+2882,658,676,Kings Cross T,1,23,644
+2883,709,723,Kings Cross T,1,27,644
+2884,585,600,Kings Cross T,1,18,513
+2885,612,627,Kings Cross T,1,20,513
+2886,556,572,Kings Cross T,1,17,513
+2887,635,652,Kings Cross T,1,22,644
+2888,585,601,Kings Cross T,1,18,513
+2889,557,573,Kings Cross T,1,17,644
+2890,669,687,Kings Cross T,1,24,644
+2891,566,586,Kings Cross T,1,17,513
+2892,701,717,Kings Cross T,1,26,644
+2893,424,440,Kings Cross T,1,8,513
+2894,691,707,Kings Cross T,1,26,513
+2895,412,427,Kings Cross T,1,7,513
+2896,514,532,Kings Cross T,1,14,513
+2897,445,460,Kings Cross T,1,9,644
+2898,456,476,Kings Cross T,1,10,513
+2899,695,713,Kings Cross T,1,26,513
+2900,567,584,Kings Cross T,1,17,644
+2901,575,594,Kings Cross T,1,18,513
+2902,448,468,Clapham North,1,9,513
+2903,531,556,Clapham North,1,15,513
+2904,369,390,Clapham North,1,4,644
+2905,478,499,Clapham North,1,11,513
+2906,670,690,Clapham North,1,24,644
+2907,614,634,Clapham North,1,20,513
+2908,704,726,Clapham North,1,26,513
+2909,694,719,Clapham North,1,26,513
+2910,443,469,Shepherds Bush LU,1,9,513
+2911,442,472,Shepherds Bush LU,1,9,513
+2912,594,618,Shepherds Bush LU,1,19,513
+2913,601,626,Shepherds Bush LU,1,20,513
+2914,614,638,Shepherds Bush LU,1,20,513
+2915,661,715,Shepherds Bush LU,1,24,513
+2916,387,408,Shepherds Bush LU,1,5,513
+2917,552,576,Shepherds Bush LU,1,16,513
+2918,582,606,Shepherds Bush LU,1,18,513
+2919,547,573,Shepherds Bush LU,1,16,513
+2920,670,697,Shepherds Bush LU,1,24,644
+2921,711,733,Shepherds Bush LU,1,27,513
+2922,614,637,Shepherds Bush LU,1,20,513
+2923,681,708,Shepherds Bush LU,1,25,513
+2924,414,438,Shepherds Bush LU,1,7,513
+2925,690,715,Shepherds Bush LU,1,25,513
+2926,539,570,Shepherds Bush LU,1,15,644
+2927,459,484,Shepherds Bush LU,1,10,513
+2928,528,550,Shepherds Bush LU,1,15,513
+2929,565,590,Shepherds Bush LU,1,17,513
+2930,374,399,Shepherds Bush LU,1,4,513
+2931,499,523,Shepherds Bush LU,1,13,513
+2932,686,709,Shepherds Bush LU,1,25,513
+2933,701,726,Shepherds Bush LU,1,26,513
+2934,500,524,Shepherds Bush LU,1,13,513
+2935,681,708,Shepherds Bush LU,1,25,513
+2936,608,634,Shepherds Bush LU,1,20,513
+2937,426,454,Shepherds Bush LU,1,8,644
+2938,573,597,Shepherds Bush LU,1,18,513
+2939,711,732,Shepherds Bush LU,1,27,513
+2940,546,571,Shepherds Bush LU,1,16,513
+2941,542,566,Shepherds Bush LU,1,16,513
+2942,710,732,Shepherds Bush LU,1,27,513
+2943,562,585,Shepherds Bush LU,1,17,513
+2944,619,643,Shepherds Bush LU,1,21,513
+2945,446,471,Shepherds Bush LU,1,9,513
+2946,458,467,Temple,1,10,644
+2947,530,541,Temple,1,15,644
+2948,579,587,Temple,1,18,644
+2949,579,587,Temple,1,18,644
+2950,616,625,Temple,1,21,644
+2951,637,645,Temple,1,22,644
+2952,637,645,Temple,1,22,644
+2953,637,645,Temple,1,22,644
+2954,519,528,Temple,1,14,644
+2955,501,508,Temple,1,13,644
+2956,404,411,Temple,1,6,644
+2957,630,640,Temple,1,21,644
+2958,585,593,Temple,1,18,644
+2959,505,512,Temple,1,13,644
+2960,570,579,Temple,1,17,644
+2961,715,723,Temple,1,27,644
+2962,560,574,Temple,1,17,644
+2963,576,584,Temple,1,18,644
+2964,701,710,Temple,1,26,644
+2965,684,692,Temple,1,25,644
+2966,497,505,Temple,1,13,644
+2967,690,700,Temple,1,25,644
+2968,620,629,Temple,1,21,644
+2969,681,690,Temple,1,25,644
+2970,524,532,Temple,1,14,644
+2971,651,660,Temple,1,23,644
+2972,635,643,Temple,1,22,644
+2973,514,528,Temple,1,14,513
+2974,563,577,Temple,1,17,644
+2975,631,640,Temple,1,22,644
+2976,579,587,Temple,1,18,644
+2977,496,504,Temple,1,13,644
+2978,700,709,Temple,1,26,644
+2979,502,510,Temple,1,13,644
+2980,560,575,Temple,1,17,644
+2981,689,700,Temple,1,25,644
+2982,676,686,Temple,1,25,644
+2983,457,467,Temple,1,10,644
+2984,552,559,Temple,1,16,644
+2985,688,701,Temple,1,25,644
+2986,508,518,Temple,1,13,644
+2987,535,543,Temple,1,15,644
+2988,505,513,Temple,1,13,644
+2989,540,549,Temple,1,15,644
+2990,506,514,Temple,1,13,644
+2991,519,528,Temple,1,14,644
+2992,579,587,Temple,1,18,644
+2993,541,550,Temple,1,16,644
+2994,540,548,Temple,1,15,644
+2995,482,490,Temple,1,12,644
+2996,601,609,Temple,1,20,644
+2997,672,679,Temple,1,24,644
+2998,553,562,Temple,1,16,644
+2999,510,518,Temple,1,13,644
+3000,525,534,Temple,1,14,644
+3001,530,539,Temple,1,15,644
+3002,643,651,Temple,1,22,644
+3003,703,713,Temple,1,26,644
+3004,456,472,Euston,1,10,513
+3005,471,489,Euston,1,11,513
+3006,485,501,Euston,1,12,513
+3007,488,505,Euston,1,12,644
+3008,512,531,Euston,1,14,644
+3009,531,548,Euston,1,15,513
+3010,539,556,Euston,1,15,513
+3011,543,559,Euston,1,16,513
+3012,628,648,Euston,1,21,513
+3013,642,659,Euston,1,22,644
+3014,644,661,Euston,1,22,513
+3015,648,665,Euston,1,23,513
+3016,682,697,Euston,1,25,513
+3017,680,698,Euston,1,25,644
+3018,686,701,Euston,1,25,513
+3019,700,718,Euston,1,26,513
+3020,714,731,Euston,1,27,644
+3021,519,538,Euston,1,14,513
+3022,706,731,Euston,1,27,513
+3023,576,595,Euston,1,18,513
+3024,649,666,Euston,1,23,644
+3025,432,447,Euston,1,8,513
+3026,698,714,Euston,1,26,513
+3027,669,688,Euston,1,24,513
+3028,574,595,Euston,1,18,513
+3029,681,697,Euston,1,25,513
+3030,718,733,Euston,1,27,513
+3031,553,572,Euston,1,16,644
+3032,533,552,Euston,1,15,513
+3033,648,665,Euston,1,23,513
+3034,600,616,Euston,1,19,513
+3035,663,681,Euston,1,24,513
+3036,531,548,Euston,1,15,513
+3037,537,559,Euston,1,15,513
+3038,575,594,Euston,1,18,513
+3039,702,718,Euston,1,26,513
+3040,662,677,Euston,1,24,644
+3041,537,555,Euston,1,15,513
+3042,601,616,Euston,1,20,513
+3043,654,675,Euston,1,23,513
+3044,589,610,Euston,1,19,513
+3045,693,711,Euston,1,26,513
+3046,711,731,Euston,1,27,513
+3047,345,370,Euston,1,2,513
+3048,711,731,Euston,1,27,513
+3049,677,692,Euston,1,25,513
+3050,709,747,Euston,1,27,644
+3051,543,559,Euston,1,16,513
+3052,562,579,Euston,1,17,513
+3053,617,633,Euston,1,21,513
+3054,679,697,Euston,1,25,513
+3055,679,697,Euston,1,25,513
+3056,446,462,Euston,1,9,513
+3057,693,709,Euston,1,26,513
+3058,675,691,Euston,1,24,513
+3059,579,599,Euston,1,18,513
+3060,675,692,Euston,1,24,513
+3061,568,586,Euston,1,17,513
+3062,684,699,Euston,1,25,513
+3063,532,551,Euston,1,15,513
+3064,695,711,Euston,1,26,513
+3065,620,634,Euston,1,21,513
+3066,699,715,Euston,1,26,644
+3067,594,610,Euston,1,19,513
+3068,655,670,Euston,1,23,644
+3069,693,709,Euston,1,26,513
+3070,550,569,Euston,1,16,513
+3071,600,616,Euston,1,19,513
+3072,416,431,Euston,1,7,513
+3073,687,709,Euston,1,25,644
+3074,648,665,Euston,1,23,644
+3075,669,688,Euston,1,24,513
+3076,614,629,Euston,1,20,513
+3077,658,674,Euston,1,23,513
+3078,684,700,Euston,1,25,513
+3079,443,458,Euston,1,9,644
+3080,633,650,Euston,1,22,644
+3081,555,571,Euston,1,16,513
+3082,435,474,Morden,1,8,513
+3083,533,576,Morden,1,15,513
+3084,408,450,Morden,1,7,513
+3085,631,666,Morden,1,22,513
+3086,703,744,Morden,1,26,513
+3087,462,474,St James's Park,1,10,644
+3088,464,479,St James's Park,1,10,644
+3089,492,504,St James's Park,1,12,644
+3090,498,513,St James's Park,1,13,644
+3091,513,530,St James's Park,1,14,644
+3092,524,539,St James's Park,1,14,644
+3093,539,554,St James's Park,1,15,644
+3094,542,556,St James's Park,1,16,644
+3095,556,573,St James's Park,1,17,644
+3096,570,583,St James's Park,1,17,644
+3097,575,589,St James's Park,1,18,644
+3098,605,618,St James's Park,1,20,644
+3099,634,649,St James's Park,1,22,644
+3100,654,666,St James's Park,1,23,644
+3101,537,561,St James's Park,1,15,513
+3102,679,695,St James's Park,1,25,644
+3103,704,719,St James's Park,1,26,644
+3104,636,649,St James's Park,1,22,644
+3105,558,573,St James's Park,1,17,644
+3106,562,583,St James's Park,1,17,644
+3107,629,642,St James's Park,1,21,644
+3108,521,535,St James's Park,1,14,644
+3109,634,649,St James's Park,1,22,644
+3110,548,562,St James's Park,1,16,644
+3111,704,719,St James's Park,1,26,644
+3112,704,719,St James's Park,1,26,644
+3113,428,441,St James's Park,1,8,644
+3114,611,624,St James's Park,1,20,644
+3115,574,586,St James's Park,1,18,644
+3116,553,569,St James's Park,1,16,644
+3117,717,731,St James's Park,1,27,644
+3118,643,657,St James's Park,1,22,644
+3119,630,647,St James's Park,1,21,644
+3120,455,473,St James's Park,1,10,644
+3121,579,593,St James's Park,1,18,644
+3122,574,586,St James's Park,1,18,644
+3123,597,610,St James's Park,1,19,644
+3124,540,554,St James's Park,1,15,644
+3125,638,652,St James's Park,1,22,644
+3126,607,621,St James's Park,1,20,644
+3127,667,681,St James's Park,1,24,644
+3128,470,483,St James's Park,1,11,644
+3129,687,703,St James's Park,1,25,644
+3130,454,469,St James's Park,1,10,644
+3131,524,541,St James's Park,1,14,644
+3132,704,719,St James's Park,1,26,644
+3133,389,401,St James's Park,1,5,644
+3134,464,478,St James's Park,1,10,644
+3135,503,518,St James's Park,1,13,644
+3136,486,501,St James's Park,1,12,644
+3137,667,681,St James's Park,1,24,644
+3138,566,584,St James's Park,1,17,644
+3139,414,479,Mortlake,1,7,513
+3140,691,728,Mortlake,1,26,513
+3141,487,537,Mortlake,1,12,513
+3142,593,627,Mortlake,1,19,513
+3143,457,475,Canary Wharf DLR,1,10,644
+3144,481,495,Canary Wharf DLR,1,12,513
+3145,481,495,Canary Wharf DLR,1,12,513
+3146,477,495,Canary Wharf DLR,1,11,513
+3147,492,507,Canary Wharf DLR,1,12,513
+3148,500,516,Canary Wharf DLR,1,13,513
+3149,504,520,Canary Wharf DLR,1,13,513
+3150,503,520,Canary Wharf DLR,1,13,513
+3151,508,524,Canary Wharf DLR,1,13,513
+3152,514,528,Canary Wharf DLR,1,14,513
+3153,523,540,Canary Wharf DLR,1,14,513
+3154,526,544,Canary Wharf DLR,1,15,513
+3155,526,540,Canary Wharf DLR,1,15,513
+3156,532,548,Canary Wharf DLR,1,15,513
+3157,537,555,Canary Wharf DLR,1,15,644
+3158,539,555,Canary Wharf DLR,1,15,513
+3159,545,558,Canary Wharf DLR,1,16,513
+3160,545,559,Canary Wharf DLR,1,16,513
+3161,554,571,Canary Wharf DLR,1,16,644
+3162,554,571,Canary Wharf DLR,1,16,644
+3163,562,578,Canary Wharf DLR,1,17,513
+3164,565,582,Canary Wharf DLR,1,17,513
+3165,567,582,Canary Wharf DLR,1,17,513
+3166,574,590,Canary Wharf DLR,1,18,513
+3167,572,587,Canary Wharf DLR,1,18,513
+3168,583,598,Canary Wharf DLR,1,18,644
+3169,587,602,Canary Wharf DLR,1,19,513
+3170,593,611,Canary Wharf DLR,1,19,513
+3171,596,610,Canary Wharf DLR,1,19,513
+3172,614,631,Canary Wharf DLR,1,20,513
+3173,613,631,Canary Wharf DLR,1,20,513
+3174,624,641,Canary Wharf DLR,1,21,513
+3175,627,645,Canary Wharf DLR,1,21,513
+3176,637,656,Canary Wharf DLR,1,22,513
+3177,638,656,Canary Wharf DLR,1,22,513
+3178,652,670,Canary Wharf DLR,1,23,513
+3179,654,671,Canary Wharf DLR,1,23,644
+3180,662,680,Canary Wharf DLR,1,24,513
+3181,665,681,Canary Wharf DLR,1,24,513
+3182,667,686,Canary Wharf DLR,1,24,513
+3183,675,691,Canary Wharf DLR,1,24,513
+3184,676,696,Canary Wharf DLR,1,25,513
+3185,694,710,Canary Wharf DLR,1,26,513
+3186,694,710,Canary Wharf DLR,1,26,513
+3187,699,715,Canary Wharf DLR,1,26,513
+3188,706,721,Canary Wharf DLR,1,27,513
+3189,706,721,Canary Wharf DLR,1,27,513
+3190,695,711,Canary Wharf DLR,1,26,644
+3191,702,722,Canary Wharf DLR,1,26,644
+3192,709,725,Canary Wharf DLR,1,27,513
+3193,708,726,Canary Wharf DLR,1,27,513
+3194,709,726,Canary Wharf DLR,1,27,513
+3195,707,722,Canary Wharf DLR,1,27,513
+3196,708,726,Canary Wharf DLR,1,27,513
+3197,712,730,Canary Wharf DLR,1,27,513
+3198,717,731,Canary Wharf DLR,1,27,513
+3199,720,735,Canary Wharf DLR,1,27,513
+3200,719,736,Canary Wharf DLR,1,27,513
+3201,610,625,Canary Wharf DLR,1,20,513
+3202,475,490,Canary Wharf DLR,1,11,513
+3203,690,705,Canary Wharf DLR,1,25,513
+3204,578,594,Canary Wharf DLR,1,18,513
+3205,713,731,Canary Wharf DLR,1,27,513
+3206,465,483,Canary Wharf DLR,1,10,513
+3207,503,520,Canary Wharf DLR,1,13,513
+3208,499,520,Canary Wharf DLR,1,13,513
+3209,588,603,Canary Wharf DLR,1,19,513
+3210,630,651,Canary Wharf DLR,1,21,513
+3211,629,645,Canary Wharf DLR,1,21,513
+3212,654,670,Canary Wharf DLR,1,23,513
+3213,654,671,Canary Wharf DLR,1,23,513
+3214,688,787,Canary Wharf DLR,1,25,644
+3215,595,610,Canary Wharf DLR,1,19,644
+3216,623,640,Canary Wharf DLR,1,21,513
+3217,699,723,Canary Wharf DLR,1,26,513
+3218,547,563,Canary Wharf DLR,1,16,513
+3219,557,575,Canary Wharf DLR,1,17,644
+3220,710,726,Canary Wharf DLR,1,27,644
+3221,576,591,Canary Wharf DLR,1,18,644
+3222,680,695,Canary Wharf DLR,1,25,513
+3223,518,537,Canary Wharf DLR,1,14,644
+3224,522,536,Canary Wharf DLR,1,14,513
+3225,612,631,Canary Wharf DLR,1,20,644
+3226,637,656,Canary Wharf DLR,1,22,513
+3227,503,520,Canary Wharf DLR,1,13,513
+3228,512,528,Canary Wharf DLR,1,14,513
+3229,534,551,Canary Wharf DLR,1,15,513
+3230,643,661,Canary Wharf DLR,1,22,513
+3231,651,665,Canary Wharf DLR,1,23,513
+3232,719,735,Canary Wharf DLR,1,27,513
+3233,642,661,Canary Wharf DLR,1,22,513
+3234,710,726,Canary Wharf DLR,1,27,513
+3235,711,731,Canary Wharf DLR,1,27,513
+3236,553,571,Canary Wharf DLR,1,16,513
+3237,553,571,Canary Wharf DLR,1,16,513
+3238,635,651,Canary Wharf DLR,1,22,513
+3239,645,661,Canary Wharf DLR,1,22,513
+3240,516,532,Canary Wharf DLR,1,14,513
+3241,651,666,Canary Wharf DLR,1,23,513
+3242,541,558,Canary Wharf DLR,1,16,644
+3243,579,595,Canary Wharf DLR,1,18,513
+3244,691,705,Canary Wharf DLR,1,26,644
+3245,532,547,Canary Wharf DLR,1,15,513
+3246,534,550,Canary Wharf DLR,1,15,513
+3247,638,655,Canary Wharf DLR,1,22,513
+3248,653,671,Canary Wharf DLR,1,23,513
+3249,688,705,Canary Wharf DLR,1,25,644
+3250,542,558,Canary Wharf DLR,1,16,513
+3251,609,626,Canary Wharf DLR,1,20,513
+3252,402,419,Canary Wharf DLR,1,6,513
+3253,474,492,Canary Wharf DLR,1,11,513
+3254,517,532,Canary Wharf DLR,1,14,513
+3255,564,578,Canary Wharf DLR,1,17,513
+3256,577,595,Canary Wharf DLR,1,18,644
+3257,641,656,Canary Wharf DLR,1,22,513
+3258,649,665,Canary Wharf DLR,1,23,513
+3259,513,533,Canary Wharf DLR,1,14,513
+3260,691,706,Canary Wharf DLR,1,26,513
+3261,471,491,Canary Wharf DLR,1,11,513
+3262,551,567,Canary Wharf DLR,1,16,513
+3263,609,625,Canary Wharf DLR,1,20,513
+3264,710,731,Canary Wharf DLR,1,27,513
+3265,720,735,Canary Wharf DLR,1,27,644
+3266,587,602,Canary Wharf DLR,1,19,513
+3267,549,563,Canary Wharf DLR,1,16,513
+3268,681,695,Canary Wharf DLR,1,25,513
+3269,438,451,Canary Wharf DLR,1,9,513
+3270,438,454,Canary Wharf DLR,1,9,513
+3271,487,503,Canary Wharf DLR,1,12,513
+3272,637,656,Canary Wharf DLR,1,22,513
+3273,645,660,Canary Wharf DLR,1,22,513
+3274,644,661,Canary Wharf DLR,1,22,513
+3275,671,686,Canary Wharf DLR,1,24,513
+3276,545,563,Canary Wharf DLR,1,16,513
+3277,621,635,Canary Wharf DLR,1,21,644
+3278,499,516,Canary Wharf DLR,1,13,513
+3279,551,567,Canary Wharf DLR,1,16,513
+3280,573,590,Canary Wharf DLR,1,18,513
+3281,574,591,Canary Wharf DLR,1,18,513
+3282,603,621,Canary Wharf DLR,1,20,513
+3283,644,661,Canary Wharf DLR,1,22,513
+3284,669,686,Canary Wharf DLR,1,24,513
+3285,697,715,Canary Wharf DLR,1,26,513
+3286,653,671,Canary Wharf DLR,1,23,513
+3287,691,705,Canary Wharf DLR,1,26,513
+3288,691,711,Canary Wharf DLR,1,26,513
+3289,489,507,Canary Wharf DLR,1,12,513
+3290,690,705,Canary Wharf DLR,1,25,513
+3291,485,503,Canary Wharf DLR,1,12,644
+3292,476,491,Canary Wharf DLR,1,11,513
+3293,635,659,Canary Wharf DLR,1,22,513
+3294,698,715,Canary Wharf DLR,1,26,513
+3295,558,575,Canary Wharf DLR,1,17,513
+3296,573,586,Canary Wharf DLR,1,18,513
+3297,627,645,Canary Wharf DLR,1,21,513
+3298,520,536,Canary Wharf DLR,1,14,513
+3299,585,603,Canary Wharf DLR,1,18,644
+3300,493,507,Canary Wharf DLR,1,12,513
+3301,716,731,Canary Wharf DLR,1,27,513
+3302,660,675,Canary Wharf DLR,1,23,513
+3303,674,690,Canary Wharf DLR,1,24,513
+3304,496,515,Canary Wharf DLR,1,13,513
+3305,603,621,Canary Wharf DLR,1,20,513
+3306,711,731,Canary Wharf DLR,1,27,513
+3307,521,537,Canary Wharf DLR,1,14,513
+3308,526,544,Canary Wharf DLR,1,15,513
+3309,603,621,Canary Wharf DLR,1,20,513
+3310,644,660,Canary Wharf DLR,1,22,513
+3311,680,695,Canary Wharf DLR,1,25,513
+3312,440,455,Canary Wharf DLR,1,9,513
+3313,495,511,Canary Wharf DLR,1,12,513
+3314,508,524,Canary Wharf DLR,1,13,513
+3315,472,487,Canary Wharf DLR,1,11,513
+3316,498,524,Canary Wharf DLR,1,13,644
+3317,600,615,Canary Wharf DLR,1,19,513
+3318,455,470,Canary Wharf DLR,1,10,644
+3319,469,487,Canary Wharf DLR,1,11,513
+3320,620,636,Canary Wharf DLR,1,21,513
+3321,702,721,Canary Wharf DLR,1,26,513
+3322,716,731,Canary Wharf DLR,1,27,513
+3323,695,710,Canary Wharf DLR,1,26,513
+3324,678,696,Canary Wharf DLR,1,25,513
+3325,623,640,Canary Wharf DLR,1,21,513
+3326,635,651,Canary Wharf DLR,1,22,513
+3327,656,670,Canary Wharf DLR,1,23,513
+3328,706,721,Canary Wharf DLR,1,27,513
+3329,494,512,Canary Wharf DLR,1,12,513
+3330,593,610,Canary Wharf DLR,1,19,513
+3331,514,533,Canary Wharf DLR,1,14,513
+3332,551,567,Canary Wharf DLR,1,16,644
+3333,579,595,Canary Wharf DLR,1,18,644
+3334,581,598,Canary Wharf DLR,1,18,513
+3335,629,645,Canary Wharf DLR,1,21,513
+3336,659,675,Canary Wharf DLR,1,23,513
+3337,436,451,Canary Wharf DLR,1,9,513
+3338,566,582,Canary Wharf DLR,1,17,513
+3339,654,671,Canary Wharf DLR,1,23,513
+3340,654,671,Canary Wharf DLR,1,23,513
+3341,710,725,Canary Wharf DLR,1,27,513
+3342,501,519,Canary Wharf DLR,1,13,513
+3343,558,575,Canary Wharf DLR,1,17,513
+3344,481,499,Canary Wharf DLR,1,12,513
+3345,374,391,Canary Wharf DLR,1,4,513
+3346,545,559,Canary Wharf DLR,1,16,513
+3347,637,655,Canary Wharf DLR,1,22,513
+3348,488,503,Canary Wharf DLR,1,12,513
+3349,528,544,Canary Wharf DLR,1,15,513
+3350,647,665,Canary Wharf DLR,1,23,513
+3351,695,711,Canary Wharf DLR,1,26,644
+3352,710,726,Canary Wharf DLR,1,27,513
+3353,559,575,Canary Wharf DLR,1,17,513
+3354,631,646,Canary Wharf DLR,1,22,513
+3355,655,670,Canary Wharf DLR,1,23,513
+3356,471,491,Canary Wharf DLR,1,11,513
+3357,649,665,Canary Wharf DLR,1,23,513
+3358,608,694,Canary Wharf DLR,1,20,513
+3359,437,451,Canary Wharf DLR,1,9,513
+3360,615,630,Canary Wharf DLR,1,20,513
+3361,635,651,Canary Wharf DLR,1,22,513
+3362,711,730,Canary Wharf DLR,1,27,513
+3363,660,675,Canary Wharf DLR,1,23,513
+3364,582,598,Canary Wharf DLR,1,18,513
+3365,632,651,Canary Wharf DLR,1,22,644
+3366,521,536,Canary Wharf DLR,1,14,513
+3367,547,563,Canary Wharf DLR,1,16,513
+3368,638,655,Canary Wharf DLR,1,22,513
+3369,645,661,Canary Wharf DLR,1,22,513
+3370,666,680,Canary Wharf DLR,1,24,513
+3371,543,559,Canary Wharf DLR,1,16,513
+3372,638,655,Canary Wharf DLR,1,22,644
+3373,510,528,Canary Wharf DLR,1,13,644
+3374,611,678,Canary Wharf DLR,1,20,513
+3375,483,498,Canary Wharf DLR,1,12,513
+3376,498,515,Canary Wharf DLR,1,13,513
+3377,596,610,Canary Wharf DLR,1,19,513
+3378,517,532,Canary Wharf DLR,1,14,513
+3379,625,641,Canary Wharf DLR,1,21,513
+3380,513,532,Canary Wharf DLR,1,14,513
+3381,703,722,Canary Wharf DLR,1,26,513
+3382,694,710,Canary Wharf DLR,1,26,513
+3383,702,721,Canary Wharf DLR,1,26,513
+3384,606,621,Canary Wharf DLR,1,20,513
+3385,644,660,Canary Wharf DLR,1,22,513
+3386,463,478,Canary Wharf DLR,1,10,513
+3387,653,671,Canary Wharf DLR,1,23,513
+3388,599,616,Canary Wharf DLR,1,19,513
+3389,485,503,Canary Wharf DLR,1,12,644
+3390,571,587,Canary Wharf DLR,1,18,513
+3391,612,630,Canary Wharf DLR,1,20,513
+3392,641,656,Canary Wharf DLR,1,22,644
+3393,669,686,Canary Wharf DLR,1,24,644
+3394,715,731,Canary Wharf DLR,1,27,644
+3395,717,736,Canary Wharf DLR,1,27,513
+3396,560,575,Canary Wharf DLR,1,17,644
+3397,684,700,Canary Wharf DLR,1,25,513
+3398,620,636,Canary Wharf DLR,1,21,513
+3399,689,706,Canary Wharf DLR,1,25,513
+3400,517,532,Canary Wharf DLR,1,14,513
+3401,646,661,Canary Wharf DLR,1,23,644
+3402,686,705,Canary Wharf DLR,1,25,513
+3403,720,736,Canary Wharf DLR,1,27,513
+3404,600,617,Canary Wharf DLR,1,19,513
+3405,637,656,Canary Wharf DLR,1,22,513
+3406,673,690,Canary Wharf DLR,1,24,513
+3407,317,343,Canary Wharf DLR,1,1,513
+3408,447,463,Canary Wharf DLR,1,9,513
+3409,546,604,Canary Wharf DLR,1,16,513
+3410,626,640,Canary Wharf DLR,1,21,513
+3411,540,554,Canary Wharf DLR,1,15,513
+3412,699,715,Canary Wharf DLR,1,26,513
+3413,510,528,Canary Wharf DLR,1,13,513
+3414,570,586,Canary Wharf DLR,1,17,513
+3415,641,656,Canary Wharf DLR,1,22,644
+3416,678,696,Canary Wharf DLR,1,25,513
+3417,671,736,Canary Wharf DLR,1,24,513
+3418,544,559,Canary Wharf DLR,1,16,513
+3419,671,686,Canary Wharf DLR,1,24,513
+3420,711,726,Canary Wharf DLR,1,27,644
+3421,536,551,Canary Wharf DLR,1,15,513
+3422,640,655,Canary Wharf DLR,1,22,513
+3423,614,630,Canary Wharf DLR,1,20,513
+3424,656,687,Canary Wharf DLR,1,23,513
+3425,450,467,Canary Wharf DLR,1,9,644
+3426,490,507,Canary Wharf DLR,1,12,644
+3427,515,533,Canary Wharf DLR,1,14,513
+3428,638,711,Canary Wharf DLR,1,22,513
+3429,719,735,Canary Wharf DLR,1,27,513
+3430,699,716,Canary Wharf DLR,1,26,513
+3431,510,529,Canary Wharf DLR,1,13,513
+3432,719,736,Canary Wharf DLR,1,27,513
+3433,593,610,Canary Wharf DLR,1,19,513
+3434,661,681,Canary Wharf DLR,1,24,513
+3435,665,681,Canary Wharf DLR,1,24,513
+3436,657,671,Canary Wharf DLR,1,23,513
+3437,516,532,Canary Wharf DLR,1,14,513
+3438,518,536,Canary Wharf DLR,1,14,513
+3439,592,606,Canary Wharf DLR,1,19,513
+3440,633,651,Canary Wharf DLR,1,22,513
+3441,417,431,Canary Wharf DLR,1,7,644
+3442,567,582,Canary Wharf DLR,1,17,513
+3443,657,671,Canary Wharf DLR,1,23,513
+3444,711,726,Canary Wharf DLR,1,27,513
+3445,654,671,Canary Wharf DLR,1,23,513
+3446,644,660,Canary Wharf DLR,1,22,513
+3447,667,686,Canary Wharf DLR,1,24,644
+3448,628,645,Canary Wharf DLR,1,21,513
+3449,573,586,Canary Wharf DLR,1,18,513
+3450,629,646,Canary Wharf DLR,1,21,513
+3451,631,646,Canary Wharf DLR,1,22,513
+3452,620,636,Canary Wharf DLR,1,21,513
+3453,640,700,Canary Wharf DLR,1,22,513
+3454,617,715,Canary Wharf DLR,1,21,513
+3455,577,595,Canary Wharf DLR,1,18,644
+3456,638,656,Canary Wharf DLR,1,22,513
+3457,641,656,Canary Wharf DLR,1,22,644
+3458,648,665,Canary Wharf DLR,1,23,513
+3459,648,665,Canary Wharf DLR,1,23,513
+3460,674,691,Canary Wharf DLR,1,24,513
+3461,707,726,Canary Wharf DLR,1,27,513
+3462,629,646,Canary Wharf DLR,1,21,513
+3463,650,666,Canary Wharf DLR,1,23,513
+3464,678,696,Canary Wharf DLR,1,25,513
+3465,709,726,Canary Wharf DLR,1,27,513
+3466,583,598,Canary Wharf DLR,1,18,513
+3467,522,541,Canary Wharf DLR,1,14,513
+3468,616,630,Canary Wharf DLR,1,21,513
+3469,498,515,Canary Wharf DLR,1,13,513
+3470,621,636,Canary Wharf DLR,1,21,513
+3471,683,700,Canary Wharf DLR,1,25,513
+3472,701,721,Canary Wharf DLR,1,26,513
+3473,434,480,Essex Road,1,8,644
+3474,489,527,Essex Road,1,12,513
+3475,529,568,Essex Road,1,15,513
+3476,400,439,Essex Road,1,6,513
+3477,428,463,Essex Road,1,8,644
+3478,646,681,Essex Road,1,23,513
+3479,489,527,Essex Road,1,12,644
+3480,539,576,Essex Road,1,15,513
+3481,391,439,Essex Road,1,6,513
+3482,441,487,Essex Road,1,9,513
+3483,422,455,Essex Road,1,8,644
+3484,359,392,Essex Road,1,3,513
+3485,429,464,Essex Road,1,8,513
+3486,684,721,Essex Road,1,25,513
+3487,431,463,Essex Road,1,8,513
+3488,423,463,Essex Road,1,8,513
+3489,536,576,Essex Road,1,15,644
+3490,465,485,Heron Quays,1,10,513
+3491,474,492,Heron Quays,1,11,513
+3492,499,518,Heron Quays,1,13,513
+3493,529,546,Heron Quays,1,15,513
+3494,527,546,Heron Quays,1,15,513
+3495,548,564,Heron Quays,1,16,513
+3496,578,596,Heron Quays,1,18,513
+3497,601,623,Heron Quays,1,20,513
+3498,655,674,Heron Quays,1,23,513
+3499,675,692,Heron Quays,1,24,644
+3500,704,723,Heron Quays,1,26,513
+3501,606,622,Heron Quays,1,20,513
+3502,697,713,Heron Quays,1,26,513
+3503,567,585,Heron Quays,1,17,513
+3504,557,572,Heron Quays,1,17,513
+3505,635,653,Heron Quays,1,22,513
+3506,668,688,Heron Quays,1,24,513
+3507,599,618,Heron Quays,1,19,513
+3508,506,526,Heron Quays,1,13,513
+3509,689,707,Heron Quays,1,25,513
+3510,482,501,Heron Quays,1,12,513
+3511,556,572,Heron Quays,1,17,513
+3512,570,590,Heron Quays,1,17,513
+3513,691,708,Heron Quays,1,26,513
+3514,530,549,Heron Quays,1,15,513
+3515,666,683,Heron Quays,1,24,513
+3516,533,553,Heron Quays,1,15,644
+3517,520,539,Heron Quays,1,14,513
+3518,487,505,Heron Quays,1,12,513
+3519,688,707,Heron Quays,1,25,513
+3520,409,429,Heron Quays,1,7,644
+3521,587,604,Heron Quays,1,19,644
+3522,345,363,Heron Quays,1,2,644
+3523,507,526,Heron Quays,1,13,513
+3524,530,550,Heron Quays,1,15,513
+3525,482,501,Heron Quays,1,12,513
+3526,563,581,Heron Quays,1,17,513
+3527,507,526,Heron Quays,1,13,513
+3528,697,712,Heron Quays,1,26,513
+3529,543,560,Heron Quays,1,16,513
+3530,528,546,Heron Quays,1,15,513
+3531,333,352,Heron Quays,1,2,513
+3532,387,408,Heron Quays,1,5,644
+3533,658,678,Heron Quays,1,23,644
+3534,475,497,Heron Quays,1,11,644
+3535,572,588,Heron Quays,1,18,513
+3536,682,703,Heron Quays,1,25,513
+3537,509,526,Heron Quays,1,13,513
+3538,626,643,Heron Quays,1,21,513
+3539,704,723,Heron Quays,1,26,513
+3540,668,688,Heron Quays,1,24,513
+3541,475,492,Heron Quays,1,11,513
+3542,517,534,Heron Quays,1,14,513
+3543,684,703,Heron Quays,1,25,644
+3544,504,522,Heron Quays,1,13,513
+3545,396,417,Heron Quays,1,6,513
+3546,690,708,Heron Quays,1,25,513
+3547,627,642,Heron Quays,1,21,513
+3548,633,653,Heron Quays,1,22,513
+3549,668,688,Heron Quays,1,24,513
+3550,453,473,Heron Quays,1,10,644
+3551,597,612,Heron Quays,1,19,644
+3552,629,648,Heron Quays,1,21,513
+3553,523,539,Heron Quays,1,14,513
+3554,668,688,Heron Quays,1,24,513
+3555,423,441,Heron Quays,1,8,644
+3556,490,509,Heron Quays,1,12,513
+3557,575,593,Heron Quays,1,18,644
+3558,635,653,Heron Quays,1,22,513
+3559,638,658,Heron Quays,1,22,513
+3560,590,609,Heron Quays,1,19,513
+3561,539,557,Heron Quays,1,15,513
+3562,478,487,Aldgate,1,11,644
+3563,509,516,Aldgate,1,13,644
+3564,516,527,Aldgate,1,14,644
+3565,516,527,Aldgate,1,14,644
+3566,516,527,Aldgate,1,14,644
+3567,516,527,Aldgate,1,14,644
+3568,491,498,Aldgate,1,12,644
+3569,436,449,Aldgate,1,9,644
+3570,662,676,Aldgate,1,24,513
+3571,516,527,Aldgate,1,14,644
+3572,698,703,Aldgate,1,26,644
+3573,542,550,Aldgate,1,16,644
+3574,585,591,Aldgate,1,18,644
+3575,427,434,Aldgate,1,8,644
+3576,704,716,Aldgate,1,26,644
+3577,516,527,Aldgate,1,14,644
+3578,583,591,Aldgate,1,18,644
+3579,523,536,Aldgate,1,14,644
+3580,534,548,Aldgate,1,15,644
+3581,516,532,Aldgate,1,14,513
+3582,607,632,Aldgate,1,20,513
+3583,509,516,Aldgate,1,13,644
+3584,483,488,Mansion House,1,12,644
+3585,629,636,Mansion House,1,21,644
+3586,640,653,Mansion House,1,22,644
+3587,718,723,Mansion House,1,27,644
+3588,477,482,Mansion House,1,11,644
+3589,517,522,Mansion House,1,14,644
+3590,665,671,Mansion House,1,24,644
+3591,659,667,Mansion House,1,23,644
+3592,665,671,Mansion House,1,24,644
+3593,709,714,Mansion House,1,27,644
+3594,682,687,Mansion House,1,25,644
+3595,431,437,Mansion House,1,8,644
+3596,707,715,Mansion House,1,27,644
+3597,675,683,Mansion House,1,24,644
+3598,602,607,Mansion House,1,20,644
+3599,477,488,Elephant & Castle,1,11,513
+3600,694,706,Elephant & Castle,1,26,644
+3601,707,724,Elephant & Castle,1,27,644
+3602,482,495,Elephant & Castle,1,12,644
+3603,573,583,Elephant & Castle,1,18,513
+3604,586,599,Elephant & Castle,1,19,513
+3605,659,677,Elephant & Castle,1,23,513
+3606,529,545,Elephant & Castle,1,15,513
+3607,646,661,Elephant & Castle,1,23,644
+3608,682,692,Elephant & Castle,1,25,513
+3609,659,678,Elephant & Castle,1,23,513
+3610,655,667,Elephant & Castle,1,23,513
+3611,496,508,Elephant & Castle,1,13,644
+3612,603,615,Elephant & Castle,1,20,513
+3613,583,596,Elephant & Castle,1,18,644
+3614,666,679,Elephant & Castle,1,24,513
+3615,556,572,Elephant & Castle,1,17,513
+3616,514,531,Elephant & Castle,1,14,644
+3617,446,480,Wandsworth Town,1,9,513
+3618,601,628,Wandsworth Town,1,20,513
+3619,643,676,Wandsworth Town,1,22,513
+3620,559,591,Wandsworth Town,1,17,513
+3621,638,677,Wandsworth Town,1,22,513
+3622,657,681,Wandsworth Town,1,23,513
+3623,465,482,Vauxhall NR,1,10,513
+3624,655,673,Vauxhall NR,1,23,513
+3625,622,638,Vauxhall NR,1,21,513
+3626,649,688,Vauxhall NR,1,23,513
+3627,470,494,Paddington,1,11,513
+3628,607,641,Paddington,1,20,644
+3629,615,645,Paddington,1,20,644
+3630,615,645,Paddington,1,20,644
+3631,642,675,Paddington,1,22,644
+3632,659,685,Paddington,1,23,513
+3633,714,740,Paddington,1,27,644
+3634,689,715,Paddington,1,25,513
+3635,569,592,Paddington,1,17,513
+3636,642,684,Paddington,1,22,513
+3637,717,756,Paddington,1,27,513
+3638,401,424,Paddington,1,6,513
+3639,625,655,Paddington,1,21,644
+3640,558,592,Paddington,1,17,644
+3641,634,663,Paddington,1,22,644
+3642,716,744,Paddington,1,27,644
+3643,635,658,Paddington,1,22,513
+3644,719,740,Paddington,1,27,513
+3645,645,669,Paddington,1,22,513
+3646,581,602,Paddington,1,18,513
+3647,572,595,Paddington,1,18,513
+3648,608,636,Paddington,1,20,644
+3649,645,669,Paddington,1,22,513
+3650,675,699,Paddington,1,24,513
+3651,424,455,Paddington,1,8,513
+3652,653,676,Paddington,1,23,513
+3653,683,711,Paddington,1,25,644
+3654,684,707,Paddington,1,25,513
+3655,714,747,Paddington,1,27,644
+3656,619,642,Paddington,1,21,513
+3657,674,703,Paddington,1,24,513
+3658,684,711,Paddington,1,25,513
+3659,669,692,Paddington,1,24,513
+3660,711,739,Paddington,1,27,513
+3661,688,711,Paddington,1,25,513
+3662,466,495,Tooting Broadway,1,11,513
+3663,624,652,Tooting Broadway,1,21,513
+3664,431,459,Tooting Broadway,1,8,513
+3665,420,448,Tooting Broadway,1,7,513
+3666,538,572,Tooting Broadway,1,15,644
+3667,381,411,Tooting Broadway,1,5,513
+3668,686,716,Tooting Broadway,1,25,644
+3669,620,653,Tooting Broadway,1,21,644
+3670,640,672,Tooting Broadway,1,22,513
+3671,686,716,Tooting Broadway,1,25,644
+3672,625,653,Tooting Broadway,1,21,513
+3673,627,659,Tooting Broadway,1,21,513
+3674,557,588,Tooting Broadway,1,17,513
+3675,653,684,Tooting Broadway,1,23,644
+3676,598,631,Tooting Broadway,1,19,513
+3677,620,654,Tooting Broadway,1,21,644
+3678,468,493,Knightsbridge,1,11,644
+3679,561,582,Knightsbridge,1,17,513
+3680,576,600,Knightsbridge,1,18,513
+3681,688,712,Knightsbridge,1,25,513
+3682,621,645,Knightsbridge,1,21,513
+3683,605,624,Knightsbridge,1,20,513
+3684,508,530,Knightsbridge,1,13,513
+3685,645,667,Knightsbridge,1,22,513
+3686,720,743,Knightsbridge,1,27,513
+3687,665,690,Knightsbridge,1,24,513
+3688,687,707,Knightsbridge,1,25,513
+3689,717,738,Knightsbridge,1,27,513
+3690,564,586,Knightsbridge,1,17,513
+3691,692,714,Knightsbridge,1,26,513
+3692,708,731,Knightsbridge,1,27,513
+3693,618,641,Knightsbridge,1,21,513
+3694,486,496,Moorgate,1,12,513
+3695,488,498,Moorgate,1,12,513
+3696,524,534,Moorgate,1,14,644
+3697,533,539,Moorgate,1,15,644
+3698,548,555,Moorgate,1,16,513
+3699,548,556,Moorgate,1,16,513
+3700,609,625,Moorgate,1,20,644
+3701,488,494,Moorgate,1,12,513
+3702,630,639,Moorgate,1,21,513
+3703,711,721,Moorgate,1,27,644
+3704,609,625,Moorgate,1,20,644
+3705,437,446,Moorgate,1,9,513
+3706,485,492,Moorgate,1,12,513
+3707,693,700,Moorgate,1,26,644
+3708,560,567,Moorgate,1,17,644
+3709,558,567,Moorgate,1,17,513
+3710,567,575,Moorgate,1,17,513
+3711,609,625,Moorgate,1,20,644
+3712,607,615,Moorgate,1,20,644
+3713,632,638,Moorgate,1,22,644
+3714,692,700,Moorgate,1,26,513
+3715,677,689,Moorgate,1,25,513
+3716,543,551,Moorgate,1,16,513
+3717,711,721,Moorgate,1,27,513
+3718,586,594,Moorgate,1,19,513
+3719,711,722,Moorgate,1,27,644
+3720,534,543,Moorgate,1,15,513
+3721,572,582,Moorgate,1,18,513
+3722,716,724,Moorgate,1,27,513
+3723,700,709,Moorgate,1,26,513
+3724,467,498,Prince Regent,1,11,644
+3725,570,602,Prince Regent,1,17,513
+3726,474,499,Warwick Avenue,1,11,513
+3727,618,644,Warwick Avenue,1,21,513
+3728,487,501,Leicester Square,1,12,513
+3729,547,565,Leicester Square,1,16,644
+3730,635,648,Leicester Square,1,22,513
+3731,716,730,Leicester Square,1,27,513
+3732,598,612,Leicester Square,1,19,513
+3733,629,651,Leicester Square,1,21,644
+3734,700,717,Leicester Square,1,26,513
+3735,587,600,Leicester Square,1,19,513
+3736,665,683,Leicester Square,1,24,513
+3737,629,651,Leicester Square,1,21,644
+3738,577,593,Leicester Square,1,18,644
+3739,699,717,Leicester Square,1,26,513
+3740,547,566,Leicester Square,1,16,644
+3741,689,705,Leicester Square,1,25,513
+3742,602,614,Leicester Square,1,20,513
+3743,649,665,Leicester Square,1,23,513
+3744,530,547,Leicester Square,1,15,513
+3745,585,602,Leicester Square,1,18,513
+3746,720,737,Leicester Square,1,27,513
+3747,585,602,Leicester Square,1,18,513
+3748,596,612,Leicester Square,1,19,644
+3749,652,666,Leicester Square,1,23,513
+3750,665,683,Leicester Square,1,24,513
+3751,481,503,Finsbury Park LU,1,12,513
+3752,475,506,Finsbury Park LU,1,11,513
+3753,618,644,Finsbury Park LU,1,21,513
+3754,475,506,Finsbury Park LU,1,11,513
+3755,684,708,Finsbury Park LU,1,25,513
+3756,589,617,Finsbury Park LU,1,19,513
+3757,589,636,Finsbury Park LU,1,19,513
+3758,478,504,Clapham South,1,11,513
+3759,696,721,Clapham South,1,26,644
+3760,585,609,Clapham South,1,18,513
+3761,479,504,Clapham South,1,11,513
+3762,676,699,Clapham South,1,25,513
+3763,719,742,Clapham South,1,27,513
+3764,587,613,Clapham South,1,19,644
+3765,706,729,Clapham South,1,27,513
+3766,704,729,Clapham South,1,26,513
+3767,484,505,Notting Hill Gate,1,12,513
+3768,536,557,Notting Hill Gate,1,15,513
+3769,614,634,Notting Hill Gate,1,20,513
+3770,679,699,Notting Hill Gate,1,25,513
+3771,689,708,Notting Hill Gate,1,25,513
+3772,702,721,Notting Hill Gate,1,26,513
+3773,637,658,Notting Hill Gate,1,22,513
+3774,710,729,Notting Hill Gate,1,27,513
+3775,633,655,Notting Hill Gate,1,22,513
+3776,427,448,Notting Hill Gate,1,8,513
+3777,647,667,Notting Hill Gate,1,23,513
+3778,421,443,Notting Hill Gate,1,8,513
+3779,645,680,Notting Hill Gate,1,22,644
+3780,700,718,Notting Hill Gate,1,26,513
+3781,432,454,Notting Hill Gate,1,8,513
+3782,682,703,Notting Hill Gate,1,25,513
+3783,606,626,Notting Hill Gate,1,20,513
+3784,481,506,Canning Town,1,12,513
+3785,652,675,Canning Town,1,23,513
+3786,600,618,Canning Town,1,19,513
+3787,643,665,Canning Town,1,22,513
+3788,513,534,Canning Town,1,14,644
+3789,469,512,Southfields,1,11,644
+3790,613,659,Southfields,1,20,644
+3791,685,723,Southfields,1,25,644
+3792,492,531,Southfields,1,12,644
+3793,439,479,Southfields,1,9,513
+3794,491,515,Hyde Park Corner,1,12,513
+3795,557,578,Hyde Park Corner,1,17,513
+3796,607,638,Hyde Park Corner,1,20,644
+3797,641,662,Hyde Park Corner,1,22,513
+3798,657,676,Hyde Park Corner,1,23,513
+3799,663,682,Hyde Park Corner,1,24,513
+3800,690,713,Hyde Park Corner,1,25,513
+3801,691,713,Hyde Park Corner,1,26,513
+3802,585,603,Hyde Park Corner,1,18,513
+3803,629,648,Hyde Park Corner,1,21,513
+3804,606,638,Hyde Park Corner,1,20,644
+3805,711,728,Hyde Park Corner,1,27,513
+3806,606,638,Hyde Park Corner,1,20,644
+3807,641,662,Hyde Park Corner,1,22,513
+3808,646,668,Hyde Park Corner,1,23,513
+3809,618,639,Hyde Park Corner,1,21,513
+3810,679,700,Hyde Park Corner,1,25,513
+3811,633,654,Hyde Park Corner,1,22,513
+3812,588,611,Hyde Park Corner,1,19,513
+3813,618,639,Hyde Park Corner,1,21,513
+3814,618,639,Hyde Park Corner,1,21,513
+3815,686,711,Hyde Park Corner,1,25,513
+3816,552,572,Hyde Park Corner,1,16,513
+3817,646,668,Hyde Park Corner,1,23,513
+3818,630,652,Hyde Park Corner,1,21,513
+3819,478,516,Beckton,1,11,513
+3820,524,565,Beckton,1,14,513
+3821,492,517,Marylebone,1,12,644
+3822,560,580,Marylebone,1,17,513
+3823,566,593,Marylebone,1,17,644
+3824,698,718,Marylebone,1,26,513
+3825,660,681,Marylebone,1,23,513
+3826,576,604,Marylebone,1,18,644
+3827,569,590,Marylebone,1,17,513
+3828,686,708,Marylebone,1,25,513
+3829,704,727,Marylebone,1,26,513
+3830,474,495,Marylebone,1,11,513
+3831,567,593,Marylebone,1,17,644
+3832,510,538,Marylebone,1,13,644
+3833,482,519,Neasden,1,12,513
+3834,502,572,Neasden,1,13,513
+3835,425,465,Neasden,1,8,644
+3836,473,508,Richmond,1,11,513
+3837,594,649,Richmond,1,19,513
+3838,562,601,Richmond,1,17,513
+3839,532,564,Richmond,1,15,513
+3840,627,666,Richmond,1,21,513
+3841,579,607,Richmond,1,18,513
+3842,642,667,Richmond,1,22,513
+3843,693,728,Richmond,1,26,513
+3844,543,605,Richmond,1,16,644
+3845,453,502,Richmond,1,10,644
+3846,598,648,Richmond,1,19,644
+3847,543,605,Richmond,1,16,644
+3848,502,521,Sloane Square,1,13,644
+3849,546,564,Sloane Square,1,16,644
+3850,559,577,Sloane Square,1,17,644
+3851,554,577,Sloane Square,1,16,644
+3852,608,626,Sloane Square,1,20,644
+3853,671,690,Sloane Square,1,24,644
+3854,568,588,Sloane Square,1,17,644
+3855,617,635,Sloane Square,1,21,644
+3856,578,596,Sloane Square,1,18,644
+3857,691,710,Sloane Square,1,26,644
+3858,714,733,Sloane Square,1,27,644
+3859,400,415,Sloane Square,1,6,644
+3860,636,654,Sloane Square,1,22,644
+3861,663,680,Sloane Square,1,24,644
+3862,718,736,Sloane Square,1,27,644
+3863,705,723,Sloane Square,1,26,644
+3864,671,689,Sloane Square,1,24,644
+3865,346,366,Sloane Square,1,3,644
+3866,671,699,Sloane Square,1,24,644
+3867,651,669,Sloane Square,1,23,644
+3868,452,470,Sloane Square,1,10,644
+3869,644,663,Sloane Square,1,22,644
+3870,522,544,Sloane Square,1,14,644
+3871,621,639,Sloane Square,1,21,644
+3872,470,522,Gunnersbury,1,11,644
+3873,578,624,Gunnersbury,1,18,644
+3874,541,598,Gunnersbury,1,16,644
+3875,621,658,Gunnersbury,1,21,644
+3876,679,725,Gunnersbury,1,25,644
+3877,366,412,Gunnersbury,1,4,644
+3878,682,727,Gunnersbury,1,25,644
+3879,490,523,Wood Green,1,12,513
+3880,609,638,Wood Green,1,20,644
+3881,654,686,Wood Green,1,23,513
+3882,682,712,Wood Green,1,25,513
+3883,432,462,Wood Green,1,8,513
+3884,589,647,Wood Green,1,19,513
+3885,481,523,Imperial Wharf,1,12,644
+3886,601,647,Imperial Wharf,1,20,513
+3887,508,523,Barbican,1,13,644
+3888,537,552,Barbican,1,15,644
+3889,671,682,Barbican,1,24,513
+3890,630,646,Barbican,1,21,513
+3891,612,626,Barbican,1,20,644
+3892,665,681,Barbican,1,24,644
+3893,550,564,Barbican,1,16,644
+3894,656,671,Barbican,1,23,644
+3895,601,618,Barbican,1,20,644
+3896,630,646,Barbican,1,21,513
+3897,709,721,Barbican,1,27,513
+3898,710,720,Barbican,1,27,513
+3899,537,554,Barbican,1,15,644
+3900,503,523,Mornington Crescent,1,13,513
+3901,610,633,Mornington Crescent,1,20,513
+3902,594,617,Mornington Crescent,1,19,644
+3903,493,525,Kentish Town,1,12,644
+3904,517,542,Kentish Town,1,14,513
+3905,579,601,Kentish Town,1,18,513
+3906,425,446,Kentish Town,1,8,513
+3907,553,576,Kentish Town,1,16,513
+3908,598,625,Kentish Town,1,19,513
+3909,653,681,Kentish Town,1,23,513
+3910,643,663,Kentish Town,1,22,513
+3911,565,591,Kentish Town,1,17,513
+3912,694,718,Kentish Town,1,26,513
+3913,666,686,Kentish Town,1,24,513
+3914,406,429,Kentish Town,1,7,513
+3915,702,726,Kentish Town,1,26,513
+3916,503,525,Kentish Town,1,13,513
+3917,618,638,Kentish Town,1,21,513
+3918,578,601,Kentish Town,1,18,513
+3919,523,527,Cannon Street,1,14,644
+3920,510,513,Cannon Street,1,13,644
+3921,619,623,Cannon Street,1,21,644
+3922,517,536,Goodge Street,1,14,644
+3923,677,691,Goodge Street,1,25,513
+3924,422,441,Goodge Street,1,8,513
+3925,677,691,Goodge Street,1,25,513
+3926,578,594,Goodge Street,1,18,513
+3927,676,691,Goodge Street,1,25,513
+3928,450,468,Goodge Street,1,9,513
+3929,521,538,Goodge Street,1,14,513
+3930,673,696,Goodge Street,1,24,644
+3931,527,536,Blackfriars,1,15,644
+3932,569,575,Blackfriars,1,17,644
+3933,702,708,Blackfriars,1,26,644
+3934,701,708,Blackfriars,1,26,644
+3935,513,522,Blackfriars,1,14,644
+3936,537,545,Blackfriars,1,15,644
+3937,655,662,Blackfriars,1,23,644
+3938,506,512,Blackfriars,1,13,644
+3939,521,529,Blackfriars,1,14,644
+3940,702,708,Blackfriars,1,26,644
+3941,713,719,Blackfriars,1,27,644
+3942,562,570,Blackfriars,1,17,644
+3943,489,496,Blackfriars,1,12,644
+3944,516,523,Blackfriars,1,14,644
+3945,642,649,Blackfriars,1,22,644
+3946,587,593,Blackfriars,1,19,644
+3947,644,651,Blackfriars,1,22,644
+3948,552,560,Blackfriars,1,16,644
+3949,440,446,Blackfriars,1,9,644
+3950,625,633,Blackfriars,1,21,644
+3951,692,698,Blackfriars,1,26,644
+3952,513,523,Blackfriars,1,14,644
+3953,698,707,Blackfriars,1,26,644
+3954,484,494,Blackfriars,1,12,644
+3955,606,611,Blackfriars,1,20,644
+3956,528,537,Blackfriars,1,15,644
+3957,435,444,Blackfriars,1,8,644
+3958,559,570,Blackfriars,1,17,644
+3959,540,547,Blackfriars,1,15,644
+3960,562,570,Blackfriars,1,17,644
+3961,516,537,Farringdon,1,14,644
+3962,517,537,Farringdon,1,14,644
+3963,601,620,Farringdon,1,20,644
+3964,664,680,Farringdon,1,24,513
+3965,479,495,Farringdon,1,11,644
+3966,614,626,Farringdon,1,20,513
+3967,498,517,Farringdon,1,13,644
+3968,532,555,Farringdon,1,15,644
+3969,685,702,Farringdon,1,25,513
+3970,522,541,East India,1,14,513
+3971,538,559,East India,1,15,513
+3972,612,636,East India,1,20,513
+3973,706,726,East India,1,27,513
+3974,490,519,East India,1,12,644
+3975,613,636,East India,1,20,644
+3976,538,559,East India,1,15,513
+3977,553,575,East India,1,16,513
+3978,517,537,East India,1,14,513
+3979,517,537,East India,1,14,513
+3980,709,726,East India,1,27,513
+3981,491,512,East India,1,12,644
+3982,652,676,East India,1,23,513
+3983,522,545,East India,1,14,644
+3984,524,544,East India,1,14,644
+3985,502,543,Chiswick Park,1,13,644
+3986,648,693,Chiswick Park,1,23,644
+3987,506,549,Chiswick Park,1,13,644
+3988,519,542,St Johns Wood,1,14,513
+3989,636,665,St Johns Wood,1,22,644
+3990,487,507,St Johns Wood,1,12,513
+3991,548,570,St Johns Wood,1,16,513
+3992,620,652,St Johns Wood,1,21,513
+3993,468,487,St Johns Wood,1,11,513
+3994,710,732,St Johns Wood,1,27,513
+3995,525,546,Piccadilly Circus,1,14,513
+3996,535,552,Piccadilly Circus,1,15,644
+3997,558,576,Piccadilly Circus,1,17,513
+3998,559,582,Piccadilly Circus,1,17,644
+3999,568,588,Piccadilly Circus,1,17,513
+4000,583,603,Piccadilly Circus,1,18,513
+4001,587,602,Piccadilly Circus,1,19,513
+4002,649,667,Piccadilly Circus,1,23,644
+4003,655,674,Piccadilly Circus,1,23,644
+4004,691,710,Piccadilly Circus,1,26,513
+4005,653,669,Piccadilly Circus,1,23,513
+4006,531,548,Piccadilly Circus,1,15,513
+4007,363,381,Piccadilly Circus,1,4,513
+4008,598,617,Piccadilly Circus,1,19,513
+4009,680,697,Piccadilly Circus,1,25,513
+4010,680,697,Piccadilly Circus,1,25,513
+4011,625,643,Piccadilly Circus,1,21,513
+4012,691,710,Piccadilly Circus,1,26,513
+4013,541,562,Piccadilly Circus,1,16,513
+4014,584,601,Piccadilly Circus,1,18,513
+4015,512,530,Piccadilly Circus,1,14,644
+4016,648,665,Piccadilly Circus,1,23,513
+4017,642,657,Piccadilly Circus,1,22,513
+4018,579,596,Piccadilly Circus,1,18,513
+4019,543,561,Piccadilly Circus,1,16,513
+4020,668,686,Piccadilly Circus,1,24,513
+4021,529,549,Piccadilly Circus,1,15,513
+4022,662,677,Piccadilly Circus,1,24,513
+4023,665,682,Piccadilly Circus,1,24,513
+4024,701,718,Piccadilly Circus,1,26,513
+4025,649,667,Piccadilly Circus,1,23,644
+4026,702,723,Piccadilly Circus,1,26,513
+4027,673,689,Piccadilly Circus,1,24,644
+4028,455,475,Piccadilly Circus,1,10,513
+4029,645,662,Piccadilly Circus,1,22,513
+4030,551,566,Piccadilly Circus,1,16,644
+4031,666,683,Piccadilly Circus,1,24,644
+4032,526,554,Piccadilly Circus,1,15,644
+4033,646,662,Piccadilly Circus,1,23,513
+4034,703,719,Piccadilly Circus,1,26,513
+4035,621,639,Piccadilly Circus,1,21,513
+4036,596,613,Piccadilly Circus,1,19,513
+4037,698,716,Piccadilly Circus,1,26,513
+4038,646,664,Piccadilly Circus,1,23,513
+4039,556,573,Piccadilly Circus,1,17,513
+4040,670,693,Piccadilly Circus,1,24,513
+4041,630,648,Piccadilly Circus,1,21,513
+4042,647,665,Piccadilly Circus,1,23,513
+4043,601,621,Piccadilly Circus,1,20,513
+4044,668,686,Piccadilly Circus,1,24,513
+4045,717,733,Piccadilly Circus,1,27,513
+4046,719,738,Piccadilly Circus,1,27,513
+4047,600,618,Piccadilly Circus,1,19,644
+4048,629,645,Piccadilly Circus,1,21,513
+4049,531,549,Piccadilly Circus,1,15,513
+4050,497,517,Piccadilly Circus,1,13,513
+4051,715,734,Piccadilly Circus,1,27,513
+4052,507,548,Hammersmith D,1,13,644
+4053,542,572,Hammersmith D,1,16,644
+4054,638,670,Hammersmith D,1,22,644
+4055,660,694,Hammersmith D,1,23,644
+4056,675,725,Hammersmith D,1,24,513
+4057,632,666,Hammersmith D,1,22,513
+4058,712,741,Hammersmith D,1,27,644
+4059,563,618,Hammersmith D,1,17,644
+4060,714,743,Hammersmith D,1,27,644
+4061,697,735,Hammersmith D,1,26,644
+4062,449,487,Hammersmith D,1,9,644
+4063,662,692,Hammersmith D,1,24,513
+4064,480,515,Hammersmith D,1,11,644
+4065,671,703,Hammersmith D,1,24,644
+4066,660,694,Hammersmith D,1,23,644
+4067,403,434,Hammersmith D,1,6,644
+4068,665,701,Hammersmith D,1,24,513
+4069,714,743,Hammersmith D,1,27,644
+4070,420,454,Hammersmith D,1,7,644
+4071,442,474,Hammersmith D,1,9,644
+4072,449,487,Hammersmith D,1,9,644
+4073,578,608,Hammersmith D,1,18,644
+4074,681,716,Hammersmith D,1,25,513
+4075,498,531,Hammersmith D,1,13,513
+4076,498,540,Surbiton,1,13,513
+4077,588,626,Surbiton,1,19,513
+4078,606,639,Surbiton,1,20,513
+4079,548,582,Surbiton,1,16,513
+4080,660,688,Surbiton,1,23,513
+4081,431,477,Surbiton,1,8,513
+4082,477,510,Surbiton,1,11,513
+4083,598,627,Surbiton,1,19,513
+4084,640,669,Surbiton,1,22,513
+4085,539,568,Surbiton,1,15,513
+4086,581,609,Surbiton,1,18,513
+4087,499,551,Kew Bridge,1,13,513
+4088,534,554,Regents Park,1,15,513
+4089,690,708,Regents Park,1,25,513
+4090,507,524,Regents Park,1,13,513
+4091,684,701,Regents Park,1,25,513
+4092,674,693,Regents Park,1,24,513
+4093,624,641,Regents Park,1,21,513
+4094,712,729,Regents Park,1,27,513
+4095,532,556,Vauxhall,1,15,644
+4096,586,610,Vauxhall,1,19,513
+4097,642,664,Vauxhall,1,22,513
+4098,678,700,Vauxhall,1,25,513
+4099,459,484,Vauxhall,1,10,513
+4100,644,663,Vauxhall,1,22,513
+4101,564,589,Vauxhall,1,17,513
+4102,630,652,Vauxhall,1,21,513
+4103,619,642,Vauxhall,1,21,513
+4104,519,546,Vauxhall,1,14,644
+4105,586,610,Vauxhall,1,19,513
+4106,494,516,Vauxhall,1,12,644
+4107,635,657,Vauxhall,1,22,644
+4108,586,610,Vauxhall,1,19,513
+4109,534,556,Crosshbr Ldn Arena,1,15,644
+4110,591,612,Crosshbr Ldn Arena,1,19,513
+4111,565,588,Crosshbr Ldn Arena,1,17,513
+4112,682,701,Crosshbr Ldn Arena,1,25,644
+4113,657,680,Crosshbr Ldn Arena,1,23,644
+4114,588,608,Crosshbr Ldn Arena,1,19,513
+4115,504,525,Crosshbr Ldn Arena,1,13,644
+4116,565,588,Crosshbr Ldn Arena,1,17,513
+4117,658,681,Crosshbr Ldn Arena,1,23,513
+4118,633,656,Crosshbr Ldn Arena,1,22,513
+4119,588,608,Crosshbr Ldn Arena,1,19,513
+4120,426,455,Gants Hill,1,8,513
+4121,606,638,Gants Hill,1,20,513
+4122,625,650,Gants Hill,1,21,513
+4123,694,722,Gants Hill,1,26,513
+4124,417,449,Gants Hill,1,7,513
+4125,557,584,Gants Hill,1,17,513
+4126,717,742,Gants Hill,1,27,513
+4127,606,638,Gants Hill,1,20,513
+4128,390,421,Gants Hill,1,5,513
+4129,519,560,West_Brompton,1,14,513
+4130,478,502,West_Brompton,1,11,644
+4131,544,561,Russell Square,1,16,513
+4132,661,676,Russell Square,1,24,513
+4133,417,470,Russell Square,1,7,513
+4134,715,736,Russell Square,1,27,644
+4135,486,507,Russell Square,1,12,644
+4136,531,548,Russell Square,1,15,513
+4137,543,572,Russell Square,1,16,644
+4138,399,414,Russell Square,1,6,513
+4139,428,443,Russell Square,1,8,513
+4140,605,619,Russell Square,1,20,513
+4141,654,669,Russell Square,1,23,513
+4142,569,587,Russell Square,1,17,513
+4143,523,543,Russell Square,1,14,513
+4144,526,548,Russell Square,1,15,513
+4145,531,548,Russell Square,1,15,513
+4146,522,564,Brent Cross,1,14,513
+4147,622,656,Brent Cross,1,21,513
+4148,710,743,Brent Cross,1,27,513
+4149,711,743,Brent Cross,1,27,513
+4150,565,605,Brent Cross,1,17,513
+4151,512,552,New Malden,1,14,513
+4152,681,718,New Malden,1,25,513
+4153,717,754,New Malden,1,27,513
+4154,553,568,Kings Cross N,1,16,513
+4155,582,597,Kings Cross N,1,18,513
+4156,588,603,Kings Cross N,1,19,513
+4157,588,603,Kings Cross N,1,19,513
+4158,648,664,Kings Cross N,1,23,513
+4159,651,667,Kings Cross N,1,23,513
+4160,661,676,Kings Cross N,1,24,513
+4161,691,707,Kings Cross N,1,26,513
+4162,710,729,Kings Cross N,1,27,513
+4163,661,675,Kings Cross N,1,24,513
+4164,648,663,Kings Cross N,1,23,513
+4165,677,690,Kings Cross N,1,25,513
+4166,577,593,Kings Cross N,1,18,513
+4167,506,518,Kings Cross N,1,13,513
+4168,698,713,Kings Cross N,1,26,513
+4169,693,707,Kings Cross N,1,26,513
+4170,686,700,Kings Cross N,1,25,513
+4171,654,668,Kings Cross N,1,23,513
+4172,656,672,Kings Cross N,1,23,513
+4173,697,713,Kings Cross N,1,26,513
+4174,541,556,Kings Cross N,1,16,513
+4175,698,717,Kings Cross N,1,26,513
+4176,573,590,Kings Cross N,1,18,513
+4177,603,620,Kings Cross N,1,20,644
+4178,720,737,Kings Cross N,1,27,513
+4179,594,607,Kings Cross N,1,19,513
+4180,594,607,Kings Cross N,1,19,513
+4181,563,580,Kings Cross N,1,17,644
+4182,653,668,Kings Cross N,1,23,513
+4183,695,709,Kings Cross N,1,26,513
+4184,691,707,Kings Cross N,1,26,513
+4185,508,522,Kings Cross N,1,13,513
+4186,710,730,Kings Cross N,1,27,513
+4187,639,652,Kings Cross N,1,22,513
+4188,698,713,Kings Cross N,1,26,513
+4189,698,713,Kings Cross N,1,26,513
+4190,482,497,Kings Cross N,1,12,513
+4191,566,583,Kings Cross N,1,17,513
+4192,521,542,Kings Cross N,1,14,513
+4193,676,690,Kings Cross N,1,25,513
+4194,682,696,Kings Cross N,1,25,513
+4195,691,707,Kings Cross N,1,26,513
+4196,646,659,Kings Cross N,1,23,513
+4197,648,663,Kings Cross N,1,23,513
+4198,558,570,Southwark,1,17,513
+4199,571,583,Southwark,1,18,644
+4200,693,707,Southwark,1,26,513
+4201,582,595,Southwark,1,18,513
+4202,584,600,Southwark,1,18,513
+4203,555,576,Bromley By Bow,1,16,513
+4204,555,576,Bromley By Bow,1,16,513
+4205,573,587,Bromley By Bow,1,18,513
+4206,574,589,Bromley By Bow,1,18,513
+4207,582,595,Bromley By Bow,1,18,513
+4208,574,589,Bromley By Bow,1,18,513
+4209,529,548,Bromley By Bow,1,15,644
+4210,462,480,Bromley By Bow,1,10,644
+4211,633,654,Bromley By Bow,1,22,644
+4212,545,577,High Street Kensington,1,16,644
+4213,665,695,High Street Kensington,1,24,513
+4214,679,703,High Street Kensington,1,25,513
+4215,475,510,High Street Kensington,1,11,644
+4216,537,569,High Street Kensington,1,15,644
+4217,685,714,High Street Kensington,1,25,513
+4218,691,718,High Street Kensington,1,26,644
+4219,692,718,High Street Kensington,1,26,644
+4220,707,729,High Street Kensington,1,27,513
+4221,600,627,High Street Kensington,1,19,644
+4222,634,663,High Street Kensington,1,22,513
+4223,690,718,High Street Kensington,1,25,644
+4224,543,573,High Street Kensington,1,16,513
+4225,641,669,High Street Kensington,1,22,513
+4226,534,575,East Putney,1,15,644
+4227,546,583,East Putney,1,16,644
+4228,576,612,East Putney,1,18,644
+4229,615,655,East Putney,1,20,644
+4230,437,472,East Putney,1,9,644
+4231,558,572,Poplar,1,17,513
+4232,495,508,Poplar,1,12,513
+4233,578,596,Poplar,1,18,513
+4234,565,580,Poplar,1,17,513
+4235,565,580,Poplar,1,17,513
+4236,578,596,Poplar,1,18,513
+4237,489,508,Poplar,1,12,644
+4238,615,633,Poplar,1,20,644
+4239,558,581,Highbury & Islington,1,17,513
+4240,604,623,Highbury & Islington,1,20,644
+4241,604,623,Highbury & Islington,1,20,644
+4242,553,581,Plaistow,1,16,644
+4243,644,662,Plaistow,1,22,513
+4244,450,474,Plaistow,1,9,644
+4245,717,739,Plaistow,1,27,644
+4246,427,452,Plaistow,1,8,644
+4247,370,395,Plaistow,1,4,513
+4248,417,436,Plaistow,1,7,513
+4249,366,395,Plaistow,1,4,644
+4250,661,681,Plaistow,1,24,513
+4251,573,581,Shadwell DLR,1,18,644
+4252,616,629,Shadwell DLR,1,21,644
+4253,633,645,Shadwell DLR,1,22,513
+4254,475,483,Shadwell DLR,1,11,644
+4255,433,442,Shadwell DLR,1,8,513
+4256,536,544,Shadwell DLR,1,15,513
+4257,712,723,Shadwell DLR,1,27,513
+4258,519,530,Shadwell DLR,1,14,513
+4259,510,518,Shadwell DLR,1,13,513
+4260,515,525,Shadwell DLR,1,14,644
+4261,663,674,Shadwell DLR,1,24,513
+4262,663,674,Shadwell DLR,1,24,513
+4263,404,416,Shadwell DLR,1,6,644
+4264,621,634,Shadwell DLR,1,21,513
+4265,592,600,Shadwell DLR,1,19,644
+4266,662,668,Shadwell DLR,1,24,513
+4267,567,586,Baker Street,1,17,513
+4268,699,722,Baker Street,1,26,513
+4269,718,737,Baker Street,1,27,513
+4270,718,742,Baker Street,1,27,513
+4271,691,716,Baker Street,1,26,644
+4272,626,649,Baker Street,1,21,513
+4273,705,725,Baker Street,1,26,513
+4274,614,650,Baker Street,1,20,644
+4275,646,668,Baker Street,1,23,513
+4276,712,736,Baker Street,1,27,644
+4277,684,704,Baker Street,1,25,513
+4278,633,654,Baker Street,1,22,513
+4279,681,704,Baker Street,1,25,513
+4280,685,707,Baker Street,1,25,513
+4281,476,507,Baker Street,1,11,644
+4282,710,731,Baker Street,1,27,513
+4283,642,667,Baker Street,1,22,644
+4284,630,657,Baker Street,1,21,513
+4285,684,703,Baker Street,1,25,513
+4286,625,654,Baker Street,1,21,644
+4287,718,742,Baker Street,1,27,513
+4288,573,583,Monument,1,18,513
+4289,693,693,Monument,1,26,644
+4290,704,705,Monument,1,26,644
+4291,573,583,Monument,1,18,513
+4292,708,718,Monument,1,27,513
+4293,646,733,Monument,1,23,513
+4294,596,629,Monument,1,19,513
+4295,435,439,Monument,1,8,644
+4296,563,563,Monument,1,17,644
+4297,563,564,Monument,1,17,644
+4298,557,590,Barons Court,1,17,644
+4299,412,441,Barons Court,1,7,644
+4300,530,564,Barons Court,1,15,644
+4301,693,723,Barons Court,1,26,644
+4302,708,737,Barons Court,1,27,644
+4303,570,590,Brixton,1,17,513
+4304,662,683,Brixton,1,24,513
+4305,430,449,Brixton,1,8,644
+4306,470,497,Brixton,1,11,644
+4307,628,650,Brixton,1,21,513
+4308,701,721,Brixton,1,26,513
+4309,453,473,Brixton,1,10,513
+4310,668,696,Brixton,1,24,513
+4311,636,663,Brixton,1,22,513
+4312,453,478,Brixton,1,10,644
+4313,668,696,Brixton,1,24,513
+4314,561,590,Cutty Sark,1,17,513
+4315,640,665,Cutty Sark,1,22,513
+4316,706,736,Cutty Sark,1,27,513
+4317,329,360,Cutty Sark,1,1,513
+4318,505,535,Cutty Sark,1,13,644
+4319,583,609,Cutty Sark,1,18,513
+4320,529,555,Cutty Sark,1,15,513
+4321,583,610,Cutty Sark,1,18,513
+4322,697,732,Cutty Sark,1,26,513
+4323,685,710,Cutty Sark,1,25,513
+4324,663,691,Cutty Sark,1,24,513
+4325,717,740,Cutty Sark,1,27,513
+4326,577,592,Warren Street,1,18,513
+4327,642,665,Warren Street,1,22,513
+4328,527,554,Warren Street,1,15,513
+4329,576,594,Warren Street,1,18,513
+4330,550,582,Warren Street,1,16,644
+4331,674,692,Warren Street,1,24,513
+4332,645,665,Warren Street,1,22,513
+4333,568,591,Warren Street,1,17,644
+4334,621,636,Warren Street,1,21,513
+4335,633,652,Warren Street,1,22,513
+4336,645,665,Warren Street,1,22,513
+4337,617,636,Warren Street,1,21,644
+4338,627,643,Warren Street,1,21,513
+4339,658,677,Warren Street,1,23,513
+4340,545,566,Warren Street,1,16,644
+4341,470,485,Warren Street,1,11,513
+4342,560,585,Clapham Junction,1,17,513
+4343,614,658,Clapham Junction,1,20,513
+4344,685,715,Clapham Junction,1,25,513
+4345,528,553,Clapham Junction,1,15,513
+4346,585,607,Clapham Junction,1,18,513
+4347,430,449,Clapham Junction,1,8,513
+4348,674,694,Clapham Junction,1,24,513
+4349,458,493,Clapham Junction,1,10,513
+4350,526,552,Clapham Junction,1,15,513
+4351,446,505,Clapham Junction,1,9,513
+4352,557,593,Parsons Green,1,17,644
+4353,672,702,Parsons Green,1,24,644
+4354,708,739,Parsons Green,1,27,644
+4355,717,753,Parsons Green,1,27,513
+4356,485,518,Parsons Green,1,12,644
+4357,628,673,Parsons Green,1,21,644
+4358,574,595,Haggerston,1,18,644
+4359,711,736,Haggerston,1,27,644
+4360,433,459,Haggerston,1,8,513
+4361,610,638,Haggerston,1,20,513
+4362,550,595,Putney Bridge,1,16,644
+4363,624,668,Putney Bridge,1,21,513
+4364,476,508,Putney Bridge,1,11,644
+4365,570,616,Putney Bridge,1,17,644
+4366,579,598,Leyton,1,18,513
+4367,446,464,Leyton,1,9,513
+4368,542,558,Leyton,1,16,513
+4369,375,396,Leyton,1,4,513
+4370,368,389,Leyton,1,4,513
+4371,669,685,Leyton,1,24,513
+4372,368,389,Leyton,1,4,513
+4373,410,427,Leyton,1,7,513
+4374,420,436,Leyton,1,7,513
+4375,434,451,Leyton,1,8,513
+4376,546,567,Leyton,1,16,513
+4377,661,680,Leyton,1,24,513
+4378,694,710,Leyton,1,26,513
+4379,616,638,Leyton,1,21,644
+4380,523,539,Leyton,1,14,513
+4381,539,558,Leyton,1,15,513
+4382,536,557,Leyton,1,15,644
+4383,482,501,Leyton,1,12,513
+4384,435,452,Leyton,1,8,513
+4385,429,446,Leyton,1,8,513
+4386,667,682,Leyton,1,24,513
+4387,700,718,Leyton,1,26,513
+4388,423,440,Leyton,1,8,513
+4389,411,427,Leyton,1,7,513
+4390,584,599,Covent Garden,1,18,513
+4391,644,659,Covent Garden,1,22,513
+4392,705,720,Covent Garden,1,26,513
+4393,716,732,Covent Garden,1,27,513
+4394,585,599,Covent Garden,1,18,513
+4395,706,722,Covent Garden,1,27,513
+4396,704,733,Covent Garden,1,26,644
+4397,549,566,Covent Garden,1,16,513
+4398,554,565,Covent Garden,1,16,513
+4399,654,669,Covent Garden,1,23,513
+4400,637,660,Covent Garden,1,22,644
+4401,637,660,Covent Garden,1,22,644
+4402,696,726,Covent Garden,1,26,644
+4403,585,599,Covent Garden,1,18,513
+4404,720,741,Covent Garden,1,27,513
+4405,575,598,East Ham,1,18,513
+4406,630,660,East Ham,1,21,644
+4407,642,666,East Ham,1,22,644
+4408,570,599,East Ham,1,17,644
+4409,377,413,East Ham,1,5,644
+4410,450,478,East Ham,1,9,644
+4411,507,531,East Ham,1,13,513
+4412,421,447,East Ham,1,8,644
+4413,511,541,East Ham,1,14,513
+4414,444,467,East Ham,1,9,513
+4415,642,665,East Ham,1,22,513
+4416,641,666,East Ham,1,22,644
+4417,676,704,East Ham,1,25,644
+4418,438,462,East Ham,1,9,513
+4419,426,456,East Ham,1,8,644
+4420,557,596,Acton Town,1,17,513
+4421,557,597,Acton Town,1,17,513
+4422,560,601,Queens Park,1,17,644
+4423,415,448,Queens Park,1,7,644
+4424,435,462,Queens Park,1,8,513
+4425,541,571,Queens Park,1,16,513
+4426,561,601,Queens Park,1,17,644
+4427,692,720,Queens Park,1,26,513
+4428,580,601,Edgware Road,1,18,513
+4429,648,679,Edgware Road,1,23,644
+4430,661,682,Edgware Road,1,24,513
+4431,601,622,Edgware Road,1,20,513
+4432,594,613,Edgware Road,1,19,513
+4433,696,718,Edgware Road,1,26,513
+4434,491,511,Edgware Road,1,12,513
+4435,492,517,Edgware Road,1,12,513
+4436,610,634,Edgware Road,1,20,513
+4437,558,595,Finchley Central,1,17,513
+4438,448,486,Finchley Central,1,9,513
+4439,493,534,Finchley Central,1,12,513
+4440,573,611,Finchley Central,1,18,644
+4441,573,611,Finchley Central,1,18,644
+4442,573,605,Colliers Wood,1,18,513
+4443,419,451,Colliers Wood,1,7,644
+4444,560,591,Colliers Wood,1,17,513
+4445,437,471,Colliers Wood,1,9,513
+4446,566,607,Latimer Road,1,17,513
+4447,583,613,Turnpike Lane,1,18,513
+4448,620,652,Turnpike Lane,1,21,513
+4449,644,671,Turnpike Lane,1,22,513
+4450,609,623,Westferry,1,20,513
+4451,622,638,Westferry,1,21,513
+4452,715,729,Westferry,1,27,513
+4453,482,496,Westferry,1,12,644
+4454,539,552,Westferry,1,15,513
+4455,510,523,Westferry,1,13,644
+4456,682,698,Westferry,1,25,513
+4457,424,436,Westferry,1,8,644
+4458,636,648,Westferry,1,22,513
+4459,550,563,Westferry,1,16,513
+4460,621,638,Westferry,1,21,513
+4461,486,498,Westferry,1,12,513
+4462,696,711,Westferry,1,26,513
+4463,568,580,Westferry,1,17,513
+4464,610,636,Ilford,1,20,513
+4465,709,748,Ilford,1,27,644
+4466,433,466,Ilford,1,8,644
+4467,500,526,Ilford,1,13,513
+4468,607,636,Ladywell,1,20,513
+4469,626,641,Charing Cross,1,21,513
+4470,655,671,Charing Cross,1,23,513
+4471,648,663,Charing Cross,1,23,513
+4472,594,612,Charing Cross,1,19,513
+4473,588,642,Harlesden,1,19,513
+4474,614,650,Kensington Olympia,1,20,644
+4475,614,658,Kensington Olympia,1,20,513
+4476,614,658,Kensington Olympia,1,20,513
+4477,565,611,Kensington Olympia,1,17,513
+4478,582,626,Kensington Olympia,1,18,644
+4479,608,643,Fairlop,1,20,513
+4480,627,656,Blackhorse Road,1,21,513
+4481,434,466,Blackhorse Road,1,8,513
+4482,632,659,Woodford,1,22,513
+4483,579,608,Woodford,1,18,513
+4484,465,499,Woodford,1,10,513
+4485,705,731,Woodford,1,26,513
+4486,634,659,Woodford,1,22,513
+4487,645,671,Woodford,1,22,513
+4488,399,425,Woodford,1,6,513
+4489,431,458,Woodford,1,8,513
+4490,626,658,Tooting Bec,1,21,513
+4491,666,692,Tooting Bec,1,24,513
+4492,565,592,Tooting Bec,1,17,513
+4493,531,563,Tooting Bec,1,15,513
+4494,674,703,Tooting Bec,1,24,513
+4495,626,658,Tooting Bec,1,21,513
+4496,626,659,Hampstead,1,21,513
+4497,474,506,Hampstead,1,11,513
+4498,713,744,Hampstead,1,27,644
+4499,545,573,Hampstead,1,16,644
+4500,621,657,East Finchley,1,21,644
+4501,556,589,East Finchley,1,17,513
+4502,515,548,East Finchley,1,14,513
+4503,594,636,East Finchley,1,19,644
+4504,709,753,East Finchley,1,27,513
+4505,556,589,East Finchley,1,17,513
+4506,646,659,Bermondsey,1,23,513
+4507,693,716,Bermondsey,1,26,513
+4508,646,660,Bermondsey,1,23,513
+4509,617,631,Bermondsey,1,21,644
+4510,635,666,Barkingside,1,22,513
+4511,667,691,Upton Park,1,24,513
+4512,478,507,Upton Park,1,11,644
+4513,634,654,Upton Park,1,22,513
+4514,650,677,Upton Park,1,23,644
+4515,702,740,Upton Park,1,26,644
+4516,455,482,Upton Park,1,10,513
+4517,474,496,Upton Park,1,11,513
+4518,628,669,Upton Park,1,21,513
+4519,699,722,Upton Park,1,26,513
+4520,447,472,Upton Park,1,9,644
+4521,651,677,Upton Park,1,23,644
+4522,655,678,Upton Park,1,23,513
+4523,422,446,Upton Park,1,8,644
+4524,538,560,Upton Park,1,15,513
+4525,468,488,Upton Park,1,11,513
+4526,407,431,Upton Park,1,7,513
+4527,646,672,Maida Vale,1,23,513
+4528,627,668,Epping,1,21,513
+4529,351,394,Epping,1,3,513
+4530,718,761,Epping,1,27,513
+4531,718,761,Epping,1,27,513
+4532,602,642,Epping,1,20,513
+4533,498,541,Epping,1,13,513
+4534,629,670,Theydon Bois,1,21,513
+4535,631,668,Hanger Lane,1,22,513
+4536,377,410,Hanger Lane,1,5,513
+4537,513,555,Hanger Lane,1,14,513
+4538,487,528,Hanger Lane,1,12,513
+4539,599,635,Hanger Lane,1,19,513
+4540,536,571,Hanger Lane,1,15,513
+4541,440,480,Hanger Lane,1,9,513
+4542,523,560,Hanger Lane,1,14,513
+4543,651,681,Fulham Broadway,1,23,644
+4544,416,444,Fulham Broadway,1,7,644
+4545,507,569,Fulham Broadway,1,13,644
+4546,476,507,Fulham Broadway,1,11,644
+4547,528,560,Fulham Broadway,1,15,644
+4548,649,677,South Woodford,1,23,513
+4549,635,663,South Woodford,1,22,513
+4550,578,606,South Woodford,1,18,513
+4551,437,466,South Woodford,1,9,513
+4552,510,536,South Woodford,1,13,513
+4553,674,697,South Woodford,1,24,513
+4554,666,690,South Woodford,1,24,513
+4555,575,606,South Woodford,1,18,644
+4556,492,524,South Woodford,1,12,644
+4557,388,413,South Woodford,1,5,513
+4558,637,680,Romford,1,22,513
+4559,716,749,Romford,1,27,513
+4560,455,496,Romford,1,10,513
+4561,531,578,Romford,1,15,513
+4562,642,679,Harrow Wealdstone,1,22,644
+4563,681,737,Harrow Wealdstone,1,25,513
+4564,709,813,Harrow Wealdstone,1,27,644
+4565,645,691,Northfields,1,22,513
+4566,662,687,Belsize Park,1,24,513
+4567,648,676,Belsize Park,1,23,513
+4568,619,647,Belsize Park,1,21,513
+4569,391,415,Belsize Park,1,6,644
+4570,537,564,Belsize Park,1,15,513
+4571,720,751,Belsize Park,1,27,513
+4572,558,588,Belsize Park,1,17,513
+4573,649,687,Penge Stations,1,23,644
+4574,652,690,Dagenham Heathway,1,23,644
+4575,693,728,Dagenham Heathway,1,26,644
+4576,379,424,Dagenham Heathway,1,5,644
+4577,655,698,Ealing Common,1,23,644
+4578,684,696,Limehouse DLR,1,25,513
+4579,511,521,Limehouse DLR,1,14,513
+4580,644,656,Limehouse DLR,1,22,644
+4581,602,616,Limehouse DLR,1,20,513
+4582,670,681,Limehouse DLR,1,24,513
+4583,577,590,Limehouse DLR,1,18,644
+4584,668,696,West Kensington,1,24,644
+4585,470,500,West Kensington,1,11,644
+4586,491,517,West Kensington,1,12,644
+4587,694,722,West Kensington,1,26,644
+4588,633,661,West Kensington,1,22,644
+4589,683,701,Lancaster Gate,1,25,513
+4590,683,701,Lancaster Gate,1,25,513
+4591,697,714,Lancaster Gate,1,26,513
+4592,717,732,Lancaster Gate,1,27,513
+4593,455,471,Lancaster Gate,1,10,513
+4594,582,599,Lancaster Gate,1,18,513
+4595,698,714,Lancaster Gate,1,26,513
+4596,415,437,Lancaster Gate,1,7,513
+4597,670,689,Lancaster Gate,1,24,513
+4598,696,714,Lancaster Gate,1,26,513
+4599,663,679,Lancaster Gate,1,24,513
+4600,525,545,Lancaster Gate,1,14,513
+4601,638,702,Hounslow West,1,22,513
+4602,651,692,Kew Gardens,1,23,644
+4603,395,439,Kew Gardens,1,6,644
+4604,587,644,Kew Gardens,1,19,644
+4605,587,644,Kew Gardens,1,19,644
+4606,609,677,Heathrow Term 5,1,20,513
+4607,678,713,Highgate,1,25,513
+4608,718,749,Highgate,1,27,513
+4609,678,713,Highgate,1,25,513
+4610,557,589,Highgate,1,17,513
+4611,687,720,Highgate,1,25,513
+4612,668,703,Highgate,1,24,513
+4613,700,717,Canary Wharf LU (E1),1,26,513
+4614,441,461,Canary Wharf LU (E1),1,9,513
+4615,645,672,Canary Wharf LU (E1),1,22,644
+4616,607,633,Canary Wharf LU (E1),1,20,644
+4617,652,670,Canary Wharf LU (E1),1,23,513
+4618,634,652,Canary Wharf LU (E1),1,22,513
+4619,680,717,Buckhurst Hill,1,25,513
+4620,636,667,Buckhurst Hill,1,22,513
+4621,688,722,Buckhurst Hill,1,25,513
+4622,628,662,Buckhurst Hill,1,21,513
+4623,542,582,Buckhurst Hill,1,16,644
+4624,649,682,Buckhurst Hill,1,23,513
+4625,679,720,Buckhurst Hill,1,25,513
+4626,701,724,Euston Square,1,26,513
+4627,621,646,Euston Square,1,21,644
+4628,505,529,Euston Square,1,13,644
+4629,666,687,Euston Square,1,24,644
+4630,704,728,Pimlico,1,26,513
+4631,665,688,Pimlico,1,24,513
+4632,535,554,Pimlico,1,15,513
+4633,528,550,Pimlico,1,15,644
+4634,680,730,Watford Junction,1,25,644
+4635,446,484,Watford Junction,1,9,513
+4636,658,701,Watford Junction,1,23,513
+4637,697,737,Hendon Central,1,26,513
+4638,690,730,Hendon Central,1,25,513
+4639,710,745,Hendon Central,1,27,513
+4640,446,485,Hendon Central,1,9,513
+4641,424,463,Hendon Central,1,8,644
+4642,688,737,Hendon Central,1,25,513
+4643,672,706,Hendon Central,1,24,513
+4644,719,761,Hendon Central,1,27,513
+4645,702,735,London City Airport,1,26,513
+4646,643,675,London City Airport,1,22,513
+4647,692,725,London City Airport,1,26,513
+4648,509,565,London City Airport,1,13,513
+4649,716,746,London City Airport,1,27,513
+4650,434,473,London City Airport,1,8,513
+4651,694,725,London City Airport,1,26,513
+4652,697,735,London City Airport,1,26,513
+4653,502,530,London City Airport,1,13,513
+4654,717,746,London City Airport,1,27,513
+4655,436,473,London City Airport,1,9,513
+4656,376,407,London City Airport,1,5,513
+4657,551,584,London City Airport,1,16,513
+4658,694,725,London City Airport,1,26,513
+4659,669,696,London City Airport,1,24,513
+4660,662,695,London City Airport,1,24,513
+4661,696,737,Perivale,1,26,513
+4662,714,751,Perivale,1,27,513
+4663,709,746,Perivale,1,27,513
+4664,571,611,Perivale,1,18,513
+4665,714,751,Perivale,1,27,513
+4666,707,739,Wimbledon,1,27,513
+4667,702,727,Wimbledon,1,26,513
+4668,475,505,Wimbledon,1,11,513
+4669,665,704,Wimbledon,1,24,513
+4670,512,546,Wimbledon,1,14,513
+4671,684,733,Wimbledon,1,25,644
+4672,716,749,Wimbledon,1,27,513
+4673,680,730,Wimbledon,1,25,644
+4674,680,730,Wimbledon,1,25,644
+4675,720,767,Wimbledon,1,27,644
+4676,609,637,Wimbledon,1,20,513
+4677,560,593,Wimbledon,1,17,513
+4678,522,553,Wimbledon,1,14,513
+4679,495,522,Wimbledon,1,12,513
+4680,719,751,Alexandra Palace,1,27,513
+4681,685,747,Sutton Surrey,1,25,513
+4682,685,737,Sutton Surrey,1,25,644
+4683,718,757,West Acton,1,27,513
+4684,719,783,Teddington,1,27,513
+4685,485,543,Teddington,1,12,513
+4686,713,783,Hillingdon,1,27,644
+4687,584,656,Hillingdon,1,18,644
+4688,713,762,West Ruislip,1,27,513
+4689,355,391,South Wimbledon,1,3,644
+4690,557,591,South Wimbledon,1,17,513
+4691,462,483,Clapham Common,1,10,644
+4692,510,534,Clapham Common,1,13,513
+4693,582,603,Clapham Common,1,18,513
+4694,499,520,Clapham Common,1,13,513
+4695,493,518,Clapham Common,1,12,513
+4696,383,402,Clapham Common,1,5,644
+4697,688,708,Clapham Common,1,25,513
+4698,546,569,Clapham Common,1,16,513
+4699,628,652,Clapham Common,1,21,513
+4700,651,675,Clapham Common,1,23,513
+4701,436,458,Clapham Common,1,9,513
+4702,493,518,Clapham Common,1,12,513
+4703,496,517,Clapham Common,1,13,513
+4704,717,739,Clapham Common,1,27,513
+4705,640,664,Clapham Common,1,22,644
+4706,502,524,Snaresbrook,1,13,513
+4707,688,715,Snaresbrook,1,25,513
+4708,516,538,Snaresbrook,1,14,513
+4709,522,547,All Saints,1,14,644
+4710,589,606,All Saints,1,19,513
+4711,715,731,Hackney Downs,1,27,513
+4712,653,710,Ruislip Manor,1,23,644
+4713,616,641,Tufnell Park,1,21,513
+4714,661,690,Tufnell Park,1,24,644
+4715,538,563,Tufnell Park,1,15,513
+4716,579,604,Tufnell Park,1,18,513
+4717,561,584,Holloway Road,1,17,513
+4718,689,714,Holloway Road,1,25,513
+4719,623,644,Holloway Road,1,21,513
+4720,456,479,Holloway Road,1,10,513
+4721,577,634,St Margarets London,1,18,513
+4722,703,726,Langdon Park,1,26,513
+4723,482,506,Langdon Park,1,12,513
+4724,428,449,Langdon Park,1,8,513
+4725,447,464,Langdon Park,1,9,513
+4726,690,757,Heathrow Terminal 4 LU,1,25,644
+4727,660,680,Canada Water,1,23,513
+4728,456,472,Canada Water,1,10,513
+4729,674,692,Canada Water,1,24,513
+4730,642,661,Canada Water,1,22,513
+4731,717,747,Canada Water,1,27,513
+4732,714,726,Canada Water,1,27,513
+4733,676,700,Redbridge,1,25,513
+4734,705,725,Blackwall,1,26,644
+4735,705,725,Blackwall,1,26,644
+4736,700,719,Blackwall,1,26,513
+4737,321,346,Blackwall,1,1,513
+4738,403,422,Blackwall,1,6,644
+4739,705,734,Greenwich DLR,1,26,513
+4740,659,687,Greenwich DLR,1,23,513
+4741,591,619,Greenwich DLR,1,19,513
+4742,442,495,Park Royal,1,9,513
+4743,583,621,Hainault,1,18,513
+4744,376,417,Hainault,1,5,513
+4745,615,654,Hainault,1,20,513
+4746,410,447,Hainault,1,7,513
+4747,527,572,Hainault,1,15,644
+4748,644,678,Hainault,1,22,513
+4749,432,472,Hainault,1,8,513
+4750,581,626,Kingsbury,1,18,644
+4751,700,722,Mudchute,1,26,513
+4752,624,647,Mudchute,1,21,513
+4753,498,523,Mudchute,1,13,513
+4754,498,523,Mudchute,1,13,513
+4755,693,717,Mudchute,1,26,513
+4756,423,445,Mudchute,1,8,513
+4757,624,646,Mudchute,1,21,513
+4758,691,712,Mudchute,1,26,644
+4759,695,730,Turnham Green,1,26,644
+4760,488,526,Turnham Green,1,12,644
+4761,471,489,Bow Road,1,11,644
+4762,685,694,Bow Road,1,25,513
+4763,507,525,Bow Road,1,13,644
+4764,443,460,Bow Road,1,9,644
+4765,662,677,Bow Road,1,24,644
+4766,560,580,Bow Road,1,17,644
+4767,715,730,Bow Road,1,27,644
+4768,637,651,Bow Road,1,22,644
+4769,535,553,Bow Road,1,15,644
+4770,697,723,Earlsfield,1,26,513
+4771,603,631,Earlsfield,1,20,513
+4772,552,595,Island Gardens,1,16,644
+4773,637,659,Island Gardens,1,22,644
+4774,689,714,Island Gardens,1,25,513
+4775,583,621,Southgate,1,18,513
+4776,598,641,Southgate,1,19,513
+4777,497,542,Southgate,1,13,513
+4778,666,708,Colindale,1,24,513
+4779,670,708,Colindale,1,24,513
+4780,416,457,Colindale,1,7,513
+4781,604,647,Colindale,1,20,513
+4782,436,475,Colindale,1,9,513
+4783,477,509,Loughton,1,11,513
+4784,639,670,Loughton,1,22,513
+4785,579,614,Loughton,1,18,513
+4786,502,534,Loughton,1,13,513
+4787,556,650,Burnt Oak,1,17,513
+4788,423,468,Burnt Oak,1,8,644
+4789,369,411,Burnt Oak,1,4,644
+4790,468,514,Burnt Oak,1,11,513
+4791,582,631,Harrow On The Hill,1,18,644
+4792,704,755,Harrow On The Hill,1,26,513
+4793,642,691,Hornchurch,1,22,644
+4794,678,725,Queensbury,1,25,513
+4795,465,521,Queensbury,1,10,513
+4796,546,574,Gloucester Road,1,16,644
+4797,635,661,Gloucester Road,1,22,513
+4798,507,533,Gloucester Road,1,13,644
+4799,578,601,Gloucester Road,1,18,644
+4800,635,661,Gloucester Road,1,22,513
+4801,532,558,Gloucester Road,1,15,644
+4802,537,561,Gloucester Road,1,15,644
+4803,692,715,Gloucester Road,1,26,644
+4804,485,509,Gloucester Road,1,12,644
+4805,622,661,Gloucester Road,1,21,644
+4806,607,630,Gloucester Road,1,20,644
+4807,700,729,Gloucester Road,1,26,644
+4808,389,446,Brentford,1,5,513
+4809,609,655,Brentford,1,20,513
+4810,513,538,West India Quay,1,14,644
+4811,495,514,West India Quay,1,12,513
+4812,668,681,Stratford,1,24,513
+4813,702,721,Stratford,1,26,644
+4814,668,703,Chadwell Heath,1,24,513
+4815,694,722,Chadwell Heath,1,26,513
+4816,662,712,Harold Wood,1,24,513
+4817,422,451,Kilburn,1,8,513
+4818,492,520,Kilburn,1,12,513
+4819,546,571,Kilburn,1,16,513
+4820,646,675,Kilburn,1,23,513
+4821,507,533,Chalk Farm,1,13,513
+4822,675,705,Chalk Farm,1,24,513
+4823,666,706,Dalston Junction,1,24,513
+4824,536,560,Dalston Junction,1,15,513
+4825,666,706,Dalston Junction,1,24,513
+4826,402,438,Ashfield House C,1,6,644
+4827,505,526,Essex Road,1,13,513
+4828,591,618,Great Portland Street,1,19,644
+4829,686,712,Great Portland Street,1,25,644
+4830,657,679,Great Portland Street,1,23,513
+4831,696,715,Great Portland Street,1,26,513
+4832,555,584,Great Portland Street,1,16,644
+4833,574,606,Great Portland Street,1,18,644
+4834,686,712,Great Portland Street,1,25,644
+4835,567,595,Great Portland Street,1,17,644
+4836,690,763,Highams Park,1,25,513
+4837,472,517,Stoneleigh,1,11,513
+4838,615,644,Camden Road,1,20,513
+4839,684,696,Waterloo JLE,1,25,644
+4840,652,674,Waterloo JLE,1,23,644
+4841,393,405,Waterloo JLE,1,6,513
+4842,696,707,Waterloo JLE,1,26,513
+4843,638,688,Kingston,1,22,513
+4844,707,742,Kensal Green,1,27,644
+4845,714,775,Hounslow East,1,27,644
+4846,518,563,High Barnet,1,14,513
+4847,663,718,High Barnet,1,24,513
+4848,544,583,Arnos Grove,1,16,644
+4849,715,779,Heathrow Terminals 123 LU,1,27,644
+4850,516,587,Heathrow Terminals 123 LU,1,14,513
+4851,422,449,Seven Kings,1,8,513
+4852,686,721,Becontree,1,25,513
+4853,415,448,Becontree,1,7,644
+4854,649,709,Feltham,1,23,513
+4855,698,722,Arsenal,1,26,513
+4856,512,555,Bayswater,1,14,644
+4857,636,662,Bayswater,1,22,513
+4858,551,583,Croydon Stations,1,16,513
+4859,712,742,Croydon Stations,1,27,644
+4860,565,593,Manor Park,1,17,513
+4861,579,638,Hounslow Central,1,18,513
+4862,579,638,Hounslow Central,1,18,513
+4863,638,700,Hounslow Central,1,22,513
+4864,716,772,Southall,1,27,644
+4865,670,692,Caledonian Road,1,24,513
+4866,693,712,Caledonian Road,1,26,513
+4867,690,712,Caledonian Road,1,25,644
+4868,562,575,Blackfriars NR,1,17,644
+4869,573,628,Bickley,1,18,644
+4870,443,473,Westbourne Park,1,9,644
+4871,432,471,Ealing Broadway,1,8,513
+4872,500,546,Ealing Broadway,1,13,513
+4873,363,407,Ealing Broadway,1,4,513
+4874,649,688,Ealing Broadway,1,23,513
+4875,653,700,Ealing Broadway,1,23,644
+4876,643,687,North Sheen,1,22,513
+4877,675,702,New Cross,1,24,513
+4878,464,475,Lambeth North,1,10,513
+4879,651,669,Lambeth North,1,23,513
+4880,476,524,Northolt,1,11,513
+4881,571,615,Northolt,1,18,513
+4882,511,561,Northolt,1,14,513
+4883,690,734,Northolt,1,25,513
+4884,597,622,Manor House,1,19,513
+4885,495,529,Manor House,1,12,513
+4886,664,691,West Silvertown,1,24,513
+4887,692,720,West Silvertown,1,26,513
+4888,663,685,Rotherhithe,1,24,513
+4889,663,685,Rotherhithe,1,24,513
+4890,707,726,Kings Cross M,1,27,644
+4891,506,527,Kings Cross M,1,13,644
+4892,511,540,Kings Cross M,1,14,644
+4893,563,596,Royal Albert,1,17,644
+4894,643,705,Royal Albert,1,22,513
+4895,696,751,Sudbury Hill,1,26,513
+4896,438,491,Sudbury Hill,1,9,513
+4897,589,616,Charlton,1,19,644
+4898,669,711,Dagenham East,1,24,644
+4899,696,743,North Wembley,1,26,513
+4900,385,435,North Wembley,1,5,644
+4901,591,620,Peckham Rye,1,19,513
+4902,696,731,Golders Green,1,26,513
+4903,607,640,Golders Green,1,20,513
+4904,699,723,Finsbury Park,1,26,513
+4905,707,722,Surrey Quays,1,27,513
+4906,455,477,Surrey Quays,1,10,513
+4907,713,738,West Hampstead,1,27,513
+4908,401,451,South Ealing,1,6,644
+4909,632,679,Ruislip Gardens,1,22,513
+4910,346,374,Ashfield House B,1,3,513
+4911,431,461,Ashfield House B,1,8,644
+4912,483,516,Hackney Central,1,12,513
+4913,716,745,Hackney Central,1,27,513
+4914,567,599,Cyprus,1,17,513
+4915,600,642,Cyprus,1,19,644
+4916,635,673,Cyprus,1,22,513
+4917,395,427,Willesden Green,1,6,644
+4918,501,534,Willesden Green,1,13,513
+4919,364,393,Willesden Green,1,4,513
+4920,563,615,Mill Hill Broadway,1,17,644
+4921,688,703,Wapping,1,25,644
+4922,690,719,Wanstead,1,25,513
+4923,708,730,Wanstead,1,27,513
+4924,406,432,Kilburn Park,1,7,513
+4925,582,611,Kilburn Park,1,18,513
+4926,676,704,Archway,1,25,513
+4927,528,561,Archway,1,15,513
+4928,583,606,Archway,1,18,513
+4929,699,730,Battersea Park,1,26,513
+4930,699,719,Queenstown Road Battersea,1,26,513
+4931,394,433,Upney,1,6,513
+4932,675,708,Royal Victoria,1,24,513
+4933,636,665,Royal Victoria,1,22,513
+4934,626,655,Royal Victoria,1,21,513
+4935,676,708,Royal Victoria,1,25,513
+4936,594,631,Tottenham Hale,1,19,644
+4937,689,724,Tottenham Hale,1,25,513
+4938,689,724,Tottenham Hale,1,25,513
+4939,719,769,Alperton,1,27,513
+4940,610,633,Drayton Park,1,20,513
+4941,693,727,Lewisham DLR,1,26,513
+4942,622,657,Lewisham DLR,1,21,513
+4943,669,702,Lewisham DLR,1,24,513
+4944,528,568,Twickenham,1,15,513
+4945,627,678,Twickenham,1,21,513
+4946,578,619,Gallions Reach,1,18,513
+4947,609,645,Gallions Reach,1,20,513
+4948,691,769,Uxbridge,1,26,513
+4949,693,757,Uxbridge,1,26,644
+4950,695,739,Walthamstow Central,1,26,644
+4951,460,481,Forest Gate,1,10,513
+4952,396,431,Pontoon Dock,1,6,644
+4953,543,599,Sidcup,1,16,513
+4954,611,649,Stamford Brook,1,20,644
+4955,681,716,Stamford Brook,1,25,644
+4956,516,549,Edgware Road M,1,14,644
+4957,548,578,Edgware Road M,1,16,513
+4958,581,637,Strawberry Hill,1,18,513
+4959,429,500,Chessington North,1,8,513
+4960,582,602,Shoreditch High Street,1,18,644
+4961,609,627,Shoreditch High Street,1,20,644
+4962,440,490,South Ruislip,1,9,513
+4963,481,554,Hampton Court,1,12,513
+4964,684,705,Swiss Cottage,1,25,513
+4965,667,740,Hatton Cross,1,24,644
+4966,509,549,Stonebridge Park,1,13,513
+4967,631,676,Chingford,1,22,644
+4968,640,682,West Dulwich,1,22,513
+4969,716,756,Streatham Hill,1,27,513
+4970,359,409,Northwood Hills,1,3,644
+4971,602,625,Finchley Road,1,20,513
+4972,458,499,Willesden Junction,1,10,513
+4973,678,717,Roding Valley,1,25,513
+4974,640,686,Totteridge,1,22,513
+4975,686,734,Totteridge,1,25,513
+4976,539,580,Totteridge,1,15,644
+4977,420,475,Hayes & Harlington,1,7,513
+4978,512,556,Elm Park,1,14,644
+4979,535,563,Hoxton,1,15,644
+4980,679,721,Wembley Central,1,25,513

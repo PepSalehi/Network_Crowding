@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },                                                                      
+"features": [
+e", "properties": { "id":"940GZZLUVIC", "name":"Victoria","tfl_intid": 741, "tfl_statid": 273, "night": true, "lines":[ { "name": "District" }, { "name": "Circle" }, { "name": "Victoria" } ], "labelX": 30 }, "geometry": { "type": "Point", "coordinates": [ -0.143229499999988, 51.4963585 ] } },
+{ "type": "Feature", "properties": { "id":"940GZZLUVXL", "name":"Vauxhall","tfl_intid": 777, "tfl_statid": 272, "night": true, "lines":[ { "name": "Victoria" } ], "labelX": 30 }, "geometry": { "type": "Point", "coordinates": [ -0.123079599999982, 51.484971699999988 ] } }
+]
+}
