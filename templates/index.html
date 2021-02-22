@@ -1,155 +1,245 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-  <title>Prediction Dashboard</title>
-  <link rel="stylesheet" href="./static/lib/css//bootstrap.min.css">
-  <link rel="stylesheet" href="./static/lib/css/keen-dashboards.css">
-  <link rel="stylesheet" href="./static/lib/css/dc.css">
-  <link rel="stylesheet" href="./static/css/custom.css">
-  <link rel="stylesheet" href="./static/lib/css/leaflet.css">
-  <link rel="stylesheet" href="./static/lib/css/leaflet.markercluster.css">
+  <meta charset="utf-8">
+  <title>Predictive Crowding Simulation</title>
+  <style>
+  body{
+    background-color: #020D1D;
+    /*opacity: 0.75;*/
+  }
+  .boundary {
+    fill: none;
+    stroke: #888;
+    stroke-linejoin: round;
+  }
+  .line {
+    stroke: #FFFFFF;
+    stroke-width: 0.5;
+    stroke-outline:none;
+    fill: none;
+    border-color: #FFFFFF; 
+  }
+  svg {
+    border-style: hidden;
+    border-width: 1px;
+    border-color: #ccc;
+  }
+  .station{
+    fill: #276D61;
+  }
+  .train{
+    fill: orange;
+  }
+
+  #timer {
+    position: absolute;
+    top : 50px;
+    /*right: 15px;*/
+    width: 400px;
+    border-style: hidden;
+  }
+  #map{
+    position: absolute;
+    width :100%;
+    top : 50px;
+
+  }
+
+  .selected{
+    fill: red;
+  }
+
+.btn {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
 
 
-
-</head>
-<body class="application">
-
-  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <a class="navbar-brand" href="./">Demand Distribution Originating from Bank Station Dashboard</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="container-fluid">
-
-
-    <div class="row">
-
-      <div class="col-sm-6">
-        <div class="row">
-
-          <!-- Time Chart --> 
-          <div class="col-sm-12">
-            <div class="chart-wrapper">
-              <div class="chart-title">
-                Arrival Pattern at Origin
-              </div>
-              <div class="chart-stage">
-                <div id="time-chart"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Time Chart --> 
 
    
+.tooltip{
+  position: absolute;
+  z-index: 2;
+  background:  #020D1D; /*#f2efef;   rgba(242, 239, 239,0.1)     rgba(255,0,0,0.1)*/
+  width:350px;
+  height:350px;
+  color:white;
+  font-size: 14px;
+  padding:5px;
+/*  top:-150px;
+  left:-150px;*/
+  /*opacity: 0.5;*/
+  visibility: hidden;
+  top:50px;
+  left:1300px;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
 
-          <!-- Resources Pie -->
-          <div class="col-sm-6">
-            <div class="chart-wrapper">
-              <div class="chart-title">
-                Journey Time Distribution
-              </div>
-              <div class="chart-stage">
-                <div id="resource-type-row-chart"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Resources Pie -->
 
-     <!-- 2ndTime Chart --> 
-      <div class="col-sm-6">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Observed/Historical Arrival Pattern at Origin
-          </div>
-          <div class="chart-stage">
-            <div id="second_time_chart"></div>
-          </div>
-        </div>
-      </div>
-      <!-- 2ndTime Chart --> 
-        </div>
-      </div>
+.stationTooltip{
+  position: absolute;
+  z-index: 2;
+  background:  #020D1D; /*#f2efef;   rgba(242, 239, 239,0.1)     rgba(255,0,0,0.1)*/
+  width:350px;
+  height:350px;
+  color:white;
+  font-size: 14px;
+  padding:5px;
+/*  top:-150px;
+  left:-150px;*/
+  /*opacity: 0.5;*/
+  visibility: hidden;
+  top:400px;
+  left:1450px;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
 
-      <!-- Map -->  
-      <div class="col-sm-6">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Station locations
-          </div>
-          <div class="chart-stage">
-            <div id="us-chart"></div>
-          </div>
-        </div>
-      </div>
-      <!-- Map -->
+.stationTooltip2{
+  position: absolute;
+  z-index: 2;
+  background:  #020D1D; /*#f2efef;   rgba(242, 239, 239,0.1)     rgba(255,0,0,0.1)*/
+  width:350px;
+  height:350px;
+  color:white;
+  font-size: 14px;
+  padding:5px;
+/*  top:-150px;
+  left:-150px;*/
+  /*opacity: 0.5;*/
+  visibility: hidden;
+  top:400px;
+  left:1150px;
+  text-align: center;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+}
+    /* New class for the overlay zoom */
+.overlay {
+  fill: none;
+  pointer-events: all;
+}
+.g {
+  fill: none;
+  pointer-events: all;
+}
 
-      <!-- Metric 2 -->
-      <div class="col-sm-6">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Total Demand 
-          </div>
-          <div class="chart-stage">
-            <div id="total-donations-nd"></div>
-          </div>
-        </div>
-      </div>
-      <!-- Metric 2 -->
-      <!-- Metric 1 -->
-    <!--   <div class="col-sm-3">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Total Historical Demand
-          </div>
-          <div class="chart-stage">
-            <div id="number-projects-nd"></div>
-          </div>
-        </div>
-      </div> -->
-      <!-- Metric 1 -->
-
-      
-    
-
-    </div>
-
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="timer"> </div>
+  <div id="train_tooltip"></div>
+  <div id="station_tooltip"></div>
+  <div id="station_tooltip2"></div>
+  <div class="span12">
+    <button class='btn' id="startBtn">Start</button>
+    <button class='btn' id="pauseBtn">Pause</button>
+    <button class='btn' id="resumeBtn">Resume</button>
+    <button class='btn' id="fasterBtn">Faster</button>
+    <button class='btn' id="slowerBtn">Slower</button>
   </div>
-
-  <div class="row">
-          <!-- Poverty Pie -->
-          <div class="col-sm-12">
-            <div class="chart-wrapper">
-              <div class="chart-title">
-                Destinations
-              </div>
-              <div class="chart-stage">
-                <div id="poverty-level-row-chart"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Poverty Pie -->
-  </div>
-
-  
-
-  </div>
-
-  <script src="./static/lib/js/jquery.min.js"></script>
-  <script src="./static/lib/js/bootstrap.min.js"></script>
-  <script src="./static/lib/js/crossfilter.js"></script>
-  <script src="./static/lib/js/d3.js"></script>
-  <script src="./static/lib/js/dc.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
   <script src="./static/lib/js/queue.js"></script>
-  <script src="./static/lib/js/leaflet.js"></script>
-  <script src="./static/lib/js/dc.leaflet.js"></script>
-  <script src="//d3js.org/topojson.v1.min.js"></script>
+  <script src="./static/js/simvizMap.js"></script>
 
 
-
-  <script src="./static/lib/js/keen.min.js"></script>
-  <script src='./static/js/graphs_new.js' type='text/javascript'></script>
 </body>
-</html>
+
+
+
+<!-- Popular / About Mike Bostock’s Block 1705868 ← 1313857
+Updated May 21, 2016
+Point-Along-Path Interpolation
+
+Open
+This example demonstrates how to use the getTotalLength and getPointAtLength methods on SVG path elements to interpolate a point along a Catmull–Rom spline.
+
+A related technique is stroke dash interpolation.
+
+index.html#
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+<style>
+
+path {
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+
+circle {
+  fill: steelblue;
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+</style>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+var points = [
+  [480, 200],
+  [580, 400],
+  [680, 100],
+  [780, 300],
+  [180, 300],
+  [280, 100],
+  [380, 400]
+];
+
+var svg = d3.select("body").append("svg")
+    .attr("width", 960)
+    .attr("height", 500);
+
+var path = svg.append("path")
+    .data([points])
+    .attr("d", d3.svg.line()
+    .tension(0) // Catmull–Rom
+    .interpolate("cardinal-closed"));
+
+svg.selectAll(".point")
+    .data(points)
+  .enter().append("circle")
+    .attr("r", 4)
+    .attr("transform", function(d) { return "translate(" + d + ")"; });
+
+var circle = svg.append("circle")
+    .attr("r", 13)
+    .attr("transform", "translate(" + points[0] + ")");
+
+transition();
+
+function transition() {
+  circle.transition()
+      .duration(10000)
+      .attrTween("transform", translateAlong(path.node()))
+      .each("end", transition);
+}
+
+// Returns an attrTween for translating along the specified path element.
+function translateAlong(path) {
+  var l = path.getTotalLength();
+  return function(d, i, a) {
+    return function(t) {
+      var p = path.getPointAtLength(t * l);
+      return "translate(" + p.x + "," + p.y + ")";
+    };
+  };
+}
+
+</script>
+LICENSE#
+
+Released under the GNU General Public License, version 3. -->

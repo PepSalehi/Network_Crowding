@@ -1,155 +1,346 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-  <title>Prediction Dashboard</title>
-  <link rel="stylesheet" href="./static/lib/css//bootstrap.min.css">
-  <link rel="stylesheet" href="./static/lib/css/keen-dashboards.css">
-  <link rel="stylesheet" href="./static/lib/css/dc.css">
-  <link rel="stylesheet" href="./static/css/custom.css">
-  <link rel="stylesheet" href="./static/lib/css/leaflet.css">
-  <link rel="stylesheet" href="./static/lib/css/leaflet.markercluster.css">
-
-
-
-</head>
-<body class="application">
-
-  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <a class="navbar-brand" href="./">Demand Distribution Ending at Bank Station Dashboard</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="container-fluid">
-
-
-    <div class="row">
-
-      <div class="col-sm-6">
-        <div class="row">
-
-          <!-- Time Chart --> 
-          <div class="col-sm-12">
-            <div class="chart-wrapper">
-              <div class="chart-title">
-                Arrival Pattern at Destination
-              </div>
-              <div class="chart-stage">
-                <div id="time-chart"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Time Chart --> 
+  <meta charset="utf-8">
+  <title>Mexico</title>
+  <style>
+  .boundary {
+    fill: none;
+    stroke: #888;
+    stroke-linejoin: round;
+  }
+  .line {
+    stroke: #888;
+    stroke-width: 0.5;
+    stroke-outline:none;
+    fill: none;
+  }
+  svg {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #ccc;
+  }
+  .station{
+    fill: red;
+  }
+  .train{
+    fill: orange;
+  }
 
    
+    #tooltip{
+      position: absolute;
+      z-index: 2;
+      background: rgba(0,153,76,0.8);
+      width:130px;
+      height:20px;
+      color:white;
+      font-size: 14px;
+      padding:5px;
+      top:-150px;
+      left:-150px;
+      font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    }
+    /* New class for the overlay zoom */
+    .overlay {
+      fill: none;
+      pointer-events: all;
+    }
+    .g {
+      fill: none;
+      pointer-events: all;
+    }
 
-          <!-- Resources Pie -->
-          <div class="col-sm-6">
-            <div class="chart-wrapper">
-              <div class="chart-title">
-                Journey Time Distribution
-              </div>
-              <div class="chart-stage">
-                <div id="resource-type-row-chart"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Resources Pie -->
-
-     <!-- 2ndTime Chart --> 
-      <div class="col-sm-6">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Observed/Historical Arrival Pattern at Destination
-          </div>
-          <div class="chart-stage">
-            <div id="second_time_chart"></div>
-          </div>
-        </div>
-      </div>
-      <!-- 2ndTime Chart --> 
-        </div>
-      </div>
-
-      <!-- Map -->  
-      <div class="col-sm-6">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Station locations
-          </div>
-          <div class="chart-stage">
-            <div id="us-chart"></div>
-          </div>
-        </div>
-      </div>
-      <!-- Map -->
-
-      <!-- Metric 2 -->
-      <div class="col-sm-6">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Total Demand 
-          </div>
-          <div class="chart-stage">
-            <div id="total-donations-nd"></div>
-          </div>
-        </div>
-      </div>
-      <!-- Metric 2 -->
-      <!-- Metric 1 -->
-    <!--   <div class="col-sm-3">
-        <div class="chart-wrapper">
-          <div class="chart-title">
-            Total Historical Demand
-          </div>
-          <div class="chart-stage">
-            <div id="number-projects-nd"></div>
-          </div>
-        </div>
-      </div> -->
-      <!-- Metric 1 -->
-
-      
-    
-
-    </div>
-
-  </div>
-
-  <div class="row">
-          <!-- Poverty Pie -->
-          <div class="col-sm-12">
-            <div class="chart-wrapper">
-              <div class="chart-title">
-                Origins
-              </div>
-              <div class="chart-stage">
-                <div id="poverty-level-row-chart"></div>
-              </div>
-            </div>
-          </div>
-          <!-- Poverty Pie -->
-  </div>
-
-  
-
-  </div>
-
-  <script src="./static/lib/js/jquery.min.js"></script>
-  <script src="./static/lib/js/bootstrap.min.js"></script>
-  <script src="./static/lib/js/crossfilter.js"></script>
-  <script src="./static/lib/js/d3.js"></script>
-  <script src="./static/lib/js/dc.min.js"></script>
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <div id="tooltip"></div>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script src="http://d3js.org/topojson.v1.min.js"></script>
   <script src="./static/lib/js/queue.js"></script>
-  <script src="./static/lib/js/leaflet.js"></script>
-  <script src="./static/lib/js/dc.leaflet.js"></script>
-  <script src="//d3js.org/topojson.v1.min.js"></script>
+
+  <script>
+
+        queue()
+            .defer(d3.json, "static/geojson/tfl_stations_2.json")
+            .defer(d3.json, "static/geojson/tfl_lines.json")
+            .await(makeGraphs);
+
+        'use strict';
+        var map = []
+        function makeGraphs(error, stationsJson, linesJson) {
+
+          stations = stationsJson;
+
+          var dateFormat = d3.time.format("%y-%b-%d");
+          var timeFormat = d3.time.format("%H:%M");
+
+          central_lines = linesJson.features.filter(function(d) {return(d.properties.lines[0].name=="Central")});
+          central_stations = stationsJson.features.filter(function(d) {return(d.properties.lines[0].name=="Central")});
+
+
+          var height = 600;
+          var width = 1400;
+          var projection = d3.geo.mercator()
+          
+          var path = d3.geo.path().projection(projection);
+
+          // var b, s, t;
+          // projection.scale(1).translate([0, 0]);
+          // var b = path.bounds(stations);
+          // var s = .9 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+          // var t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
+          // projection.scale(s).translate(t);
+
+          // var svg = d3.select("body").append("svg")
+          //             .attr("width", width)
+          //             .attr("height", height)
+          // var g =svg.append('g')
+          //         .call(d3.behavior.zoom()
+          //           .scaleExtent([1,10])
+          //           .on("zoom", zoom));
+          // g.selectAll("path")
+          //   .data(central_lines)
+          //   .enter()
+          //   .append("path")
+          //   .attr("d", path)
+          //   .attr('class', 'line');
+
+
+          // d3.select('g').selectAll("circle")
+          //   .data(central_stations)
+          //   .enter()
+          //   .append("circle")
+          //   .attr("class", "station")
+          //   // .style("fill", "red")
+          //   .attr("r", 3)
+          //   .attr("cx", function(d) {return projection([d.geometry.coordinates[0],d.geometry.coordinates[1]])[0]})
+          //   .attr("cy", function(d) {return projection([d.geometry.coordinates[0],d.geometry.coordinates[1]])[1]});
+
+          // function zoom(){
+          //   g.attr("transform", "translate("+ d3.event.translate + ")scale(" + d3.event.scale + ")");
+          // }
+          
+
+
+          var geoID = function(d) {
+            return "c" + d.properties.name;
+          };
+
+          var click = function(d) {
+            stations.attr('fill-opacity', 0.2); // Another update!
+            d3.select('#' + geoID(d)).attr('fill-opacity', 1);
+          };
+
+          var hover_stations = function(d) {
+            console.log('d', d, 'event', event);
+            var div = document.getElementById('tooltip');
+            div.style.left = event.pageX +'px';
+            div.style.top = event.pageY + 'px';
+            div.innerHTML = d.properties.name;
+          }
+          var hover_lines = function(d) {
+            console.log('d', d, 'event', event);
+            var div = document.getElementById('tooltip');
+            div.style.left = event.pageX +'px';
+            div.style.top = event.pageY + 'px';
+            div.innerHTML = d.properties.id;
+          }
+
+
+            
+
+            // New function
+            var zoom = d3.behavior.zoom()
+                        .scaleExtent([1, 8])
+                        .on("zoom", zoomed);
+
+            // var mapZoom = d3.behavior.zoom()
+            //                 .translate(projection.translate())
+            //                 .scale(projection.scale())
+            //                 .on("zoom", zoomed);
+
+          var path = d3.geo.path().projection(projection);
+
+          var svg = d3.select("#map")
+              .append("svg")
+              .attr("width", width)
+              .attr("height", height)
+              
+          var zoomed = function () {
+              g.attr("transform", "translate("+ d3.event.translate + ")scale(" + d3.event.scale + ")");
+              // stations.attr("transform", "translate("+ d3.event.translate + ")scale(" + d3.event.scale + ")");
+              // lines.attr("transform", "translate("+ d3.event.translate + ")scale(" + d3.event.scale + ")");
+
+            };
+
+          // d3.select("#map")
+          //   .selectAll("path")
+          //   .data(central_stations)
+          //   .enter()
+          //   .append("path")
+          //   .attr("d", path)
+
+
+          
 
 
 
-  <script src="./static/lib/js/keen.min.js"></script>
-  <script src='./static/js/graph_origin.js' type='text/javascript'></script>
+          var b, s, t;
+          projection.scale(1).translate([0, 0]);
+          var b = path.bounds(stations);
+          var s = .9 / Math.max((b[1][0] - b[0][0]) / width, (b[1][1] - b[0][1]) / height);
+          var t = [(width - s * (b[1][0] + b[0][0])) / 2, (height - s * (b[1][1] + b[0][1])) / 2];
+          projection.scale(s).translate(t);
+
+
+
+          var stations = svg.append('g')
+                        .selectAll('path')
+                        .data(central_stations);
+
+          stations.enter()
+             .append('path')
+             .attr('d', path)
+             .attr('id', geoID)
+             .attr('class', 'station')
+             .on("click", click)
+             .on("mouseover", hover_stations);
+
+          // stations.exit().remove();
+
+
+          var lines = svg.append('g')
+            .selectAll('path')
+            .data(central_lines);
+          lines.enter()
+             .append('path')
+             .attr('d', path)
+             .attr('class', 'line')
+             // .on("mouseover", hover_lines);
+
+          lines.exit().remove();
+
+
+          // svg.append("rect")
+          //   .attr("class", "overlay")
+          //   .attr("width", width)
+          //   .attr("height", height)
+          //   .call(zoom);
+
+
+          var trains = svg
+                          .selectAll('trains')
+                          .data(central_stations)
+          trains
+            .enter()
+            .append("circle")
+            .attr({
+              cx: function(d){ return projection(d.geometry.coordinates)[0]}, 
+              cy: function(d){ return projection(d.geometry.coordinates)[1]},
+              r : 5
+            })
+            .attr("d", path)
+            .attr("class", "train")
+
+            console.log(trains)
+            console.log(lines)
+
+          
+
+}
+
+
+
+  </script>
 </body>
-</html>
+
+
+
+<!-- Popular / About Mike Bostock’s Block 1705868 ← 1313857
+Updated May 21, 2016
+Point-Along-Path Interpolation
+
+Open
+This example demonstrates how to use the getTotalLength and getPointAtLength methods on SVG path elements to interpolate a point along a Catmull–Rom spline.
+
+A related technique is stroke dash interpolation.
+
+index.html#
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<body>
+<style>
+
+path {
+  fill: none;
+  stroke: #000;
+  stroke-width: 3px;
+}
+
+circle {
+  fill: steelblue;
+  stroke: #fff;
+  stroke-width: 3px;
+}
+
+</style>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script>
+
+var points = [
+  [480, 200],
+  [580, 400],
+  [680, 100],
+  [780, 300],
+  [180, 300],
+  [280, 100],
+  [380, 400]
+];
+
+var svg = d3.select("body").append("svg")
+    .attr("width", 960)
+    .attr("height", 500);
+
+var path = svg.append("path")
+    .data([points])
+    .attr("d", d3.svg.line()
+    .tension(0) // Catmull–Rom
+    .interpolate("cardinal-closed"));
+
+svg.selectAll(".point")
+    .data(points)
+  .enter().append("circle")
+    .attr("r", 4)
+    .attr("transform", function(d) { return "translate(" + d + ")"; });
+
+var circle = svg.append("circle")
+    .attr("r", 13)
+    .attr("transform", "translate(" + points[0] + ")");
+
+transition();
+
+function transition() {
+  circle.transition()
+      .duration(10000)
+      .attrTween("transform", translateAlong(path.node()))
+      .each("end", transition);
+}
+
+// Returns an attrTween for translating along the specified path element.
+function translateAlong(path) {
+  var l = path.getTotalLength();
+  return function(d, i, a) {
+    return function(t) {
+      var p = path.getPointAtLength(t * l);
+      return "translate(" + p.x + "," + p.y + ")";
+    };
+  };
+}
+
+</script>
+LICENSE#
+
+Released under the GNU General Public License, version 3. -->
